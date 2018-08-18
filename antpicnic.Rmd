@@ -7,14 +7,8 @@ header-includes:
   \newcommand{\blandscape}{\begin{landscape}}
   \newcommand{\elandscape}{\end{landscape}}
 output:
-  pdf_document
-    # toc: true
-    # toc_depth: 3
-    # latex_engine: xelatex    
-    # fig_caption: yes
-  # lof: false
-  # word_document: default
-  # html_document: default
+  # pdf_document
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -91,17 +85,18 @@ basics.country.bp <- d.sel %>% gather(variable,value,-Country,-Biome,-Bait_Type)
     axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)
     ) +
   facet_wrap(variable~., scales = 'free_y', nrow=3)
-```
-
-\newpage
-\newgeometry{margin=0.1in, top=0.1in, headheight=0.0in, footskip=0.2in, includehead, includefoot}
-\blandscape
-```{r basics.country.bp2, echo=FALSE, tidy=FALSE, out.width='0.95\\paperheight', fig.width=11, fig.height=8, fig.align='center'}
-#Box-Plots of variables by country
 basics.country.bp
 ```
-\elandscape
-\restoregeometry
+
+<!-- \newpage -->
+<!-- \newgeometry{margin=0.1in, top=0.1in, headheight=0.0in, footskip=0.2in, includehead, includefoot} -->
+<!-- \blandscape -->
+<!-- ```{r basics.country.bp2, echo=FALSE, tidy=FALSE, out.width='0.95\\paperheight', fig.width=11, fig.height=8, fig.align='center'} -->
+<!-- #Box-Plots of variables by country -->
+<!-- basics.country.bp -->
+<!-- ``` -->
+<!-- \elandscape -->
+<!-- \restoregeometry -->
 
 &nbsp;
 ## Environmental variables and number of ants, by biome
@@ -114,17 +109,18 @@ basics.biome.bp <- d.sel %>% gather(variable,value,-Country,-Biome,-Bait_Type) %
     axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)
     ) +
   facet_wrap(variable~., scales = 'free_y', nrow=3)
-```
-
-\newpage
-\newgeometry{margin=0.1in, top=0.1in, headheight=0.0in, footskip=0.2in, includehead, includefoot}
-\blandscape
-```{r basics.biome.bp2, echo=FALSE, tidy=FALSE, out.width='0.95\\paperheight', fig.width=11, fig.height=8, fig.align='center'}
-#Box-Plots of variables by country
 basics.biome.bp
 ```
-\elandscape
-\restoregeometry
+
+<!-- \newpage -->
+<!-- \newgeometry{margin=0.1in, top=0.1in, headheight=0.0in, footskip=0.2in, includehead, includefoot} -->
+<!-- \blandscape -->
+<!-- ```{r basics.biome.bp2, echo=FALSE, tidy=FALSE, out.width='0.95\\paperheight', fig.width=11, fig.height=8, fig.align='center'} -->
+<!-- #Box-Plots of variables by country -->
+<!-- basics.biome.bp -->
+<!-- ``` -->
+<!-- \elandscape -->
+<!-- \restoregeometry -->
 
 ## Number of ants, by bait type
 ```{r basics.bait.bp, message=FALSE, warning=FALSE, tidy=FALSE, fig.width=8}
