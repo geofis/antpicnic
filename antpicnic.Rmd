@@ -1,0 +1,48 @@
+---
+title: 'Playing with the Ant Picnic dataset'
+author: Jose R. Martínez Batlle
+date: "August, 2018"
+output:
+  pdf_document
+    # toc: true
+    # toc_depth: 3
+    # latex_engine: xelatex    
+    # fig_caption: yes
+  # lof: false
+  # word_document: default
+  # html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, tidy=TRUE)
+```
+
+# Packages and scripts
+
+## Packages
+```{r, message=FALSE, warning=FALSE, tidy=TRUE}
+library(dplyr) #Organize data
+library(ez) #ezCor function, compute an plot correlation matrix
+library(devtools) #For R packages, R scripts
+library(gclus) #For order.single function
+```
+
+## Scripts
+```{r, message=FALSE, warning=FALSE, tidy=TRUE}
+scripts.others <- c(
+  'panelutils.R', #Correlation coefficients upper panel
+  'coldiss.R' #Color plots of a dissimilarity matrix, without and with ordering
+  )
+ghsource.others <- paste('https://raw.githubusercontent.com/JoeyBernhardt/NumericalEcology/master/')
+invisible(sapply(
+    scripts.others,
+    function(x) source_url(paste0(ghsource.others, x))
+    ))
+```
+
+# Correlation matrices
+```{r readdata, tidy=FALSE}
+#Reading source data. CSV file downloaded from: https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=35710
+
+```
+&nbsp;

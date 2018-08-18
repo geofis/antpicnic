@@ -1,0 +1,1009 @@
+Country,Biome,Bait_Type,TotalAntBaitType,newAttr,Site_ID,Latitude,Longitude,Date,Habitat_type,Elevation,Distance_from_shore,Precipitation,Temperature,Contributor,Site_Details,Number_of_Ants,Percent_of_Baits_with_Ants
+Finland,Woodland/Shrubland,Amino Acids,2,,278,63.0902,25.8366,,forest edge,155,152,589,2.5,Sorvari,1/1/2001,0,0
+Finland,Woodland/Shrubland,Amino Acids,2,,282,65.4416,29.6259,,Bushy forest road,260,202,588,-0.1,Sorvari,2/1/2001,0,0
+Finland,Woodland/Shrubland,Amino Acids,2,,279,63.1143,25.8004,,forest edge,115,153,590,2.4,Sorvari,2/1/2001,0,0
+Finland,Woodland/Shrubland,Amino Acids,2,,283,59.8438,23.2024,,sand dune - pine forest,10,4,604,5.3,Sorvari,Hankoniemi,0,0
+Finland,Woodland/Shrubland,Amino Acids,2,,281,65.449,29.5654,,Open pine forest,222,204,585,0,Sorvari,Hossa1,1,20
+Finland,Woodland/Shrubland,Amino Acids,2,,286,60.4383,22.1995,,Broad-leaf Forest,16,1,665,5.2,Sorvari,Ruissalo Turku,0,0
+Finland,Woodland/Shrubland,Amino Acids,2,,280,63.8474,27.4453,,Forest edge - pine bog,140,150,573,1.7,Sorvari,Sukeva,0,0
+Finland,Woodland/Shrubland,Amino Acids,2,,284,60.4557,22.2835,,rocky forest,50,25,672,5.2,Sorvari,University hill Turku,1,20
+Finland,Woodland/Shrubland,Amino Acids,2,,285,60.6306,22.3104,,Pine Forest,50,2,676,4.8,Sorvari,Vahto,0,0
+Finland,Woodland/Shrubland,Cookie,139,,278,63.0902,25.8366,,forest edge,155,152,589,2.5,Sorvari,1/1/2001,4,40
+Finland,Woodland/Shrubland,Cookie,139,,282,65.4416,29.6259,,Bushy forest road,260,202,588,-0.1,Sorvari,2/1/2001,10,100
+Finland,Woodland/Shrubland,Cookie,139,,279,63.1143,25.8004,,forest edge,115,153,590,2.4,Sorvari,2/1/2001,3,20
+Finland,Woodland/Shrubland,Cookie,139,,283,59.8438,23.2024,,sand dune - pine forest,10,4,604,5.3,Sorvari,Hankoniemi,42,60
+Finland,Woodland/Shrubland,Cookie,139,,281,65.449,29.5654,,Open pine forest,222,204,585,0,Sorvari,Hossa1,9,60
+Finland,Woodland/Shrubland,Cookie,139,,286,60.4383,22.1995,,Broad-leaf Forest,16,1,665,5.2,Sorvari,Ruissalo Turku,10,40
+Finland,Woodland/Shrubland,Cookie,139,,280,63.8474,27.4453,,Forest edge - pine bog,140,150,573,1.7,Sorvari,Sukeva,1,20
+Finland,Woodland/Shrubland,Cookie,139,,284,60.4557,22.2835,,rocky forest,50,25,672,5.2,Sorvari,University hill Turku,52,40
+Finland,Woodland/Shrubland,Cookie,139,,285,60.6306,22.3104,,Pine Forest,50,2,676,4.8,Sorvari,Vahto,8,40
+Finland,Woodland/Shrubland,Sugar,211,,278,63.0902,25.8366,,forest edge,155,152,589,2.5,Sorvari,1/1/2001,9,80
+Finland,Woodland/Shrubland,Sugar,211,,282,65.4416,29.6259,,Bushy forest road,260,202,588,-0.1,Sorvari,2/1/2001,5,60
+Finland,Woodland/Shrubland,Sugar,211,,279,63.1143,25.8004,,forest edge,115,153,590,2.4,Sorvari,2/1/2001,9,40
+Finland,Woodland/Shrubland,Sugar,211,,283,59.8438,23.2024,,sand dune - pine forest,10,4,604,5.3,Sorvari,Hankoniemi,32,60
+Finland,Woodland/Shrubland,Sugar,211,,281,65.449,29.5654,,Open pine forest,222,204,585,0,Sorvari,Hossa1,54,60
+Finland,Woodland/Shrubland,Sugar,211,,286,60.4383,22.1995,,Broad-leaf Forest,16,1,665,5.2,Sorvari,Ruissalo Turku,1,20
+Finland,Woodland/Shrubland,Sugar,211,,280,63.8474,27.4453,,Forest edge - pine bog,140,150,573,1.7,Sorvari,Sukeva,9,60
+Finland,Woodland/Shrubland,Sugar,211,,284,60.4557,22.2835,,rocky forest,50,25,672,5.2,Sorvari,University hill Turku,19,40
+Finland,Woodland/Shrubland,Sugar,211,,285,60.6306,22.3104,,Pine Forest,50,2,676,4.8,Sorvari,Vahto,73,40
+Finland,Woodland/Shrubland,Water,2,,278,63.0902,25.8366,,forest edge,155,152,589,2.5,Sorvari,1/1/2001,0,0
+Finland,Woodland/Shrubland,Water,2,,282,65.4416,29.6259,,Bushy forest road,260,202,588,-0.1,Sorvari,2/1/2001,0,0
+Finland,Woodland/Shrubland,Water,2,,279,63.1143,25.8004,,forest edge,115,153,590,2.4,Sorvari,2/1/2001,0,0
+Finland,Woodland/Shrubland,Water,2,,283,59.8438,23.2024,,sand dune - pine forest,10,4,604,5.3,Sorvari,Hankoniemi,2,20
+Finland,Woodland/Shrubland,Water,2,,281,65.449,29.5654,,Open pine forest,222,204,585,0,Sorvari,Hossa1,0,0
+Finland,Woodland/Shrubland,Water,2,,286,60.4383,22.1995,,Broad-leaf Forest,16,1,665,5.2,Sorvari,Ruissalo Turku,0,0
+Finland,Woodland/Shrubland,Water,2,,280,63.8474,27.4453,,Forest edge - pine bog,140,150,573,1.7,Sorvari,Sukeva,0,0
+Finland,Woodland/Shrubland,Water,2,,284,60.4557,22.2835,,rocky forest,50,25,672,5.2,Sorvari,University hill Turku,0,0
+Finland,Woodland/Shrubland,Water,2,,285,60.6306,22.3104,,Pine Forest,50,2,676,4.8,Sorvari,Vahto,0,0
+Finland,Woodland/Shrubland,Olive Oil,92,,278,63.0902,25.8366,,forest edge,155,152,589,2.5,Sorvari,1/1/2001,0,0
+Finland,Woodland/Shrubland,Olive Oil,92,,282,65.4416,29.6259,,Bushy forest road,260,202,588,-0.1,Sorvari,2/1/2001,0,0
+Finland,Woodland/Shrubland,Olive Oil,92,,279,63.1143,25.8004,,forest edge,115,153,590,2.4,Sorvari,2/1/2001,0,0
+Finland,Woodland/Shrubland,Olive Oil,92,,283,59.8438,23.2024,,sand dune - pine forest,10,4,604,5.3,Sorvari,Hankoniemi,82,20
+Finland,Woodland/Shrubland,Olive Oil,92,,281,65.449,29.5654,,Open pine forest,222,204,585,0,Sorvari,Hossa1,0,0
+Finland,Woodland/Shrubland,Olive Oil,92,,286,60.4383,22.1995,,Broad-leaf Forest,16,1,665,5.2,Sorvari,Ruissalo Turku,1,20
+Finland,Woodland/Shrubland,Olive Oil,92,,280,63.8474,27.4453,,Forest edge - pine bog,140,150,573,1.7,Sorvari,Sukeva,0,0
+Finland,Woodland/Shrubland,Olive Oil,92,,284,60.4557,22.2835,,rocky forest,50,25,672,5.2,Sorvari,University hill Turku,8,20
+Finland,Woodland/Shrubland,Olive Oil,92,,285,60.6306,22.3104,,Pine Forest,50,2,676,4.8,Sorvari,Vahto,1,20
+Finland,Woodland/Shrubland,Salt,8,,278,63.0902,25.8366,,forest edge,155,152,589,2.5,Sorvari,1/1/2001,1,20
+Finland,Woodland/Shrubland,Salt,8,,282,65.4416,29.6259,,Bushy forest road,260,202,588,-0.1,Sorvari,2/1/2001,0,0
+Finland,Woodland/Shrubland,Salt,8,,279,63.1143,25.8004,,forest edge,115,153,590,2.4,Sorvari,2/1/2001,0,0
+Finland,Woodland/Shrubland,Salt,8,,283,59.8438,23.2024,,sand dune - pine forest,10,4,604,5.3,Sorvari,Hankoniemi,1,20
+Finland,Woodland/Shrubland,Salt,8,,281,65.449,29.5654,,Open pine forest,222,204,585,0,Sorvari,Hossa1,1,20
+Finland,Woodland/Shrubland,Salt,8,,286,60.4383,22.1995,,Broad-leaf Forest,16,1,665,5.2,Sorvari,Ruissalo Turku,0,0
+Finland,Woodland/Shrubland,Salt,8,,280,63.8474,27.4453,,Forest edge - pine bog,140,150,573,1.7,Sorvari,Sukeva,4,60
+Finland,Woodland/Shrubland,Salt,8,,284,60.4557,22.2835,,rocky forest,50,25,672,5.2,Sorvari,University hill Turku,0,0
+Finland,Woodland/Shrubland,Salt,8,,285,60.6306,22.3104,,Pine Forest,50,2,676,4.8,Sorvari,Vahto,1,20
+Australia,Tropical seasonal forest/Savanna,Amino Acids,386,,50,-13.2333,131.1,,,58,7,1318,27.2,Andersen,adelelaie river,0,0
+Australia,Tropical seasonal forest/Savanna,Amino Acids,386,,49,-12.6998,131.0166,,,25,7,1486,27.3,Andersen,Bery springs,21,60
+Australia,Tropical seasonal forest/Savanna,Amino Acids,386,,54,-14.5822,132.467,,,162,296,966,27.1,Andersen,cutta cutta,120,60
+Australia,Tropical seasonal forest/Savanna,Amino Acids,386,,48,-12.4667,130.8333,,,102,1,1492,27.8,Andersen,Darwin,15,60
+Australia,Tropical seasonal forest/Savanna,Amino Acids,386,,52,-14.1893,132.1884,,,176,232,1115,27.1,Andersen,edith falls,42,100
+Australia,Tropical seasonal forest/Savanna,Amino Acids,386,,53,-14.4667,132.2667,,,209,261,998,27.5,Andersen,katherine,183,80
+Australia,Tropical seasonal forest/Savanna,Amino Acids,386,,51,-13.8167,131.8333,,,154,181,1224,26.7,Andersen,pine creek,4,20
+Australia,Tropical seasonal forest/Savanna,Amino Acids,386,,224,-15.61538333,131.1262889,,Tropical savanna woodland,51,173,842,27.3,H. Gibb,,1,20
+Australia,Desert,Amino Acids,258,,56,-16.25,133.3667,,,211,420,700,26.4,Andersen,daly waters,224,100
+Australia,Desert,Amino Acids,258,,55,-15.5833,133.2167,,,187,393,794,26.8,Andersen,larrimah,19,60
+Australia,Desert,Amino Acids,258,,217,-23.3422,138.32358,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,164,663,223,23.6,H. Gibb,,3,60
+Australia,Desert,Amino Acids,258,,216,-23.3205,138.42942,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,163,656,224,23.7,H. Gibb,,2,20
+Australia,Desert,Amino Acids,258,,219,-30.22567,136.542848,,Desert - Arid - Low dunes,102,330,167,20,H. Gibb,,1,20
+Australia,Desert,Amino Acids,258,,218,-30.224017,136.541835,,Desert - Arid - Low dunes,102,331,167,20,H. Gibb,,9,60
+Australia,Grassland/Cold desert,Amino Acids,11,,220,-33.15007,141.13033,,Semi arid - Dune - Open mallee Eucalyptus woodland - Spinifex (Triodia scariosa),87,289,241,17.6,H. Gibb,,2,40
+Australia,Grassland/Cold desert,Amino Acids,11,,221,-33.125331,141.100784,,Semi-arid - Belah (Casuarina pauper) woodland,59,285,239,17.6,H. Gibb,,3,40
+Australia,Grassland/Cold desert,Amino Acids,11,,222,-34.51691,139.454647,,Semi-arid - Open mallee Eucalyptus woodland,89,82,290,16,H. Gibb,,5,20
+Australia,Grassland/Cold desert,Amino Acids,11,,223,-34.522127,139.445399,,Semi-arid - Open mallee Eucalyptus woodland,92,84,290,16,H. Gibb,,1,20
+Australia,Temperate seasonal forest,Amino Acids,24,,292,-37.87,144.22,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,33,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,0,0
+Australia,Temperate seasonal forest,Amino Acids,24,,291,-37.865,144.215,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,35,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,0,0
+Australia,Temperate seasonal forest,Amino Acids,24,,289,-37.647,149.355,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,15,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,2,20
+Australia,Temperate seasonal forest,Amino Acids,24,,290,-37.65,149.36,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,19,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,3,40
+Australia,Temperate seasonal forest,Amino Acids,24,,293,-37.801,145.382,,Open Eucalyptus forest with a semidominant Ptreidium esculentum {Austral bracken) and Acacia myrtifolia shrub layer,265,36,1097,13.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Dandenong Ranges National park. Victoria Australia.,4,40
+Australia,Temperate seasonal forest,Amino Acids,24,,287,-37.128,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,137,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,10,20
+Australia,Temperate seasonal forest,Amino Acids,24,,288,-37.13,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,139,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,5,20
+Australia,Tropical seasonal forest/Savanna,Cookie,1644,,50,-13.2333,131.1,,,58,7,1318,27.2,Andersen,adelelaie river,6,20
+Australia,Tropical seasonal forest/Savanna,Cookie,1644,,49,-12.6998,131.0166,,,25,7,1486,27.3,Andersen,Bery springs,17,60
+Australia,Tropical seasonal forest/Savanna,Cookie,1644,,54,-14.5822,132.467,,,162,296,966,27.1,Andersen,cutta cutta,61,80
+Australia,Tropical seasonal forest/Savanna,Cookie,1644,,48,-12.4667,130.8333,,,102,1,1492,27.8,Andersen,Darwin,213,100
+Australia,Tropical seasonal forest/Savanna,Cookie,1644,,52,-14.1893,132.1884,,,176,232,1115,27.1,Andersen,edith falls,164,100
+Australia,Tropical seasonal forest/Savanna,Cookie,1644,,53,-14.4667,132.2667,,,209,261,998,27.5,Andersen,katherine,1079,100
+Australia,Tropical seasonal forest/Savanna,Cookie,1644,,51,-13.8167,131.8333,,,154,181,1224,26.7,Andersen,pine creek,101,80
+Australia,Tropical seasonal forest/Savanna,Cookie,1644,,224,-15.61538333,131.1262889,,Tropical savanna woodland,51,173,842,27.3,H. Gibb,,3,20
+Australia,Tropical seasonal forest/Savanna,Sugar,1049,,50,-13.2333,131.1,,,58,7,1318,27.2,Andersen,adelelaie river,3,20
+Australia,Tropical seasonal forest/Savanna,Sugar,1049,,49,-12.6998,131.0166,,,25,7,1486,27.3,Andersen,Bery springs,19,60
+Australia,Tropical seasonal forest/Savanna,Sugar,1049,,54,-14.5822,132.467,,,162,296,966,27.1,Andersen,cutta cutta,64,80
+Australia,Tropical seasonal forest/Savanna,Sugar,1049,,48,-12.4667,130.8333,,,102,1,1492,27.8,Andersen,Darwin,168,60
+Australia,Tropical seasonal forest/Savanna,Sugar,1049,,52,-14.1893,132.1884,,,176,232,1115,27.1,Andersen,edith falls,266,100
+Australia,Tropical seasonal forest/Savanna,Sugar,1049,,53,-14.4667,132.2667,,,209,261,998,27.5,Andersen,katherine,456,80
+Australia,Tropical seasonal forest/Savanna,Sugar,1049,,51,-13.8167,131.8333,,,154,181,1224,26.7,Andersen,pine creek,44,40
+Australia,Tropical seasonal forest/Savanna,Sugar,1049,,224,-15.61538333,131.1262889,,Tropical savanna woodland,51,173,842,27.3,H. Gibb,,29,80
+Australia,Tropical seasonal forest/Savanna,Water,155,,50,-13.2333,131.1,,,58,7,1318,27.2,Andersen,adelelaie river,0,0
+Australia,Tropical seasonal forest/Savanna,Water,155,,49,-12.6998,131.0166,,,25,7,1486,27.3,Andersen,Bery springs,17,60
+Australia,Tropical seasonal forest/Savanna,Water,155,,54,-14.5822,132.467,,,162,296,966,27.1,Andersen,cutta cutta,2,20
+Australia,Tropical seasonal forest/Savanna,Water,155,,48,-12.4667,130.8333,,,102,1,1492,27.8,Andersen,Darwin,75,60
+Australia,Tropical seasonal forest/Savanna,Water,155,,52,-14.1893,132.1884,,,176,232,1115,27.1,Andersen,edith falls,4,20
+Australia,Tropical seasonal forest/Savanna,Water,155,,53,-14.4667,132.2667,,,209,261,998,27.5,Andersen,katherine,43,100
+Australia,Tropical seasonal forest/Savanna,Water,155,,51,-13.8167,131.8333,,,154,181,1224,26.7,Andersen,pine creek,1,20
+Australia,Tropical seasonal forest/Savanna,Water,155,,224,-15.61538333,131.1262889,,Tropical savanna woodland,51,173,842,27.3,H. Gibb,,13,60
+Australia,Tropical seasonal forest/Savanna,Olive Oil,954,,50,-13.2333,131.1,,,58,7,1318,27.2,Andersen,adelelaie river,2,40
+Australia,Tropical seasonal forest/Savanna,Olive Oil,954,,49,-12.6998,131.0166,,,25,7,1486,27.3,Andersen,Bery springs,60,40
+Australia,Tropical seasonal forest/Savanna,Olive Oil,954,,54,-14.5822,132.467,,,162,296,966,27.1,Andersen,cutta cutta,361,60
+Australia,Tropical seasonal forest/Savanna,Olive Oil,954,,48,-12.4667,130.8333,,,102,1,1492,27.8,Andersen,Darwin,147,80
+Australia,Tropical seasonal forest/Savanna,Olive Oil,954,,52,-14.1893,132.1884,,,176,232,1115,27.1,Andersen,edith falls,203,80
+Australia,Tropical seasonal forest/Savanna,Olive Oil,954,,53,-14.4667,132.2667,,,209,261,998,27.5,Andersen,katherine,149,40
+Australia,Tropical seasonal forest/Savanna,Olive Oil,954,,51,-13.8167,131.8333,,,154,181,1224,26.7,Andersen,pine creek,0,0
+Australia,Tropical seasonal forest/Savanna,Olive Oil,954,,224,-15.61538333,131.1262889,,Tropical savanna woodland,51,173,842,27.3,H. Gibb,,32,60
+Australia,Tropical seasonal forest/Savanna,Salt,408,,50,-13.2333,131.1,,,58,7,1318,27.2,Andersen,adelelaie river,2,40
+Australia,Tropical seasonal forest/Savanna,Salt,408,,49,-12.6998,131.0166,,,25,7,1486,27.3,Andersen,Bery springs,68,40
+Australia,Tropical seasonal forest/Savanna,Salt,408,,54,-14.5822,132.467,,,162,296,966,27.1,Andersen,cutta cutta,6,20
+Australia,Tropical seasonal forest/Savanna,Salt,408,,48,-12.4667,130.8333,,,102,1,1492,27.8,Andersen,Darwin,107,80
+Australia,Tropical seasonal forest/Savanna,Salt,408,,52,-14.1893,132.1884,,,176,232,1115,27.1,Andersen,edith falls,18,60
+Australia,Tropical seasonal forest/Savanna,Salt,408,,53,-14.4667,132.2667,,,209,261,998,27.5,Andersen,katherine,176,40
+Australia,Tropical seasonal forest/Savanna,Salt,408,,51,-13.8167,131.8333,,,154,181,1224,26.7,Andersen,pine creek,1,20
+Australia,Tropical seasonal forest/Savanna,Salt,408,,224,-15.61538333,131.1262889,,Tropical savanna woodland,51,173,842,27.3,H. Gibb,,30,60
+Australia,Desert,Cookie,270,,56,-16.25,133.3667,,,211,420,700,26.4,Andersen,daly waters,169,100
+Australia,Desert,Cookie,270,,55,-15.5833,133.2167,,,187,393,794,26.8,Andersen,larrimah,34,60
+Australia,Desert,Cookie,270,,217,-23.3422,138.32358,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,164,663,223,23.6,H. Gibb,,9,60
+Australia,Desert,Cookie,270,,216,-23.3205,138.42942,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,163,656,224,23.7,H. Gibb,,10,60
+Australia,Desert,Cookie,270,,219,-30.22567,136.542848,,Desert - Arid - Low dunes,102,330,167,20,H. Gibb,,25,60
+Australia,Desert,Cookie,270,,218,-30.224017,136.541835,,Desert - Arid - Low dunes,102,331,167,20,H. Gibb,,23,80
+Australia,Desert,Sugar,646,,56,-16.25,133.3667,,,211,420,700,26.4,Andersen,daly waters,415,100
+Australia,Desert,Sugar,646,,55,-15.5833,133.2167,,,187,393,794,26.8,Andersen,larrimah,50,80
+Australia,Desert,Sugar,646,,217,-23.3422,138.32358,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,164,663,223,23.6,H. Gibb,,3,40
+Australia,Desert,Sugar,646,,216,-23.3205,138.42942,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,163,656,224,23.7,H. Gibb,,6,40
+Australia,Desert,Sugar,646,,219,-30.22567,136.542848,,Desert - Arid - Low dunes,102,330,167,20,H. Gibb,,142,60
+Australia,Desert,Sugar,646,,218,-30.224017,136.541835,,Desert - Arid - Low dunes,102,331,167,20,H. Gibb,,30,80
+Australia,Desert,Water,264,,56,-16.25,133.3667,,,211,420,700,26.4,Andersen,daly waters,242,100
+Australia,Desert,Water,264,,55,-15.5833,133.2167,,,187,393,794,26.8,Andersen,larrimah,13,40
+Australia,Desert,Water,264,,217,-23.3422,138.32358,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,164,663,223,23.6,H. Gibb,,0,0
+Australia,Desert,Water,264,,216,-23.3205,138.42942,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,163,656,224,23.7,H. Gibb,,4,40
+Australia,Desert,Water,264,,219,-30.22567,136.542848,,Desert - Arid - Low dunes,102,330,167,20,H. Gibb,,0,0
+Australia,Desert,Water,264,,218,-30.224017,136.541835,,Desert - Arid - Low dunes,102,331,167,20,H. Gibb,,5,40
+Australia,Desert,Olive Oil,176,,56,-16.25,133.3667,,,211,420,700,26.4,Andersen,daly waters,96,80
+Australia,Desert,Olive Oil,176,,55,-15.5833,133.2167,,,187,393,794,26.8,Andersen,larrimah,35,20
+Australia,Desert,Olive Oil,176,,217,-23.3422,138.32358,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,164,663,223,23.6,H. Gibb,,7,40
+Australia,Desert,Olive Oil,176,,216,-23.3205,138.42942,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,163,656,224,23.7,H. Gibb,,3,60
+Australia,Desert,Olive Oil,176,,219,-30.22567,136.542848,,Desert - Arid - Low dunes,102,330,167,20,H. Gibb,,0,0
+Australia,Desert,Olive Oil,176,,218,-30.224017,136.541835,,Desert - Arid - Low dunes,102,331,167,20,H. Gibb,,35,40
+Australia,Desert,Salt,310,,56,-16.25,133.3667,,,211,420,700,26.4,Andersen,daly waters,292,100
+Australia,Desert,Salt,310,,55,-15.5833,133.2167,,,187,393,794,26.8,Andersen,larrimah,1,20
+Australia,Desert,Salt,310,,217,-23.3422,138.32358,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,164,663,223,23.6,H. Gibb,,1,20
+Australia,Desert,Salt,310,,216,-23.3205,138.42942,,Desert - Arid - Dune - Spinifex (Triodia irritans)-dominated,163,656,224,23.7,H. Gibb,,1,20
+Australia,Desert,Salt,310,,219,-30.22567,136.542848,,Desert - Arid - Low dunes,102,330,167,20,H. Gibb,,1,20
+Australia,Desert,Salt,310,,218,-30.224017,136.541835,,Desert - Arid - Low dunes,102,331,167,20,H. Gibb,,14,80
+Australia,Grassland/Cold desert,Cookie,71,,220,-33.15007,141.13033,,Semi arid - Dune - Open mallee Eucalyptus woodland - Spinifex (Triodia scariosa),87,289,241,17.6,H. Gibb,,14,100
+Australia,Grassland/Cold desert,Cookie,71,,221,-33.125331,141.100784,,Semi-arid - Belah (Casuarina pauper) woodland,59,285,239,17.6,H. Gibb,,14,80
+Australia,Grassland/Cold desert,Cookie,71,,222,-34.51691,139.454647,,Semi-arid - Open mallee Eucalyptus woodland,89,82,290,16,H. Gibb,,28,80
+Australia,Grassland/Cold desert,Cookie,71,,223,-34.522127,139.445399,,Semi-arid - Open mallee Eucalyptus woodland,92,84,290,16,H. Gibb,,15,60
+Australia,Grassland/Cold desert,Sugar,276,,220,-33.15007,141.13033,,Semi arid - Dune - Open mallee Eucalyptus woodland - Spinifex (Triodia scariosa),87,289,241,17.6,H. Gibb,,64,100
+Australia,Grassland/Cold desert,Sugar,276,,221,-33.125331,141.100784,,Semi-arid - Belah (Casuarina pauper) woodland,59,285,239,17.6,H. Gibb,,165,100
+Australia,Grassland/Cold desert,Sugar,276,,222,-34.51691,139.454647,,Semi-arid - Open mallee Eucalyptus woodland,89,82,290,16,H. Gibb,,34,80
+Australia,Grassland/Cold desert,Sugar,276,,223,-34.522127,139.445399,,Semi-arid - Open mallee Eucalyptus woodland,92,84,290,16,H. Gibb,,13,80
+Australia,Grassland/Cold desert,Water,15,,220,-33.15007,141.13033,,Semi arid - Dune - Open mallee Eucalyptus woodland - Spinifex (Triodia scariosa),87,289,241,17.6,H. Gibb,,7,40
+Australia,Grassland/Cold desert,Water,15,,221,-33.125331,141.100784,,Semi-arid - Belah (Casuarina pauper) woodland,59,285,239,17.6,H. Gibb,,0,0
+Australia,Grassland/Cold desert,Water,15,,222,-34.51691,139.454647,,Semi-arid - Open mallee Eucalyptus woodland,89,82,290,16,H. Gibb,,6,60
+Australia,Grassland/Cold desert,Water,15,,223,-34.522127,139.445399,,Semi-arid - Open mallee Eucalyptus woodland,92,84,290,16,H. Gibb,,2,20
+Australia,Grassland/Cold desert,Olive Oil,103,,220,-33.15007,141.13033,,Semi arid - Dune - Open mallee Eucalyptus woodland - Spinifex (Triodia scariosa),87,289,241,17.6,H. Gibb,,94,60
+Australia,Grassland/Cold desert,Olive Oil,103,,221,-33.125331,141.100784,,Semi-arid - Belah (Casuarina pauper) woodland,59,285,239,17.6,H. Gibb,,1,20
+Australia,Grassland/Cold desert,Olive Oil,103,,222,-34.51691,139.454647,,Semi-arid - Open mallee Eucalyptus woodland,89,82,290,16,H. Gibb,,8,60
+Australia,Grassland/Cold desert,Olive Oil,103,,223,-34.522127,139.445399,,Semi-arid - Open mallee Eucalyptus woodland,92,84,290,16,H. Gibb,,0,0
+Australia,Grassland/Cold desert,Salt,24,,220,-33.15007,141.13033,,Semi arid - Dune - Open mallee Eucalyptus woodland - Spinifex (Triodia scariosa),87,289,241,17.6,H. Gibb,,3,40
+Australia,Grassland/Cold desert,Salt,24,,221,-33.125331,141.100784,,Semi-arid - Belah (Casuarina pauper) woodland,59,285,239,17.6,H. Gibb,,0,0
+Australia,Grassland/Cold desert,Salt,24,,222,-34.51691,139.454647,,Semi-arid - Open mallee Eucalyptus woodland,89,82,290,16,H. Gibb,,19,20
+Australia,Grassland/Cold desert,Salt,24,,223,-34.522127,139.445399,,Semi-arid - Open mallee Eucalyptus woodland,92,84,290,16,H. Gibb,,2,20
+Australia,Temperate seasonal forest,Cookie,278,,292,-37.87,144.22,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,33,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,1,20
+Australia,Temperate seasonal forest,Cookie,278,,291,-37.865,144.215,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,35,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,26,40
+Australia,Temperate seasonal forest,Cookie,278,,289,-37.647,149.355,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,15,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,6,60
+Australia,Temperate seasonal forest,Cookie,278,,290,-37.65,149.36,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,19,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,18,40
+Australia,Temperate seasonal forest,Cookie,278,,293,-37.801,145.382,,Open Eucalyptus forest with a semidominant Ptreidium esculentum {Austral bracken) and Acacia myrtifolia shrub layer,265,36,1097,13.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Dandenong Ranges National park. Victoria Australia.,4,20
+Australia,Temperate seasonal forest,Cookie,278,,287,-37.128,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,137,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,217,80
+Australia,Temperate seasonal forest,Cookie,278,,288,-37.13,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,139,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,6,60
+Australia,Temperate seasonal forest,Sugar,181,,292,-37.87,144.22,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,33,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,11,60
+Australia,Temperate seasonal forest,Sugar,181,,291,-37.865,144.215,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,35,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,0,0
+Australia,Temperate seasonal forest,Sugar,181,,289,-37.647,149.355,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,15,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,1,20
+Australia,Temperate seasonal forest,Sugar,181,,290,-37.65,149.36,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,19,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,36,80
+Australia,Temperate seasonal forest,Sugar,181,,293,-37.801,145.382,,Open Eucalyptus forest with a semidominant Ptreidium esculentum {Austral bracken) and Acacia myrtifolia shrub layer,265,36,1097,13.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Dandenong Ranges National park. Victoria Australia.,17,40
+Australia,Temperate seasonal forest,Sugar,181,,287,-37.128,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,137,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,97,80
+Australia,Temperate seasonal forest,Sugar,181,,288,-37.13,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,139,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,19,100
+Australia,Temperate seasonal forest,Water,29,,292,-37.87,144.22,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,33,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,0,0
+Australia,Temperate seasonal forest,Water,29,,291,-37.865,144.215,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,35,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,28,20
+Australia,Temperate seasonal forest,Water,29,,289,-37.647,149.355,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,15,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,0,0
+Australia,Temperate seasonal forest,Water,29,,290,-37.65,149.36,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,19,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,0,0
+Australia,Temperate seasonal forest,Water,29,,293,-37.801,145.382,,Open Eucalyptus forest with a semidominant Ptreidium esculentum {Austral bracken) and Acacia myrtifolia shrub layer,265,36,1097,13.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Dandenong Ranges National park. Victoria Australia.,0,0
+Australia,Temperate seasonal forest,Water,29,,287,-37.128,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,137,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,0,0
+Australia,Temperate seasonal forest,Water,29,,288,-37.13,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,139,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,1,20
+Australia,Temperate seasonal forest,Olive Oil,277,,292,-37.87,144.22,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,33,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,0,0
+Australia,Temperate seasonal forest,Olive Oil,277,,291,-37.865,144.215,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,35,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,51,20
+Australia,Temperate seasonal forest,Olive Oil,277,,289,-37.647,149.355,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,15,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,0,0
+Australia,Temperate seasonal forest,Olive Oil,277,,290,-37.65,149.36,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,19,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,0,0
+Australia,Temperate seasonal forest,Olive Oil,277,,293,-37.801,145.382,,Open Eucalyptus forest with a semidominant Ptreidium esculentum {Austral bracken) and Acacia myrtifolia shrub layer,265,36,1097,13.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Dandenong Ranges National park. Victoria Australia.,1,20
+Australia,Temperate seasonal forest,Olive Oil,277,,287,-37.128,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,137,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,116,20
+Australia,Temperate seasonal forest,Olive Oil,277,,288,-37.13,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,139,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,109,40
+Australia,Temperate seasonal forest,Salt,5,,292,-37.87,144.22,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,33,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,0,0
+Australia,Temperate seasonal forest,Salt,5,,291,-37.865,144.215,,Low open Eucalyptus forest with shrub layer dominated by Acacia myrtifolia,325,35,723,12.7,A.E. Mart?nez Bauer; G.C. Mart?nez,Brisbane Ranges National Park. Victoria Australia.,3,40
+Australia,Temperate seasonal forest,Salt,5,,289,-37.647,149.355,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,15,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,2,20
+Australia,Temperate seasonal forest,Salt,5,,290,-37.65,149.36,,Open Eucalyptus forest of species shrub layer composed mainly by Acacia myrtifolia,177,19,1002,14.2,A.E. Mart?nez Bauer; G.C. Mart?nez,Croajingolong National Park. Victoria Australia,0,0
+Australia,Temperate seasonal forest,Salt,5,,293,-37.801,145.382,,Open Eucalyptus forest with a semidominant Ptreidium esculentum {Austral bracken) and Acacia myrtifolia shrub layer,265,36,1097,13.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Dandenong Ranges National park. Victoria Australia.,0,0
+Australia,Temperate seasonal forest,Salt,5,,287,-37.128,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,137,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,0,0
+Australia,Temperate seasonal forest,Salt,5,,288,-37.13,142.366,,Low open Eucalyptus forest with shrub layer dominated by Xanthorrhoea australis (Austral grass tree),386,139,831,12.4,A.E. Mart?nez Bauer; G.C. Mart?nez,Grampians National Park. Victoria Australia,0,0
+USA,Temperate seasonal forest,Amino Acids,21,,204,41.41852778,-74.02680556,,Oak-dominated hardwood forest; north-facing,172,58,1136,10,Ellison,BlackRockForest,2,40
+USA,Temperate seasonal forest,Amino Acids,21,,193,36.017,-78.98,,Mixed Deciduous Forest,152,206,1164,14.6,,Duke_Forest,3,20
+USA,Temperate seasonal forest,Amino Acids,21,,214,27.18186667,-81.34703611,,live oak forest,9,69,1249,22.2,Wills; Suarez,,0,0
+USA,Temperate seasonal forest,Amino Acids,21,,272,33.352,-81.542,,Long Leaf Pine,93,179,1198,17.3,Reasco,,2,40
+USA,Temperate seasonal forest,Amino Acids,21,,271,33.34,-81.54,,Long Leaf Pine,100,177,1205,17.3,Reasco,,1,20
+USA,Temperate seasonal forest,Amino Acids,21,,240,38.81666667,-92.11666667,,Oak-Hickory Forest,250,1348,975,12.2,N. Sanders,,11,40
+USA,Temperate seasonal forest,Amino Acids,21,,239,44.2092,-86.0143,,Oak.Maple forest. Red pine plantation nearby,224,1121,853,7.4,S. Menke,,2,40
+USA,Temperate seasonal forest,Amino Acids,21,,274,35.10118056,-92.41219167,,Old Field,130,609,1258,15.9,N. Sanders,,0,0
+USA,Temperate seasonal forest,Amino Acids,21,,226,35.60648333,-83.79703611,,Old Field. at forest ecotone,547,282,1467,12.4,Lessard,,0,0
+USA,Temperate seasonal forest,Amino Acids,21,,228,38.99143056,-88.58683056,,secondary forest fragment,172,996,1017,12,Wills; Suarez,,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,160,44.874952,-73.633574,,Jack pine barrens on bedrock. Very little mineral soil. Trees numerous. but little canopy cover (see photographs below). Vegetation beneath 1m dominated by lichen. moss. grass (crinkled hair grass - Deschampsia flexuosa). black chokeberry (Aronia melanocarpa). late low blueberry (Vaccinium angustifolium). and black huckleberry (Gaylussacia baccata). Trees dominated by jack pine (Pinus banksiana).,244,313,873,5.7,Barber,Alton-Flat Rock,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,125,42.738069,-73.892004,,Maintained field on sandy soil with scattered clumps of oak and pine trees. Dominated by grasses. Rubus spp. (mostly R. flagellaris). Solidago spp.. Rumex acetosella. and Dichanthelium clandestinum,140,243,955,8.4,Barber,Baron's Field - Barber,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,126,43.15613333,-73.6958,,Maintained field. sandy soil. dominated by grasses. Monarda punctata. Rubus spp. (mostly R. flagellaris).and Centaurea maculosa. Very few trees.,100,248,1003,7.9,Barber,Camp Saratoga - Barber,3,20
+USA,Woodland/Shrubland,Amino Acids,73,,198,45.95408333,-68.37594444,,Bog,153,129,1005,4.4,Ellison; Del Toro; Ribbons,CrystalBog,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,127,42.7195,-73.863617,,Maintained field on sandy soil dominated by grasses. Centaurea maculosa. and Arenaria lateriflora. Very few trees.,100,245,955,8.4,Barber,Discovery Field - Barber,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,200,44.94472222,-68.44486111,,Skid trail/logged area to black spruce bog,103,59,1103,5.9,Ellison; Del Toro; Ribbons,HorsebackBog/BearDenHill,1,20
+USA,Woodland/Shrubland,Amino Acids,73,,201,44.76133333,-67.79713889,,Birch/aspen/blueberry into Black Spruce Bog,75,24,1223,6,Ellison; Del Toro; Ribbons,MontegailPeatland,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,195,46.22622222,-69.41991667,,Into spruce woods. east from road,338,127,982,3.4,Ellison; Del Toro; Ribbons,NorthWoods,1,20
+USA,Woodland/Shrubland,Amino Acids,73,,196,47.11,-69.54,,Abandoned logging road/secondgrowth,426,55,1010,2.5,Ellison; Del Toro; Ribbons,RoadToChimenticookFen,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,128,43.230524,-75.578867,,Maintained field on sandy soil with a few clusters of trees. dominated by grasses and Rubus flagellaris.,125,399,1097,7.7,Barber,Rome Sand Plains - Barber,2,40
+USA,Woodland/Shrubland,Amino Acids,73,,115,40.7001,-77.8896,,Temperate forest,590,198,991,9.4,Baccaro,Rothrock-Baccaro,3,40
+USA,Woodland/Shrubland,Amino Acids,73,,205,42.471,-72.202,,Hemlock-dominated. alongside trail at Simes Tract,275,106,1140,7.1,Ellison,Simes,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,199,45.88636111,-68.55222222,,Spruce/Fir/Cedar forest,120,132,1010,4.4,Ellison; Del Toro; Ribbons,UplandofHathamBog,1,20
+USA,Woodland/Shrubland,Amino Acids,73,,225,35.6794,-83.55834444,,Forest. hardwood cove forest,500,469,1459,11.6,Lessard,,3,40
+USA,Woodland/Shrubland,Amino Acids,73,,229,37.50016667,-89.34723056,,forested ridge,125,1087,1181,13.3,Wills; Suarez,,4,40
+USA,Woodland/Shrubland,Amino Acids,73,,190,31.44805556,-110.283,,Low elevation Oak Woodland,1600,269,501,14.8,Del Toro,,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,177,31.88392,-109.20679,,oak-pine-juniper woodland,1650,375,521,12.2,C.S. Moreau; A.S. Suarez,,4,40
+USA,Woodland/Shrubland,Amino Acids,73,,179,31.89956,-109.23863,,oak-pine-juniper woodland,1900,386,526,12.3,C.S. Moreau; A.S. Suarez,,1,20
+USA,Woodland/Shrubland,Amino Acids,73,,233,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,816,721,2.6,S. Menke,,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,237,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,820,721,2.6,S. Menke,,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,236,48.05136,-90.40514,,Pine.Birch. bog habitat,529,817,720,2.8,S. Menke,,9,40
+USA,Woodland/Shrubland,Amino Acids,73,,232,48.05136,-90.40514,,Pine.Birch. bog habitat,529,819,720,2.8,S. Menke,,9,40
+USA,Woodland/Shrubland,Amino Acids,73,,231,42.2544083,-88.6617284,,Prairie,242,1088,901,8.5,S. Menke,,16,60
+USA,Woodland/Shrubland,Amino Acids,73,,230,42.1916329,-88.3016351,,Prairie,255,1099,913,8.5,S. Menke,,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,227,40.12869444,-88.12194444,,restored prairie. grassland,210,1037,951,10.8,Wills; Suarez,,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,197,45.95938889,-68.36152778,,RR Tracks/weeds,157,135,999,4.4,Ellison; Del Toro; Ribbons,,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,238,42.429745,-88.307401,,Tallgrass prairie,235,1272,896,8.4,S. Menke,,0,0
+USA,Woodland/Shrubland,Amino Acids,73,,235,42.2544083,-88.6617284,,Tallgrass prairie,242,1099,901,8.5,S. Menke,,16,60
+USA,Woodland/Shrubland,Amino Acids,73,,234,42.1916329,-88.3016351,,Tallgrass prairie,255,1088,913,8.5,S. Menke,,0,0
+USA,Tropical seasonal forest/Savanna,Amino Acids,0,,212,27.17781667,-81.14472222,,palm woodland - oaks. palms and grass,8.8,92,1195,22.5,Wills; Suarez,,0,0
+USA,Tropical seasonal forest/Savanna,Amino Acids,0,,215,24.56006667,-81.76386667,,Subtropical hammock forest,2,1,1004,25.2,C.S. Moreau,,0,0
+USA,Tropical seasonal forest/Savanna,Amino Acids,0,,213,25.12555,-80.40801667,,Subtropical hammock forest,21,1,1265,24.4,C.S. Moreau,,0,0
+USA,Tropical seasonal forest/Savanna,Amino Acids,0,,211,25.2773,-80.2983,,Subtropical hammock forest,16,1,1343,24.2,C.S. Moreau,,0,0
+USA,Grassland/Cold desert,Amino Acids,3,,191,31.91433333,-106.0421111,,Chihuahuan Desert Scrub,1402,676,248,16.2,Del Toro,,0,0
+USA,Grassland/Cold desert,Amino Acids,3,,192,31.89938889,-106.5038889,,Chihuahuan Desert Scrub,1720,667,253,15.9,Del Toro,,0,0
+USA,Grassland/Cold desert,Amino Acids,3,,178,31.94739,-109.13681,,cresote-mesquite desert,1390,379,401,14.4,C.S. Moreau; A.S. Suarez,,1,20
+USA,Grassland/Cold desert,Amino Acids,3,,273,38.719,-106.816,,Mixed aspen sage brush,2760,1021,464,1.2,N. Sanders,,2,40
+USA,Temperate seasonal forest,Cookie,649,,204,41.41852778,-74.02680556,,Oak-dominated hardwood forest; north-facing,172,58,1136,10,Ellison,BlackRockForest,1,20
+USA,Temperate seasonal forest,Cookie,649,,193,36.017,-78.98,,Mixed Deciduous Forest,152,206,1164,14.6,,Duke_Forest,117,80
+USA,Temperate seasonal forest,Cookie,649,,214,27.18186667,-81.34703611,,live oak forest,9,69,1249,22.2,Wills; Suarez,,140,80
+USA,Temperate seasonal forest,Cookie,649,,272,33.352,-81.542,,Long Leaf Pine,93,179,1198,17.3,Reasco,,13,80
+USA,Temperate seasonal forest,Cookie,649,,271,33.34,-81.54,,Long Leaf Pine,100,177,1205,17.3,Reasco,,89,80
+USA,Temperate seasonal forest,Cookie,649,,240,38.81666667,-92.11666667,,Oak-Hickory Forest,250,1348,975,12.2,N. Sanders,,17,20
+USA,Temperate seasonal forest,Cookie,649,,239,44.2092,-86.0143,,Oak.Maple forest. Red pine plantation nearby,224,1121,853,7.4,S. Menke,,128,60
+USA,Temperate seasonal forest,Cookie,649,,274,35.10118056,-92.41219167,,Old Field,130,609,1258,15.9,N. Sanders,,123,100
+USA,Temperate seasonal forest,Cookie,649,,226,35.60648333,-83.79703611,,Old Field. at forest ecotone,547,282,1467,12.4,Lessard,,16,80
+USA,Temperate seasonal forest,Cookie,649,,228,38.99143056,-88.58683056,,secondary forest fragment,172,996,1017,12,Wills; Suarez,,5,40
+USA,Temperate seasonal forest,Sugar,592,,204,41.41852778,-74.02680556,,Oak-dominated hardwood forest; north-facing,172,58,1136,10,Ellison,BlackRockForest,0,0
+USA,Temperate seasonal forest,Sugar,592,,193,36.017,-78.98,,Mixed Deciduous Forest,152,206,1164,14.6,,Duke_Forest,118,80
+USA,Temperate seasonal forest,Sugar,592,,214,27.18186667,-81.34703611,,live oak forest,9,69,1249,22.2,Wills; Suarez,,46,40
+USA,Temperate seasonal forest,Sugar,592,,272,33.352,-81.542,,Long Leaf Pine,93,179,1198,17.3,Reasco,,232,100
+USA,Temperate seasonal forest,Sugar,592,,271,33.34,-81.54,,Long Leaf Pine,100,177,1205,17.3,Reasco,,34,100
+USA,Temperate seasonal forest,Sugar,592,,240,38.81666667,-92.11666667,,Oak-Hickory Forest,250,1348,975,12.2,N. Sanders,,30,20
+USA,Temperate seasonal forest,Sugar,592,,239,44.2092,-86.0143,,Oak.Maple forest. Red pine plantation nearby,224,1121,853,7.4,S. Menke,,89,80
+USA,Temperate seasonal forest,Sugar,592,,274,35.10118056,-92.41219167,,Old Field,130,609,1258,15.9,N. Sanders,,36,80
+USA,Temperate seasonal forest,Sugar,592,,226,35.60648333,-83.79703611,,Old Field. at forest ecotone,547,282,1467,12.4,Lessard,,6,60
+USA,Temperate seasonal forest,Sugar,592,,228,38.99143056,-88.58683056,,secondary forest fragment,172,996,1017,12,Wills; Suarez,,1,20
+USA,Temperate seasonal forest,Water,5,,204,41.41852778,-74.02680556,,Oak-dominated hardwood forest; north-facing,172,58,1136,10,Ellison,BlackRockForest,1,20
+USA,Temperate seasonal forest,Water,5,,193,36.017,-78.98,,Mixed Deciduous Forest,152,206,1164,14.6,,Duke_Forest,0,0
+USA,Temperate seasonal forest,Water,5,,214,27.18186667,-81.34703611,,live oak forest,9,69,1249,22.2,Wills; Suarez,,0,0
+USA,Temperate seasonal forest,Water,5,,272,33.352,-81.542,,Long Leaf Pine,93,179,1198,17.3,Reasco,,1,20
+USA,Temperate seasonal forest,Water,5,,271,33.34,-81.54,,Long Leaf Pine,100,177,1205,17.3,Reasco,,3,20
+USA,Temperate seasonal forest,Water,5,,240,38.81666667,-92.11666667,,Oak-Hickory Forest,250,1348,975,12.2,N. Sanders,,0,0
+USA,Temperate seasonal forest,Water,5,,239,44.2092,-86.0143,,Oak.Maple forest. Red pine plantation nearby,224,1121,853,7.4,S. Menke,,0,0
+USA,Temperate seasonal forest,Water,5,,274,35.10118056,-92.41219167,,Old Field,130,609,1258,15.9,N. Sanders,,0,0
+USA,Temperate seasonal forest,Water,5,,226,35.60648333,-83.79703611,,Old Field. at forest ecotone,547,282,1467,12.4,Lessard,,0,0
+USA,Temperate seasonal forest,Water,5,,228,38.99143056,-88.58683056,,secondary forest fragment,172,996,1017,12,Wills; Suarez,,0,0
+USA,Temperate seasonal forest,Olive Oil,1937,,204,41.41852778,-74.02680556,,Oak-dominated hardwood forest; north-facing,172,58,1136,10,Ellison,BlackRockForest,31,60
+USA,Temperate seasonal forest,Olive Oil,1937,,193,36.017,-78.98,,Mixed Deciduous Forest,152,206,1164,14.6,,Duke_Forest,404,40
+USA,Temperate seasonal forest,Olive Oil,1937,,214,27.18186667,-81.34703611,,live oak forest,9,69,1249,22.2,Wills; Suarez,,901,100
+USA,Temperate seasonal forest,Olive Oil,1937,,272,33.352,-81.542,,Long Leaf Pine,93,179,1198,17.3,Reasco,,106,80
+USA,Temperate seasonal forest,Olive Oil,1937,,271,33.34,-81.54,,Long Leaf Pine,100,177,1205,17.3,Reasco,,193,100
+USA,Temperate seasonal forest,Olive Oil,1937,,240,38.81666667,-92.11666667,,Oak-Hickory Forest,250,1348,975,12.2,N. Sanders,,13,20
+USA,Temperate seasonal forest,Olive Oil,1937,,239,44.2092,-86.0143,,Oak.Maple forest. Red pine plantation nearby,224,1121,853,7.4,S. Menke,,31,60
+USA,Temperate seasonal forest,Olive Oil,1937,,274,35.10118056,-92.41219167,,Old Field,130,609,1258,15.9,N. Sanders,,95,60
+USA,Temperate seasonal forest,Olive Oil,1937,,226,35.60648333,-83.79703611,,Old Field. at forest ecotone,547,282,1467,12.4,Lessard,,163,60
+USA,Temperate seasonal forest,Olive Oil,1937,,228,38.99143056,-88.58683056,,secondary forest fragment,172,996,1017,12,Wills; Suarez,,0,0
+USA,Temperate seasonal forest,Salt,275,,204,41.41852778,-74.02680556,,Oak-dominated hardwood forest; north-facing,172,58,1136,10,Ellison,BlackRockForest,3,20
+USA,Temperate seasonal forest,Salt,275,,193,36.017,-78.98,,Mixed Deciduous Forest,152,206,1164,14.6,,Duke_Forest,10,40
+USA,Temperate seasonal forest,Salt,275,,214,27.18186667,-81.34703611,,live oak forest,9,69,1249,22.2,Wills; Suarez,,4,40
+USA,Temperate seasonal forest,Salt,275,,272,33.352,-81.542,,Long Leaf Pine,93,179,1198,17.3,Reasco,,226,100
+USA,Temperate seasonal forest,Salt,275,,271,33.34,-81.54,,Long Leaf Pine,100,177,1205,17.3,Reasco,,1,20
+USA,Temperate seasonal forest,Salt,275,,240,38.81666667,-92.11666667,,Oak-Hickory Forest,250,1348,975,12.2,N. Sanders,,0,0
+USA,Temperate seasonal forest,Salt,275,,239,44.2092,-86.0143,,Oak.Maple forest. Red pine plantation nearby,224,1121,853,7.4,S. Menke,,26,60
+USA,Temperate seasonal forest,Salt,275,,274,35.10118056,-92.41219167,,Old Field,130,609,1258,15.9,N. Sanders,,4,40
+USA,Temperate seasonal forest,Salt,275,,226,35.60648333,-83.79703611,,Old Field. at forest ecotone,547,282,1467,12.4,Lessard,,0,0
+USA,Temperate seasonal forest,Salt,275,,228,38.99143056,-88.58683056,,secondary forest fragment,172,996,1017,12,Wills; Suarez,,1,20
+USA,Woodland/Shrubland,Cookie,944,,160,44.874952,-73.633574,,Jack pine barrens on bedrock. Very little mineral soil. Trees numerous. but little canopy cover (see photographs below). Vegetation beneath 1m dominated by lichen. moss. grass (crinkled hair grass - Deschampsia flexuosa). black chokeberry (Aronia melanocarpa). late low blueberry (Vaccinium angustifolium). and black huckleberry (Gaylussacia baccata). Trees dominated by jack pine (Pinus banksiana).,244,313,873,5.7,Barber,Alton-Flat Rock,9,80
+USA,Woodland/Shrubland,Cookie,944,,125,42.738069,-73.892004,,Maintained field on sandy soil with scattered clumps of oak and pine trees. Dominated by grasses. Rubus spp. (mostly R. flagellaris). Solidago spp.. Rumex acetosella. and Dichanthelium clandestinum,140,243,955,8.4,Barber,Baron's Field - Barber,44,80
+USA,Woodland/Shrubland,Cookie,944,,126,43.15613333,-73.6958,,Maintained field. sandy soil. dominated by grasses. Monarda punctata. Rubus spp. (mostly R. flagellaris).and Centaurea maculosa. Very few trees.,100,248,1003,7.9,Barber,Camp Saratoga - Barber,5,60
+USA,Woodland/Shrubland,Cookie,944,,198,45.95408333,-68.37594444,,Bog,153,129,1005,4.4,Ellison; Del Toro; Ribbons,CrystalBog,28,80
+USA,Woodland/Shrubland,Cookie,944,,127,42.7195,-73.863617,,Maintained field on sandy soil dominated by grasses. Centaurea maculosa. and Arenaria lateriflora. Very few trees.,100,245,955,8.4,Barber,Discovery Field - Barber,50,80
+USA,Woodland/Shrubland,Cookie,944,,200,44.94472222,-68.44486111,,Skid trail/logged area to black spruce bog,103,59,1103,5.9,Ellison; Del Toro; Ribbons,HorsebackBog/BearDenHill,2,20
+USA,Woodland/Shrubland,Cookie,944,,201,44.76133333,-67.79713889,,Birch/aspen/blueberry into Black Spruce Bog,75,24,1223,6,Ellison; Del Toro; Ribbons,MontegailPeatland,2,20
+USA,Woodland/Shrubland,Cookie,944,,195,46.22622222,-69.41991667,,Into spruce woods. east from road,338,127,982,3.4,Ellison; Del Toro; Ribbons,NorthWoods,5,40
+USA,Woodland/Shrubland,Cookie,944,,196,47.11,-69.54,,Abandoned logging road/secondgrowth,426,55,1010,2.5,Ellison; Del Toro; Ribbons,RoadToChimenticookFen,16,100
+USA,Woodland/Shrubland,Cookie,944,,128,43.230524,-75.578867,,Maintained field on sandy soil with a few clusters of trees. dominated by grasses and Rubus flagellaris.,125,399,1097,7.7,Barber,Rome Sand Plains - Barber,12,40
+USA,Woodland/Shrubland,Cookie,944,,115,40.7001,-77.8896,,Temperate forest,590,198,991,9.4,Baccaro,Rothrock-Baccaro,6,40
+USA,Woodland/Shrubland,Cookie,944,,205,42.471,-72.202,,Hemlock-dominated. alongside trail at Simes Tract,275,106,1140,7.1,Ellison,Simes,3,20
+USA,Woodland/Shrubland,Cookie,944,,199,45.88636111,-68.55222222,,Spruce/Fir/Cedar forest,120,132,1010,4.4,Ellison; Del Toro; Ribbons,UplandofHathamBog,0,0
+USA,Woodland/Shrubland,Cookie,944,,225,35.6794,-83.55834444,,Forest. hardwood cove forest,500,469,1459,11.6,Lessard,,46,60
+USA,Woodland/Shrubland,Cookie,944,,229,37.50016667,-89.34723056,,forested ridge,125,1087,1181,13.3,Wills; Suarez,,7,80
+USA,Woodland/Shrubland,Cookie,944,,190,31.44805556,-110.283,,Low elevation Oak Woodland,1600,269,501,14.8,Del Toro,,25,40
+USA,Woodland/Shrubland,Cookie,944,,177,31.88392,-109.20679,,oak-pine-juniper woodland,1650,375,521,12.2,C.S. Moreau; A.S. Suarez,,8,60
+USA,Woodland/Shrubland,Cookie,944,,179,31.89956,-109.23863,,oak-pine-juniper woodland,1900,386,526,12.3,C.S. Moreau; A.S. Suarez,,0,0
+USA,Woodland/Shrubland,Cookie,944,,233,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,816,721,2.6,S. Menke,,2,40
+USA,Woodland/Shrubland,Cookie,944,,237,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,820,721,2.6,S. Menke,,2,40
+USA,Woodland/Shrubland,Cookie,944,,236,48.05136,-90.40514,,Pine.Birch. bog habitat,529,817,720,2.8,S. Menke,,5,40
+USA,Woodland/Shrubland,Cookie,944,,232,48.05136,-90.40514,,Pine.Birch. bog habitat,529,819,720,2.8,S. Menke,,5,40
+USA,Woodland/Shrubland,Cookie,944,,231,42.2544083,-88.6617284,,Prairie,242,1088,901,8.5,S. Menke,,260,80
+USA,Woodland/Shrubland,Cookie,944,,230,42.1916329,-88.3016351,,Prairie,255,1099,913,8.5,S. Menke,,27,80
+USA,Woodland/Shrubland,Cookie,944,,227,40.12869444,-88.12194444,,restored prairie. grassland,210,1037,951,10.8,Wills; Suarez,,25,60
+USA,Woodland/Shrubland,Cookie,944,,197,45.95938889,-68.36152778,,RR Tracks/weeds,157,135,999,4.4,Ellison; Del Toro; Ribbons,,9,60
+USA,Woodland/Shrubland,Cookie,944,,238,42.429745,-88.307401,,Tallgrass prairie,235,1272,896,8.4,S. Menke,,54,40
+USA,Woodland/Shrubland,Cookie,944,,235,42.2544083,-88.6617284,,Tallgrass prairie,242,1099,901,8.5,S. Menke,,260,80
+USA,Woodland/Shrubland,Cookie,944,,234,42.1916329,-88.3016351,,Tallgrass prairie,255,1088,913,8.5,S. Menke,,27,80
+USA,Woodland/Shrubland,Sugar,1579,,160,44.874952,-73.633574,,Jack pine barrens on bedrock. Very little mineral soil. Trees numerous. but little canopy cover (see photographs below). Vegetation beneath 1m dominated by lichen. moss. grass (crinkled hair grass - Deschampsia flexuosa). black chokeberry (Aronia melanocarpa). late low blueberry (Vaccinium angustifolium). and black huckleberry (Gaylussacia baccata). Trees dominated by jack pine (Pinus banksiana).,244,313,873,5.7,Barber,Alton-Flat Rock,0,0
+USA,Woodland/Shrubland,Sugar,1579,,125,42.738069,-73.892004,,Maintained field on sandy soil with scattered clumps of oak and pine trees. Dominated by grasses. Rubus spp. (mostly R. flagellaris). Solidago spp.. Rumex acetosella. and Dichanthelium clandestinum,140,243,955,8.4,Barber,Baron's Field - Barber,80,80
+USA,Woodland/Shrubland,Sugar,1579,,126,43.15613333,-73.6958,,Maintained field. sandy soil. dominated by grasses. Monarda punctata. Rubus spp. (mostly R. flagellaris).and Centaurea maculosa. Very few trees.,100,248,1003,7.9,Barber,Camp Saratoga - Barber,8,40
+USA,Woodland/Shrubland,Sugar,1579,,198,45.95408333,-68.37594444,,Bog,153,129,1005,4.4,Ellison; Del Toro; Ribbons,CrystalBog,6,60
+USA,Woodland/Shrubland,Sugar,1579,,127,42.7195,-73.863617,,Maintained field on sandy soil dominated by grasses. Centaurea maculosa. and Arenaria lateriflora. Very few trees.,100,245,955,8.4,Barber,Discovery Field - Barber,36,80
+USA,Woodland/Shrubland,Sugar,1579,,200,44.94472222,-68.44486111,,Skid trail/logged area to black spruce bog,103,59,1103,5.9,Ellison; Del Toro; Ribbons,HorsebackBog/BearDenHill,10,40
+USA,Woodland/Shrubland,Sugar,1579,,201,44.76133333,-67.79713889,,Birch/aspen/blueberry into Black Spruce Bog,75,24,1223,6,Ellison; Del Toro; Ribbons,MontegailPeatland,5,40
+USA,Woodland/Shrubland,Sugar,1579,,195,46.22622222,-69.41991667,,Into spruce woods. east from road,338,127,982,3.4,Ellison; Del Toro; Ribbons,NorthWoods,2,40
+USA,Woodland/Shrubland,Sugar,1579,,196,47.11,-69.54,,Abandoned logging road/secondgrowth,426,55,1010,2.5,Ellison; Del Toro; Ribbons,RoadToChimenticookFen,1,20
+USA,Woodland/Shrubland,Sugar,1579,,128,43.230524,-75.578867,,Maintained field on sandy soil with a few clusters of trees. dominated by grasses and Rubus flagellaris.,125,399,1097,7.7,Barber,Rome Sand Plains - Barber,4,40
+USA,Woodland/Shrubland,Sugar,1579,,115,40.7001,-77.8896,,Temperate forest,590,198,991,9.4,Baccaro,Rothrock-Baccaro,72,40
+USA,Woodland/Shrubland,Sugar,1579,,205,42.471,-72.202,,Hemlock-dominated. alongside trail at Simes Tract,275,106,1140,7.1,Ellison,Simes,0,0
+USA,Woodland/Shrubland,Sugar,1579,,199,45.88636111,-68.55222222,,Spruce/Fir/Cedar forest,120,132,1010,4.4,Ellison; Del Toro; Ribbons,UplandofHathamBog,0,0
+USA,Woodland/Shrubland,Sugar,1579,,225,35.6794,-83.55834444,,Forest. hardwood cove forest,500,469,1459,11.6,Lessard,,159,100
+USA,Woodland/Shrubland,Sugar,1579,,229,37.50016667,-89.34723056,,forested ridge,125,1087,1181,13.3,Wills; Suarez,,193,100
+USA,Woodland/Shrubland,Sugar,1579,,190,31.44805556,-110.283,,Low elevation Oak Woodland,1600,269,501,14.8,Del Toro,,97,80
+USA,Woodland/Shrubland,Sugar,1579,,177,31.88392,-109.20679,,oak-pine-juniper woodland,1650,375,521,12.2,C.S. Moreau; A.S. Suarez,,56,100
+USA,Woodland/Shrubland,Sugar,1579,,179,31.89956,-109.23863,,oak-pine-juniper woodland,1900,386,526,12.3,C.S. Moreau; A.S. Suarez,,3,40
+USA,Woodland/Shrubland,Sugar,1579,,233,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,816,721,2.6,S. Menke,,1,20
+USA,Woodland/Shrubland,Sugar,1579,,237,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,820,721,2.6,S. Menke,,1,20
+USA,Woodland/Shrubland,Sugar,1579,,236,48.05136,-90.40514,,Pine.Birch. bog habitat,529,817,720,2.8,S. Menke,,9,80
+USA,Woodland/Shrubland,Sugar,1579,,232,48.05136,-90.40514,,Pine.Birch. bog habitat,529,819,720,2.8,S. Menke,,9,80
+USA,Woodland/Shrubland,Sugar,1579,,231,42.2544083,-88.6617284,,Prairie,242,1088,901,8.5,S. Menke,,315,100
+USA,Woodland/Shrubland,Sugar,1579,,230,42.1916329,-88.3016351,,Prairie,255,1099,913,8.5,S. Menke,,14,100
+USA,Woodland/Shrubland,Sugar,1579,,227,40.12869444,-88.12194444,,restored prairie. grassland,210,1037,951,10.8,Wills; Suarez,,14,60
+USA,Woodland/Shrubland,Sugar,1579,,197,45.95938889,-68.36152778,,RR Tracks/weeds,157,135,999,4.4,Ellison; Del Toro; Ribbons,,15,60
+USA,Woodland/Shrubland,Sugar,1579,,238,42.429745,-88.307401,,Tallgrass prairie,235,1272,896,8.4,S. Menke,,140,60
+USA,Woodland/Shrubland,Sugar,1579,,235,42.2544083,-88.6617284,,Tallgrass prairie,242,1099,901,8.5,S. Menke,,315,100
+USA,Woodland/Shrubland,Sugar,1579,,234,42.1916329,-88.3016351,,Tallgrass prairie,255,1088,913,8.5,S. Menke,,14,100
+USA,Woodland/Shrubland,Water,78,,160,44.874952,-73.633574,,Jack pine barrens on bedrock. Very little mineral soil. Trees numerous. but little canopy cover (see photographs below). Vegetation beneath 1m dominated by lichen. moss. grass (crinkled hair grass - Deschampsia flexuosa). black chokeberry (Aronia melanocarpa). late low blueberry (Vaccinium angustifolium). and black huckleberry (Gaylussacia baccata). Trees dominated by jack pine (Pinus banksiana).,244,313,873,5.7,Barber,Alton-Flat Rock,0,0
+USA,Woodland/Shrubland,Water,78,,125,42.738069,-73.892004,,Maintained field on sandy soil with scattered clumps of oak and pine trees. Dominated by grasses. Rubus spp. (mostly R. flagellaris). Solidago spp.. Rumex acetosella. and Dichanthelium clandestinum,140,243,955,8.4,Barber,Baron's Field - Barber,0,0
+USA,Woodland/Shrubland,Water,78,,126,43.15613333,-73.6958,,Maintained field. sandy soil. dominated by grasses. Monarda punctata. Rubus spp. (mostly R. flagellaris).and Centaurea maculosa. Very few trees.,100,248,1003,7.9,Barber,Camp Saratoga - Barber,7,20
+USA,Woodland/Shrubland,Water,78,,198,45.95408333,-68.37594444,,Bog,153,129,1005,4.4,Ellison; Del Toro; Ribbons,CrystalBog,0,0
+USA,Woodland/Shrubland,Water,78,,127,42.7195,-73.863617,,Maintained field on sandy soil dominated by grasses. Centaurea maculosa. and Arenaria lateriflora. Very few trees.,100,245,955,8.4,Barber,Discovery Field - Barber,27,80
+USA,Woodland/Shrubland,Water,78,,200,44.94472222,-68.44486111,,Skid trail/logged area to black spruce bog,103,59,1103,5.9,Ellison; Del Toro; Ribbons,HorsebackBog/BearDenHill,0,0
+USA,Woodland/Shrubland,Water,78,,201,44.76133333,-67.79713889,,Birch/aspen/blueberry into Black Spruce Bog,75,24,1223,6,Ellison; Del Toro; Ribbons,MontegailPeatland,0,0
+USA,Woodland/Shrubland,Water,78,,195,46.22622222,-69.41991667,,Into spruce woods. east from road,338,127,982,3.4,Ellison; Del Toro; Ribbons,NorthWoods,0,0
+USA,Woodland/Shrubland,Water,78,,196,47.11,-69.54,,Abandoned logging road/secondgrowth,426,55,1010,2.5,Ellison; Del Toro; Ribbons,RoadToChimenticookFen,0,0
+USA,Woodland/Shrubland,Water,78,,128,43.230524,-75.578867,,Maintained field on sandy soil with a few clusters of trees. dominated by grasses and Rubus flagellaris.,125,399,1097,7.7,Barber,Rome Sand Plains - Barber,0,0
+USA,Woodland/Shrubland,Water,78,,115,40.7001,-77.8896,,Temperate forest,590,198,991,9.4,Baccaro,Rothrock-Baccaro,0,0
+USA,Woodland/Shrubland,Water,78,,205,42.471,-72.202,,Hemlock-dominated. alongside trail at Simes Tract,275,106,1140,7.1,Ellison,Simes,0,0
+USA,Woodland/Shrubland,Water,78,,199,45.88636111,-68.55222222,,Spruce/Fir/Cedar forest,120,132,1010,4.4,Ellison; Del Toro; Ribbons,UplandofHathamBog,0,0
+USA,Woodland/Shrubland,Water,78,,225,35.6794,-83.55834444,,Forest. hardwood cove forest,500,469,1459,11.6,Lessard,,0,0
+USA,Woodland/Shrubland,Water,78,,229,37.50016667,-89.34723056,,forested ridge,125,1087,1181,13.3,Wills; Suarez,,0,0
+USA,Woodland/Shrubland,Water,78,,190,31.44805556,-110.283,,Low elevation Oak Woodland,1600,269,501,14.8,Del Toro,,4,40
+USA,Woodland/Shrubland,Water,78,,177,31.88392,-109.20679,,oak-pine-juniper woodland,1650,375,521,12.2,C.S. Moreau; A.S. Suarez,,2,40
+USA,Woodland/Shrubland,Water,78,,179,31.89956,-109.23863,,oak-pine-juniper woodland,1900,386,526,12.3,C.S. Moreau; A.S. Suarez,,0,0
+USA,Woodland/Shrubland,Water,78,,233,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,816,721,2.6,S. Menke,,0,0
+USA,Woodland/Shrubland,Water,78,,237,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,820,721,2.6,S. Menke,,0,0
+USA,Woodland/Shrubland,Water,78,,236,48.05136,-90.40514,,Pine.Birch. bog habitat,529,817,720,2.8,S. Menke,,0,0
+USA,Woodland/Shrubland,Water,78,,232,48.05136,-90.40514,,Pine.Birch. bog habitat,529,819,720,2.8,S. Menke,,0,0
+USA,Woodland/Shrubland,Water,78,,231,42.2544083,-88.6617284,,Prairie,242,1088,901,8.5,S. Menke,,18,80
+USA,Woodland/Shrubland,Water,78,,230,42.1916329,-88.3016351,,Prairie,255,1099,913,8.5,S. Menke,,1,20
+USA,Woodland/Shrubland,Water,78,,227,40.12869444,-88.12194444,,restored prairie. grassland,210,1037,951,10.8,Wills; Suarez,,0,0
+USA,Woodland/Shrubland,Water,78,,197,45.95938889,-68.36152778,,RR Tracks/weeds,157,135,999,4.4,Ellison; Del Toro; Ribbons,,0,0
+USA,Woodland/Shrubland,Water,78,,238,42.429745,-88.307401,,Tallgrass prairie,235,1272,896,8.4,S. Menke,,0,0
+USA,Woodland/Shrubland,Water,78,,235,42.2544083,-88.6617284,,Tallgrass prairie,242,1099,901,8.5,S. Menke,,18,80
+USA,Woodland/Shrubland,Water,78,,234,42.1916329,-88.3016351,,Tallgrass prairie,255,1088,913,8.5,S. Menke,,1,20
+USA,Woodland/Shrubland,Olive Oil,874,,160,44.874952,-73.633574,,Jack pine barrens on bedrock. Very little mineral soil. Trees numerous. but little canopy cover (see photographs below). Vegetation beneath 1m dominated by lichen. moss. grass (crinkled hair grass - Deschampsia flexuosa). black chokeberry (Aronia melanocarpa). late low blueberry (Vaccinium angustifolium). and black huckleberry (Gaylussacia baccata). Trees dominated by jack pine (Pinus banksiana).,244,313,873,5.7,Barber,Alton-Flat Rock,2,20
+USA,Woodland/Shrubland,Olive Oil,874,,125,42.738069,-73.892004,,Maintained field on sandy soil with scattered clumps of oak and pine trees. Dominated by grasses. Rubus spp. (mostly R. flagellaris). Solidago spp.. Rumex acetosella. and Dichanthelium clandestinum,140,243,955,8.4,Barber,Baron's Field - Barber,97,40
+USA,Woodland/Shrubland,Olive Oil,874,,126,43.15613333,-73.6958,,Maintained field. sandy soil. dominated by grasses. Monarda punctata. Rubus spp. (mostly R. flagellaris).and Centaurea maculosa. Very few trees.,100,248,1003,7.9,Barber,Camp Saratoga - Barber,19,20
+USA,Woodland/Shrubland,Olive Oil,874,,198,45.95408333,-68.37594444,,Bog,153,129,1005,4.4,Ellison; Del Toro; Ribbons,CrystalBog,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,127,42.7195,-73.863617,,Maintained field on sandy soil dominated by grasses. Centaurea maculosa. and Arenaria lateriflora. Very few trees.,100,245,955,8.4,Barber,Discovery Field - Barber,41,20
+USA,Woodland/Shrubland,Olive Oil,874,,200,44.94472222,-68.44486111,,Skid trail/logged area to black spruce bog,103,59,1103,5.9,Ellison; Del Toro; Ribbons,HorsebackBog/BearDenHill,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,201,44.76133333,-67.79713889,,Birch/aspen/blueberry into Black Spruce Bog,75,24,1223,6,Ellison; Del Toro; Ribbons,MontegailPeatland,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,195,46.22622222,-69.41991667,,Into spruce woods. east from road,338,127,982,3.4,Ellison; Del Toro; Ribbons,NorthWoods,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,196,47.11,-69.54,,Abandoned logging road/secondgrowth,426,55,1010,2.5,Ellison; Del Toro; Ribbons,RoadToChimenticookFen,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,128,43.230524,-75.578867,,Maintained field on sandy soil with a few clusters of trees. dominated by grasses and Rubus flagellaris.,125,399,1097,7.7,Barber,Rome Sand Plains - Barber,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,115,40.7001,-77.8896,,Temperate forest,590,198,991,9.4,Baccaro,Rothrock-Baccaro,107,80
+USA,Woodland/Shrubland,Olive Oil,874,,205,42.471,-72.202,,Hemlock-dominated. alongside trail at Simes Tract,275,106,1140,7.1,Ellison,Simes,2,20
+USA,Woodland/Shrubland,Olive Oil,874,,199,45.88636111,-68.55222222,,Spruce/Fir/Cedar forest,120,132,1010,4.4,Ellison; Del Toro; Ribbons,UplandofHathamBog,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,225,35.6794,-83.55834444,,Forest. hardwood cove forest,500,469,1459,11.6,Lessard,,53,100
+USA,Woodland/Shrubland,Olive Oil,874,,229,37.50016667,-89.34723056,,forested ridge,125,1087,1181,13.3,Wills; Suarez,,4,20
+USA,Woodland/Shrubland,Olive Oil,874,,190,31.44805556,-110.283,,Low elevation Oak Woodland,1600,269,501,14.8,Del Toro,,25,40
+USA,Woodland/Shrubland,Olive Oil,874,,177,31.88392,-109.20679,,oak-pine-juniper woodland,1650,375,521,12.2,C.S. Moreau; A.S. Suarez,,235,100
+USA,Woodland/Shrubland,Olive Oil,874,,179,31.89956,-109.23863,,oak-pine-juniper woodland,1900,386,526,12.3,C.S. Moreau; A.S. Suarez,,1,20
+USA,Woodland/Shrubland,Olive Oil,874,,233,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,816,721,2.6,S. Menke,,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,237,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,820,721,2.6,S. Menke,,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,236,48.05136,-90.40514,,Pine.Birch. bog habitat,529,817,720,2.8,S. Menke,,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,232,48.05136,-90.40514,,Pine.Birch. bog habitat,529,819,720,2.8,S. Menke,,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,231,42.2544083,-88.6617284,,Prairie,242,1088,901,8.5,S. Menke,,71,80
+USA,Woodland/Shrubland,Olive Oil,874,,230,42.1916329,-88.3016351,,Prairie,255,1099,913,8.5,S. Menke,,2,20
+USA,Woodland/Shrubland,Olive Oil,874,,227,40.12869444,-88.12194444,,restored prairie. grassland,210,1037,951,10.8,Wills; Suarez,,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,197,45.95938889,-68.36152778,,RR Tracks/weeds,157,135,999,4.4,Ellison; Del Toro; Ribbons,,0,0
+USA,Woodland/Shrubland,Olive Oil,874,,238,42.429745,-88.307401,,Tallgrass prairie,235,1272,896,8.4,S. Menke,,142,40
+USA,Woodland/Shrubland,Olive Oil,874,,235,42.2544083,-88.6617284,,Tallgrass prairie,242,1099,901,8.5,S. Menke,,71,80
+USA,Woodland/Shrubland,Olive Oil,874,,234,42.1916329,-88.3016351,,Tallgrass prairie,255,1088,913,8.5,S. Menke,,2,20
+USA,Woodland/Shrubland,Salt,410,,160,44.874952,-73.633574,,Jack pine barrens on bedrock. Very little mineral soil. Trees numerous. but little canopy cover (see photographs below). Vegetation beneath 1m dominated by lichen. moss. grass (crinkled hair grass - Deschampsia flexuosa). black chokeberry (Aronia melanocarpa). late low blueberry (Vaccinium angustifolium). and black huckleberry (Gaylussacia baccata). Trees dominated by jack pine (Pinus banksiana).,244,313,873,5.7,Barber,Alton-Flat Rock,59,40
+USA,Woodland/Shrubland,Salt,410,,125,42.738069,-73.892004,,Maintained field on sandy soil with scattered clumps of oak and pine trees. Dominated by grasses. Rubus spp. (mostly R. flagellaris). Solidago spp.. Rumex acetosella. and Dichanthelium clandestinum,140,243,955,8.4,Barber,Baron's Field - Barber,23,60
+USA,Woodland/Shrubland,Salt,410,,126,43.15613333,-73.6958,,Maintained field. sandy soil. dominated by grasses. Monarda punctata. Rubus spp. (mostly R. flagellaris).and Centaurea maculosa. Very few trees.,100,248,1003,7.9,Barber,Camp Saratoga - Barber,4,40
+USA,Woodland/Shrubland,Salt,410,,198,45.95408333,-68.37594444,,Bog,153,129,1005,4.4,Ellison; Del Toro; Ribbons,CrystalBog,2,40
+USA,Woodland/Shrubland,Salt,410,,127,42.7195,-73.863617,,Maintained field on sandy soil dominated by grasses. Centaurea maculosa. and Arenaria lateriflora. Very few trees.,100,245,955,8.4,Barber,Discovery Field - Barber,190,40
+USA,Woodland/Shrubland,Salt,410,,200,44.94472222,-68.44486111,,Skid trail/logged area to black spruce bog,103,59,1103,5.9,Ellison; Del Toro; Ribbons,HorsebackBog/BearDenHill,1,20
+USA,Woodland/Shrubland,Salt,410,,201,44.76133333,-67.79713889,,Birch/aspen/blueberry into Black Spruce Bog,75,24,1223,6,Ellison; Del Toro; Ribbons,MontegailPeatland,0,0
+USA,Woodland/Shrubland,Salt,410,,195,46.22622222,-69.41991667,,Into spruce woods. east from road,338,127,982,3.4,Ellison; Del Toro; Ribbons,NorthWoods,1,20
+USA,Woodland/Shrubland,Salt,410,,196,47.11,-69.54,,Abandoned logging road/secondgrowth,426,55,1010,2.5,Ellison; Del Toro; Ribbons,RoadToChimenticookFen,1,20
+USA,Woodland/Shrubland,Salt,410,,128,43.230524,-75.578867,,Maintained field on sandy soil with a few clusters of trees. dominated by grasses and Rubus flagellaris.,125,399,1097,7.7,Barber,Rome Sand Plains - Barber,0,0
+USA,Woodland/Shrubland,Salt,410,,115,40.7001,-77.8896,,Temperate forest,590,198,991,9.4,Baccaro,Rothrock-Baccaro,0,0
+USA,Woodland/Shrubland,Salt,410,,205,42.471,-72.202,,Hemlock-dominated. alongside trail at Simes Tract,275,106,1140,7.1,Ellison,Simes,3,40
+USA,Woodland/Shrubland,Salt,410,,199,45.88636111,-68.55222222,,Spruce/Fir/Cedar forest,120,132,1010,4.4,Ellison; Del Toro; Ribbons,UplandofHathamBog,0,0
+USA,Woodland/Shrubland,Salt,410,,225,35.6794,-83.55834444,,Forest. hardwood cove forest,500,469,1459,11.6,Lessard,,0,0
+USA,Woodland/Shrubland,Salt,410,,229,37.50016667,-89.34723056,,forested ridge,125,1087,1181,13.3,Wills; Suarez,,38,40
+USA,Woodland/Shrubland,Salt,410,,190,31.44805556,-110.283,,Low elevation Oak Woodland,1600,269,501,14.8,Del Toro,,0,0
+USA,Woodland/Shrubland,Salt,410,,177,31.88392,-109.20679,,oak-pine-juniper woodland,1650,375,521,12.2,C.S. Moreau; A.S. Suarez,,3,60
+USA,Woodland/Shrubland,Salt,410,,179,31.89956,-109.23863,,oak-pine-juniper woodland,1900,386,526,12.3,C.S. Moreau; A.S. Suarez,,0,0
+USA,Woodland/Shrubland,Salt,410,,233,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,816,721,2.6,S. Menke,,16,20
+USA,Woodland/Shrubland,Salt,410,,237,48.0901,-90.82438,,Pine forest. wildfire went through in the last 3-4 years,500,820,721,2.6,S. Menke,,16,20
+USA,Woodland/Shrubland,Salt,410,,236,48.05136,-90.40514,,Pine.Birch. bog habitat,529,817,720,2.8,S. Menke,,3,20
+USA,Woodland/Shrubland,Salt,410,,232,48.05136,-90.40514,,Pine.Birch. bog habitat,529,819,720,2.8,S. Menke,,3,20
+USA,Woodland/Shrubland,Salt,410,,231,42.2544083,-88.6617284,,Prairie,242,1088,901,8.5,S. Menke,,21,60
+USA,Woodland/Shrubland,Salt,410,,230,42.1916329,-88.3016351,,Prairie,255,1099,913,8.5,S. Menke,,1,20
+USA,Woodland/Shrubland,Salt,410,,227,40.12869444,-88.12194444,,restored prairie. grassland,210,1037,951,10.8,Wills; Suarez,,1,20
+USA,Woodland/Shrubland,Salt,410,,197,45.95938889,-68.36152778,,RR Tracks/weeds,157,135,999,4.4,Ellison; Del Toro; Ribbons,,2,20
+USA,Woodland/Shrubland,Salt,410,,238,42.429745,-88.307401,,Tallgrass prairie,235,1272,896,8.4,S. Menke,,0,0
+USA,Woodland/Shrubland,Salt,410,,235,42.2544083,-88.6617284,,Tallgrass prairie,242,1099,901,8.5,S. Menke,,21,60
+USA,Woodland/Shrubland,Salt,410,,234,42.1916329,-88.3016351,,Tallgrass prairie,255,1088,913,8.5,S. Menke,,1,20
+USA,Tropical seasonal forest/Savanna,Cookie,25,,212,27.17781667,-81.14472222,,palm woodland - oaks. palms and grass,8.8,92,1195,22.5,Wills; Suarez,,22,60
+USA,Tropical seasonal forest/Savanna,Cookie,25,,215,24.56006667,-81.76386667,,Subtropical hammock forest,2,1,1004,25.2,C.S. Moreau,,0,0
+USA,Tropical seasonal forest/Savanna,Cookie,25,,213,25.12555,-80.40801667,,Subtropical hammock forest,21,1,1265,24.4,C.S. Moreau,,2,20
+USA,Tropical seasonal forest/Savanna,Cookie,25,,211,25.2773,-80.2983,,Subtropical hammock forest,16,1,1343,24.2,C.S. Moreau,,1,20
+USA,Tropical seasonal forest/Savanna,Sugar,445,,212,27.17781667,-81.14472222,,palm woodland - oaks. palms and grass,8.8,92,1195,22.5,Wills; Suarez,,22,60
+USA,Tropical seasonal forest/Savanna,Sugar,445,,215,24.56006667,-81.76386667,,Subtropical hammock forest,2,1,1004,25.2,C.S. Moreau,,6,40
+USA,Tropical seasonal forest/Savanna,Sugar,445,,213,25.12555,-80.40801667,,Subtropical hammock forest,21,1,1265,24.4,C.S. Moreau,,74,80
+USA,Tropical seasonal forest/Savanna,Sugar,445,,211,25.2773,-80.2983,,Subtropical hammock forest,16,1,1343,24.2,C.S. Moreau,,343,100
+USA,Tropical seasonal forest/Savanna,Water,2,,212,27.17781667,-81.14472222,,palm woodland - oaks. palms and grass,8.8,92,1195,22.5,Wills; Suarez,,2,20
+USA,Tropical seasonal forest/Savanna,Water,2,,215,24.56006667,-81.76386667,,Subtropical hammock forest,2,1,1004,25.2,C.S. Moreau,,0,0
+USA,Tropical seasonal forest/Savanna,Water,2,,213,25.12555,-80.40801667,,Subtropical hammock forest,21,1,1265,24.4,C.S. Moreau,,0,0
+USA,Tropical seasonal forest/Savanna,Water,2,,211,25.2773,-80.2983,,Subtropical hammock forest,16,1,1343,24.2,C.S. Moreau,,0,0
+USA,Tropical seasonal forest/Savanna,Olive Oil,1010,,212,27.17781667,-81.14472222,,palm woodland - oaks. palms and grass,8.8,92,1195,22.5,Wills; Suarez,,438,80
+USA,Tropical seasonal forest/Savanna,Olive Oil,1010,,215,24.56006667,-81.76386667,,Subtropical hammock forest,2,1,1004,25.2,C.S. Moreau,,72,40
+USA,Tropical seasonal forest/Savanna,Olive Oil,1010,,213,25.12555,-80.40801667,,Subtropical hammock forest,21,1,1265,24.4,C.S. Moreau,,82,80
+USA,Tropical seasonal forest/Savanna,Olive Oil,1010,,211,25.2773,-80.2983,,Subtropical hammock forest,16,1,1343,24.2,C.S. Moreau,,418,80
+USA,Tropical seasonal forest/Savanna,Salt,3,,212,27.17781667,-81.14472222,,palm woodland - oaks. palms and grass,8.8,92,1195,22.5,Wills; Suarez,,2,20
+USA,Tropical seasonal forest/Savanna,Salt,3,,215,24.56006667,-81.76386667,,Subtropical hammock forest,2,1,1004,25.2,C.S. Moreau,,0,0
+USA,Tropical seasonal forest/Savanna,Salt,3,,213,25.12555,-80.40801667,,Subtropical hammock forest,21,1,1265,24.4,C.S. Moreau,,1,20
+USA,Tropical seasonal forest/Savanna,Salt,3,,211,25.2773,-80.2983,,Subtropical hammock forest,16,1,1343,24.2,C.S. Moreau,,0,0
+USA,Grassland/Cold desert,Cookie,230,,191,31.91433333,-106.0421111,,Chihuahuan Desert Scrub,1402,676,248,16.2,Del Toro,,72,80
+USA,Grassland/Cold desert,Cookie,230,,192,31.89938889,-106.5038889,,Chihuahuan Desert Scrub,1720,667,253,15.9,Del Toro,,95,80
+USA,Grassland/Cold desert,Cookie,230,,178,31.94739,-109.13681,,cresote-mesquite desert,1390,379,401,14.4,C.S. Moreau; A.S. Suarez,,57,40
+USA,Grassland/Cold desert,Cookie,230,,273,38.719,-106.816,,Mixed aspen sage brush,2760,1021,464,1.2,N. Sanders,,6,100
+USA,Grassland/Cold desert,Sugar,257,,191,31.91433333,-106.0421111,,Chihuahuan Desert Scrub,1402,676,248,16.2,Del Toro,,122,60
+USA,Grassland/Cold desert,Sugar,257,,192,31.89938889,-106.5038889,,Chihuahuan Desert Scrub,1720,667,253,15.9,Del Toro,,37,80
+USA,Grassland/Cold desert,Sugar,257,,178,31.94739,-109.13681,,cresote-mesquite desert,1390,379,401,14.4,C.S. Moreau; A.S. Suarez,,95,80
+USA,Grassland/Cold desert,Sugar,257,,273,38.719,-106.816,,Mixed aspen sage brush,2760,1021,464,1.2,N. Sanders,,3,40
+USA,Grassland/Cold desert,Water,5,,191,31.91433333,-106.0421111,,Chihuahuan Desert Scrub,1402,676,248,16.2,Del Toro,,0,0
+USA,Grassland/Cold desert,Water,5,,192,31.89938889,-106.5038889,,Chihuahuan Desert Scrub,1720,667,253,15.9,Del Toro,,0,0
+USA,Grassland/Cold desert,Water,5,,178,31.94739,-109.13681,,cresote-mesquite desert,1390,379,401,14.4,C.S. Moreau; A.S. Suarez,,2,20
+USA,Grassland/Cold desert,Water,5,,273,38.719,-106.816,,Mixed aspen sage brush,2760,1021,464,1.2,N. Sanders,,3,60
+USA,Grassland/Cold desert,Olive Oil,17,,191,31.91433333,-106.0421111,,Chihuahuan Desert Scrub,1402,676,248,16.2,Del Toro,,7,20
+USA,Grassland/Cold desert,Olive Oil,17,,192,31.89938889,-106.5038889,,Chihuahuan Desert Scrub,1720,667,253,15.9,Del Toro,,6,40
+USA,Grassland/Cold desert,Olive Oil,17,,178,31.94739,-109.13681,,cresote-mesquite desert,1390,379,401,14.4,C.S. Moreau; A.S. Suarez,,4,40
+USA,Grassland/Cold desert,Olive Oil,17,,273,38.719,-106.816,,Mixed aspen sage brush,2760,1021,464,1.2,N. Sanders,,0,0
+USA,Grassland/Cold desert,Salt,87,,191,31.91433333,-106.0421111,,Chihuahuan Desert Scrub,1402,676,248,16.2,Del Toro,,1,20
+USA,Grassland/Cold desert,Salt,87,,192,31.89938889,-106.5038889,,Chihuahuan Desert Scrub,1720,667,253,15.9,Del Toro,,1,20
+USA,Grassland/Cold desert,Salt,87,,178,31.94739,-109.13681,,cresote-mesquite desert,1390,379,401,14.4,C.S. Moreau; A.S. Suarez,,72,60
+USA,Grassland/Cold desert,Salt,87,,273,38.719,-106.816,,Mixed aspen sage brush,2760,1021,464,1.2,N. Sanders,,13,40
+Ecuador,Tropical rainforest,Amino Acids,15,,11,0.675,-76.373,,Lowland Rainforest,227,277,3935,25,Donoso,ECYkm9 (bridge),3,20
+Ecuador,Tropical rainforest,Amino Acids,15,,10,0.674,-76.4,,Lowland Rainforest,239,279,3928,24.9,Donoso,ECYResearch Station,10,60
+Ecuador,Tropical rainforest,Amino Acids,15,,9,0.605,-76.5,,Lowland Rainforest,244,261,3788,24.8,Donoso,ECYVia Maxus. km 25,2,40
+Ecuador,Temperate seasonal forest,Amino Acids,59,,8,0.51,-78.62,,High altitude Desert,2506,89,2008,17.9,Donoso,Mitad del MundoBehind Kart,0,0
+Ecuador,Temperate seasonal forest,Amino Acids,59,,6,0.326,-78.949,,Montane Forest,839,119,2338,21.8,Donoso,OtongachiLa pocilga. 2km South from RS-Donoso,4,60
+Ecuador,Temperate seasonal forest,Amino Acids,59,,5,0.319,-78.953,,Montane Forest,943,120,2338,21.8,Donoso,OtongachiResearch Station-Donoso,2,40
+Ecuador,Temperate seasonal forest,Amino Acids,59,,297,-3.9755,-79.0783,,Along a trail within a tropical mountain rainforest. The trail is relatively large (~3 m). open. and the forest there is secondary.,1900,136,1294,15.9,T. Delsinne; TM Arias Penna,Reserva Biologica San Francisco. close to Sabanilla (Loja-Zamora road). Zamora-Chinchipe Province - ECUADOR,53,80
+Ecuador,Temperate seasonal forest,Amino Acids,59,,4,0.027,-78.621,,Andean Forest,2181,164,1407,15.7,Donoso,Road CalacaliEntrance to Nanegalito,0,0
+Ecuador,Temperate seasonal forest,Amino Acids,59,,7,0.451,-78.746,,Andean Forest,2112,87,2258,17.5,Donoso,San Ignasio,0,0
+Ecuador,Desert,Amino Acids,0,,298,-3.5677,-80.1434,,Along a small trail within a well-preserved dry forest,45,23,453,25.5,T. Delsinne; TM Arias Penna,Reserva Ecologica Militar Arenillas. El Oro Province - ECUADOR,0,0
+Ecuador,Tropical rainforest,Cookie,77,,11,0.675,-76.373,,Lowland Rainforest,227,277,3935,25,Donoso,ECYkm9 (bridge),31,100
+Ecuador,Tropical rainforest,Cookie,77,,10,0.674,-76.4,,Lowland Rainforest,239,279,3928,24.9,Donoso,ECYResearch Station,18,100
+Ecuador,Tropical rainforest,Cookie,77,,9,0.605,-76.5,,Lowland Rainforest,244,261,3788,24.8,Donoso,ECYVia Maxus. km 25,28,40
+Ecuador,Tropical rainforest,Sugar,243,,11,0.675,-76.373,,Lowland Rainforest,227,277,3935,25,Donoso,ECYkm9 (bridge),67,100
+Ecuador,Tropical rainforest,Sugar,243,,10,0.674,-76.4,,Lowland Rainforest,239,279,3928,24.9,Donoso,ECYResearch Station,30,60
+Ecuador,Tropical rainforest,Sugar,243,,9,0.605,-76.5,,Lowland Rainforest,244,261,3788,24.8,Donoso,ECYVia Maxus. km 25,146,100
+Ecuador,Tropical rainforest,Water,65,,11,0.675,-76.373,,Lowland Rainforest,227,277,3935,25,Donoso,ECYkm9 (bridge),27,100
+Ecuador,Tropical rainforest,Water,65,,10,0.674,-76.4,,Lowland Rainforest,239,279,3928,24.9,Donoso,ECYResearch Station,1,20
+Ecuador,Tropical rainforest,Water,65,,9,0.605,-76.5,,Lowland Rainforest,244,261,3788,24.8,Donoso,ECYVia Maxus. km 25,37,100
+Ecuador,Tropical rainforest,Olive Oil,344,,11,0.675,-76.373,,Lowland Rainforest,227,277,3935,25,Donoso,ECYkm9 (bridge),157,100
+Ecuador,Tropical rainforest,Olive Oil,344,,10,0.674,-76.4,,Lowland Rainforest,239,279,3928,24.9,Donoso,ECYResearch Station,152,100
+Ecuador,Tropical rainforest,Olive Oil,344,,9,0.605,-76.5,,Lowland Rainforest,244,261,3788,24.8,Donoso,ECYVia Maxus. km 25,35,80
+Ecuador,Tropical rainforest,Salt,250,,11,0.675,-76.373,,Lowland Rainforest,227,277,3935,25,Donoso,ECYkm9 (bridge),14,80
+Ecuador,Tropical rainforest,Salt,250,,10,0.674,-76.4,,Lowland Rainforest,239,279,3928,24.9,Donoso,ECYResearch Station,150,80
+Ecuador,Tropical rainforest,Salt,250,,9,0.605,-76.5,,Lowland Rainforest,244,261,3788,24.8,Donoso,ECYVia Maxus. km 25,86,60
+Ecuador,Temperate seasonal forest,Cookie,192,,8,0.51,-78.62,,High altitude Desert,2506,89,2008,17.9,Donoso,Mitad del MundoBehind Kart,12,20
+Ecuador,Temperate seasonal forest,Cookie,192,,6,0.326,-78.949,,Montane Forest,839,119,2338,21.8,Donoso,OtongachiLa pocilga. 2km South from RS-Donoso,26,60
+Ecuador,Temperate seasonal forest,Cookie,192,,5,0.319,-78.953,,Montane Forest,943,120,2338,21.8,Donoso,OtongachiResearch Station-Donoso,45,100
+Ecuador,Temperate seasonal forest,Cookie,192,,297,-3.9755,-79.0783,,Along a trail within a tropical mountain rainforest. The trail is relatively large (~3 m). open. and the forest there is secondary.,1900,136,1294,15.9,T. Delsinne; TM Arias Penna,Reserva Biologica San Francisco. close to Sabanilla (Loja-Zamora road). Zamora-Chinchipe Province - ECUADOR,101,100
+Ecuador,Temperate seasonal forest,Cookie,192,,4,0.027,-78.621,,Andean Forest,2181,164,1407,15.7,Donoso,Road CalacaliEntrance to Nanegalito,1,20
+Ecuador,Temperate seasonal forest,Cookie,192,,7,0.451,-78.746,,Andean Forest,2112,87,2258,17.5,Donoso,San Ignasio,7,60
+Ecuador,Temperate seasonal forest,Sugar,101,,8,0.51,-78.62,,High altitude Desert,2506,89,2008,17.9,Donoso,Mitad del MundoBehind Kart,8,80
+Ecuador,Temperate seasonal forest,Sugar,101,,6,0.326,-78.949,,Montane Forest,839,119,2338,21.8,Donoso,OtongachiLa pocilga. 2km South from RS-Donoso,11,80
+Ecuador,Temperate seasonal forest,Sugar,101,,5,0.319,-78.953,,Montane Forest,943,120,2338,21.8,Donoso,OtongachiResearch Station-Donoso,6,40
+Ecuador,Temperate seasonal forest,Sugar,101,,297,-3.9755,-79.0783,,Along a trail within a tropical mountain rainforest. The trail is relatively large (~3 m). open. and the forest there is secondary.,1900,136,1294,15.9,T. Delsinne; TM Arias Penna,Reserva Biologica San Francisco. close to Sabanilla (Loja-Zamora road). Zamora-Chinchipe Province - ECUADOR,62,80
+Ecuador,Temperate seasonal forest,Sugar,101,,4,0.027,-78.621,,Andean Forest,2181,164,1407,15.7,Donoso,Road CalacaliEntrance to Nanegalito,0,0
+Ecuador,Temperate seasonal forest,Sugar,101,,7,0.451,-78.746,,Andean Forest,2112,87,2258,17.5,Donoso,San Ignasio,14,40
+Ecuador,Temperate seasonal forest,Water,38,,8,0.51,-78.62,,High altitude Desert,2506,89,2008,17.9,Donoso,Mitad del MundoBehind Kart,0,0
+Ecuador,Temperate seasonal forest,Water,38,,6,0.326,-78.949,,Montane Forest,839,119,2338,21.8,Donoso,OtongachiLa pocilga. 2km South from RS-Donoso,4,20
+Ecuador,Temperate seasonal forest,Water,38,,5,0.319,-78.953,,Montane Forest,943,120,2338,21.8,Donoso,OtongachiResearch Station-Donoso,0,0
+Ecuador,Temperate seasonal forest,Water,38,,297,-3.9755,-79.0783,,Along a trail within a tropical mountain rainforest. The trail is relatively large (~3 m). open. and the forest there is secondary.,1900,136,1294,15.9,T. Delsinne; TM Arias Penna,Reserva Biologica San Francisco. close to Sabanilla (Loja-Zamora road). Zamora-Chinchipe Province - ECUADOR,34,100
+Ecuador,Temperate seasonal forest,Water,38,,4,0.027,-78.621,,Andean Forest,2181,164,1407,15.7,Donoso,Road CalacaliEntrance to Nanegalito,0,0
+Ecuador,Temperate seasonal forest,Water,38,,7,0.451,-78.746,,Andean Forest,2112,87,2258,17.5,Donoso,San Ignasio,0,0
+Ecuador,Temperate seasonal forest,Olive Oil,278,,8,0.51,-78.62,,High altitude Desert,2506,89,2008,17.9,Donoso,Mitad del MundoBehind Kart,0,0
+Ecuador,Temperate seasonal forest,Olive Oil,278,,6,0.326,-78.949,,Montane Forest,839,119,2338,21.8,Donoso,OtongachiLa pocilga. 2km South from RS-Donoso,18,60
+Ecuador,Temperate seasonal forest,Olive Oil,278,,5,0.319,-78.953,,Montane Forest,943,120,2338,21.8,Donoso,OtongachiResearch Station-Donoso,15,100
+Ecuador,Temperate seasonal forest,Olive Oil,278,,297,-3.9755,-79.0783,,Along a trail within a tropical mountain rainforest. The trail is relatively large (~3 m). open. and the forest there is secondary.,1900,136,1294,15.9,T. Delsinne; TM Arias Penna,Reserva Biologica San Francisco. close to Sabanilla (Loja-Zamora road). Zamora-Chinchipe Province - ECUADOR,135,100
+Ecuador,Temperate seasonal forest,Olive Oil,278,,4,0.027,-78.621,,Andean Forest,2181,164,1407,15.7,Donoso,Road CalacaliEntrance to Nanegalito,0,0
+Ecuador,Temperate seasonal forest,Olive Oil,278,,7,0.451,-78.746,,Andean Forest,2112,87,2258,17.5,Donoso,San Ignasio,110,20
+Ecuador,Temperate seasonal forest,Salt,65,,8,0.51,-78.62,,High altitude Desert,2506,89,2008,17.9,Donoso,Mitad del MundoBehind Kart,0,0
+Ecuador,Temperate seasonal forest,Salt,65,,6,0.326,-78.949,,Montane Forest,839,119,2338,21.8,Donoso,OtongachiLa pocilga. 2km South from RS-Donoso,5,60
+Ecuador,Temperate seasonal forest,Salt,65,,5,0.319,-78.953,,Montane Forest,943,120,2338,21.8,Donoso,OtongachiResearch Station-Donoso,4,40
+Ecuador,Temperate seasonal forest,Salt,65,,297,-3.9755,-79.0783,,Along a trail within a tropical mountain rainforest. The trail is relatively large (~3 m). open. and the forest there is secondary.,1900,136,1294,15.9,T. Delsinne; TM Arias Penna,Reserva Biologica San Francisco. close to Sabanilla (Loja-Zamora road). Zamora-Chinchipe Province - ECUADOR,56,60
+Ecuador,Temperate seasonal forest,Salt,65,,4,0.027,-78.621,,Andean Forest,2181,164,1407,15.7,Donoso,Road CalacaliEntrance to Nanegalito,0,0
+Ecuador,Temperate seasonal forest,Salt,65,,7,0.451,-78.746,,Andean Forest,2112,87,2258,17.5,Donoso,San Ignasio,0,0
+Ecuador,Desert,Cookie,3,,298,-3.5677,-80.1434,,Along a small trail within a well-preserved dry forest,45,23,453,25.5,T. Delsinne; TM Arias Penna,Reserva Ecologica Militar Arenillas. El Oro Province - ECUADOR,3,20
+Ecuador,Desert,Sugar,13,,298,-3.5677,-80.1434,,Along a small trail within a well-preserved dry forest,45,23,453,25.5,T. Delsinne; TM Arias Penna,Reserva Ecologica Militar Arenillas. El Oro Province - ECUADOR,13,20
+Ecuador,Desert,Water,0,,298,-3.5677,-80.1434,,Along a small trail within a well-preserved dry forest,45,23,453,25.5,T. Delsinne; TM Arias Penna,Reserva Ecologica Militar Arenillas. El Oro Province - ECUADOR,0,0
+Ecuador,Desert,Olive Oil,4,,298,-3.5677,-80.1434,,Along a small trail within a well-preserved dry forest,45,23,453,25.5,T. Delsinne; TM Arias Penna,Reserva Ecologica Militar Arenillas. El Oro Province - ECUADOR,4,20
+Ecuador,Desert,Salt,7,,298,-3.5677,-80.1434,,Along a small trail within a well-preserved dry forest,45,23,453,25.5,T. Delsinne; TM Arias Penna,Reserva Ecologica Militar Arenillas. El Oro Province - ECUADOR,7,40
+Spain,Woodland/Shrubland,Amino Acids,94,,57,41.4675,2.10083,,open mediterranean mixed pine - oak forest,123,12,595,16.1,Gomez,1/1/2001,0,0
+Spain,Woodland/Shrubland,Amino Acids,94,,58,42.0375,2.73306,,open mediterranean cork oak forest,81,37,787,14.7,Gomez,2/1/2001,0,0
+Spain,Woodland/Shrubland,Amino Acids,94,,59,42.02028,2.73056,,riparian forest,81,36,787,14.7,Gomez and Abril,3/1/2001,28,40
+Spain,Woodland/Shrubland,Amino Acids,94,,123,41.41229,2.115729,,Shrubland,253,8,629,15.9,Arnan,Spain1-Arnan,1,20
+Spain,Woodland/Shrubland,Amino Acids,94,,124,41.459524,2.095954,,Open pine forest,165,12,595,16.1,Arnan,Spain2-Arnan,65,100
+Spain,Woodland/Shrubland,Cookie,162,,57,41.4675,2.10083,,open mediterranean mixed pine - oak forest,123,12,595,16.1,Gomez,1/1/2001,3,40
+Spain,Woodland/Shrubland,Cookie,162,,58,42.0375,2.73306,,open mediterranean cork oak forest,81,37,787,14.7,Gomez,2/1/2001,0,0
+Spain,Woodland/Shrubland,Cookie,162,,59,42.02028,2.73056,,riparian forest,81,36,787,14.7,Gomez and Abril,3/1/2001,1,20
+Spain,Woodland/Shrubland,Cookie,162,,123,41.41229,2.115729,,Shrubland,253,8,629,15.9,Arnan,Spain1-Arnan,142,80
+Spain,Woodland/Shrubland,Cookie,162,,124,41.459524,2.095954,,Open pine forest,165,12,595,16.1,Arnan,Spain2-Arnan,16,60
+Spain,Woodland/Shrubland,Sugar,145,,57,41.4675,2.10083,,open mediterranean mixed pine - oak forest,123,12,595,16.1,Gomez,1/1/2001,1,20
+Spain,Woodland/Shrubland,Sugar,145,,58,42.0375,2.73306,,open mediterranean cork oak forest,81,37,787,14.7,Gomez,2/1/2001,2,40
+Spain,Woodland/Shrubland,Sugar,145,,59,42.02028,2.73056,,riparian forest,81,36,787,14.7,Gomez and Abril,3/1/2001,0,0
+Spain,Woodland/Shrubland,Sugar,145,,123,41.41229,2.115729,,Shrubland,253,8,629,15.9,Arnan,Spain1-Arnan,116,80
+Spain,Woodland/Shrubland,Sugar,145,,124,41.459524,2.095954,,Open pine forest,165,12,595,16.1,Arnan,Spain2-Arnan,26,60
+Spain,Woodland/Shrubland,Water,34,,57,41.4675,2.10083,,open mediterranean mixed pine - oak forest,123,12,595,16.1,Gomez,1/1/2001,1,20
+Spain,Woodland/Shrubland,Water,34,,58,42.0375,2.73306,,open mediterranean cork oak forest,81,37,787,14.7,Gomez,2/1/2001,0,0
+Spain,Woodland/Shrubland,Water,34,,59,42.02028,2.73056,,riparian forest,81,36,787,14.7,Gomez and Abril,3/1/2001,6,20
+Spain,Woodland/Shrubland,Water,34,,123,41.41229,2.115729,,Shrubland,253,8,629,15.9,Arnan,Spain1-Arnan,15,20
+Spain,Woodland/Shrubland,Water,34,,124,41.459524,2.095954,,Open pine forest,165,12,595,16.1,Arnan,Spain2-Arnan,12,40
+Spain,Woodland/Shrubland,Olive Oil,191,,57,41.4675,2.10083,,open mediterranean mixed pine - oak forest,123,12,595,16.1,Gomez,1/1/2001,17,60
+Spain,Woodland/Shrubland,Olive Oil,191,,58,42.0375,2.73306,,open mediterranean cork oak forest,81,37,787,14.7,Gomez,2/1/2001,13,60
+Spain,Woodland/Shrubland,Olive Oil,191,,59,42.02028,2.73056,,riparian forest,81,36,787,14.7,Gomez and Abril,3/1/2001,1,20
+Spain,Woodland/Shrubland,Olive Oil,191,,123,41.41229,2.115729,,Shrubland,253,8,629,15.9,Arnan,Spain1-Arnan,160,80
+Spain,Woodland/Shrubland,Olive Oil,191,,124,41.459524,2.095954,,Open pine forest,165,12,595,16.1,Arnan,Spain2-Arnan,0,0
+Spain,Woodland/Shrubland,Salt,37,,57,41.4675,2.10083,,open mediterranean mixed pine - oak forest,123,12,595,16.1,Gomez,1/1/2001,1,20
+Spain,Woodland/Shrubland,Salt,37,,58,42.0375,2.73306,,open mediterranean cork oak forest,81,37,787,14.7,Gomez,2/1/2001,1,20
+Spain,Woodland/Shrubland,Salt,37,,59,42.02028,2.73056,,riparian forest,81,36,787,14.7,Gomez and Abril,3/1/2001,0,0
+Spain,Woodland/Shrubland,Salt,37,,123,41.41229,2.115729,,Shrubland,253,8,629,15.9,Arnan,Spain1-Arnan,16,20
+Spain,Woodland/Shrubland,Salt,37,,124,41.459524,2.095954,,Open pine forest,165,12,595,16.1,Arnan,Spain2-Arnan,19,60
+Canada,Woodland/Shrubland,Amino Acids,0,,203,46.41666667,-63.15,,bayberry/rosa shrub,1,1,1098,5.8,Ellison,BrackleyDunes,0,0
+Canada,Woodland/Shrubland,Cookie,37,,203,46.41666667,-63.15,,bayberry/rosa shrub,1,1,1098,5.8,Ellison,BrackleyDunes,37,80
+Canada,Woodland/Shrubland,Sugar,141,,203,46.41666667,-63.15,,bayberry/rosa shrub,1,1,1098,5.8,Ellison,BrackleyDunes,141,80
+Canada,Woodland/Shrubland,Water,1,,203,46.41666667,-63.15,,bayberry/rosa shrub,1,1,1098,5.8,Ellison,BrackleyDunes,1,20
+Canada,Woodland/Shrubland,Olive Oil,1,,203,46.41666667,-63.15,,bayberry/rosa shrub,1,1,1098,5.8,Ellison,BrackleyDunes,1,20
+Canada,Woodland/Shrubland,Salt,0,,203,46.41666667,-63.15,,bayberry/rosa shrub,1,1,1098,5.8,Ellison,BrackleyDunes,0,0
+France,Woodland/Shrubland,Amino Acids,0,,294,50.509039,3.046892,,Temperate forest dominated by Quercus spp.. Carpinus betulus and Fagus sylvatica,59,75,675,10,T. Delsinne; TM Arias Penna,Phalempin. France,0,0
+France,Woodland/Shrubland,Cookie,3,,294,50.509039,3.046892,,Temperate forest dominated by Quercus spp.. Carpinus betulus and Fagus sylvatica,59,75,675,10,T. Delsinne; TM Arias Penna,Phalempin. France,3,40
+France,Woodland/Shrubland,Sugar,13,,294,50.509039,3.046892,,Temperate forest dominated by Quercus spp.. Carpinus betulus and Fagus sylvatica,59,75,675,10,T. Delsinne; TM Arias Penna,Phalempin. France,13,40
+France,Woodland/Shrubland,Water,0,,294,50.509039,3.046892,,Temperate forest dominated by Quercus spp.. Carpinus betulus and Fagus sylvatica,59,75,675,10,T. Delsinne; TM Arias Penna,Phalempin. France,0,0
+France,Woodland/Shrubland,Olive Oil,0,,294,50.509039,3.046892,,Temperate forest dominated by Quercus spp.. Carpinus betulus and Fagus sylvatica,59,75,675,10,T. Delsinne; TM Arias Penna,Phalempin. France,0,0
+France,Woodland/Shrubland,Salt,0,,294,50.509039,3.046892,,Temperate forest dominated by Quercus spp.. Carpinus betulus and Fagus sylvatica,59,75,675,10,T. Delsinne; TM Arias Penna,Phalempin. France,0,0
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,251,49.764,14.664,,deciduous forest with oaks and elder bushes - approx 160 m x 100 m fragment along a road in an agriculture landscape,390,448,564,8.3,KilmesPech,The Middle Bohemia. Jarkovice - H?rka,0,0
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,253,49.946,14.16,,mosaic of calcareous rock steppes and young Quercus wood,380,447,532,8.2,KilmesPech,The Middle Bohemia. Karl_tejn,6,80
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,252,49.812,13.8304,,mixed temperate forest. dominated by pines. spruces and oaks. undergrowth: blueberries. mosses. grass.,460,442,647,7,KilmesPech,The Middle Bohemia. Osek-Le?,0,0
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,247,50.1736,15.8282,,Mesic and dry meadow,240,498,582,8.2,KilmesPech,The Northern Bohemia. Hradec Kralove-Roudni?ka,1,20
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,248,50.348,15.9387,,Wet meadow,250,502,605,7.9,KilmesPech,The Northern Bohemia. Jarome? - Josefovsk_ louky,0,0
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,250,50.4141,16.1019,,Wood (Picea abies. Pinus silvestris. Fagus silvatica),380,575,620,7.5,KilmesPech,The Northern Bohemia. Starko?,6,60
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,245,48.7249,14.6006,,a grassland meadow along deciduous forest patch with oaks. birches and larches. with dry-wet gradient from 1th trap-30th,667,320,872,6.8,KilmesPech,The South Bohemia. D�lava,0,0
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,246,48.721608,14.58782,,spruce forest. on the ground mix of grasses and mosses and bare ground,660,325,872,6.8,KilmesPech,The South Bohemia. D�lava,0,0
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,243,48.95322,14.5926,,3-4 m in the forest (near edge) along a side of a natural meadow. dominant trees: spruce. pine. oak. birch.,481,363,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,0,0
+Czech Republic,Woodland/Shrubland,Amino Acids,13,,244,48.955,14.5889,,approx. 200m in the forest. dominant trees: spruce. pine. oak. birch.,494,361,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,0,0
+Czech Republic,Woodland/Shrubland,Cookie,173,,251,49.764,14.664,,deciduous forest with oaks and elder bushes - approx 160 m x 100 m fragment along a road in an agriculture landscape,390,448,564,8.3,KilmesPech,The Middle Bohemia. Jarkovice - H?rka,4,60
+Czech Republic,Woodland/Shrubland,Cookie,173,,253,49.946,14.16,,mosaic of calcareous rock steppes and young Quercus wood,380,447,532,8.2,KilmesPech,The Middle Bohemia. Karl_tejn,19,60
+Czech Republic,Woodland/Shrubland,Cookie,173,,252,49.812,13.8304,,mixed temperate forest. dominated by pines. spruces and oaks. undergrowth: blueberries. mosses. grass.,460,442,647,7,KilmesPech,The Middle Bohemia. Osek-Le?,1,20
+Czech Republic,Woodland/Shrubland,Cookie,173,,247,50.1736,15.8282,,Mesic and dry meadow,240,498,582,8.2,KilmesPech,The Northern Bohemia. Hradec Kralove-Roudni?ka,18,40
+Czech Republic,Woodland/Shrubland,Cookie,173,,248,50.348,15.9387,,Wet meadow,250,502,605,7.9,KilmesPech,The Northern Bohemia. Jarome? - Josefovsk_ louky,9,60
+Czech Republic,Woodland/Shrubland,Cookie,173,,250,50.4141,16.1019,,Wood (Picea abies. Pinus silvestris. Fagus silvatica),380,575,620,7.5,KilmesPech,The Northern Bohemia. Starko?,17,60
+Czech Republic,Woodland/Shrubland,Cookie,173,,245,48.7249,14.6006,,a grassland meadow along deciduous forest patch with oaks. birches and larches. with dry-wet gradient from 1th trap-30th,667,320,872,6.8,KilmesPech,The South Bohemia. D�lava,35,100
+Czech Republic,Woodland/Shrubland,Cookie,173,,246,48.721608,14.58782,,spruce forest. on the ground mix of grasses and mosses and bare ground,660,325,872,6.8,KilmesPech,The South Bohemia. D�lava,31,80
+Czech Republic,Woodland/Shrubland,Cookie,173,,243,48.95322,14.5926,,3-4 m in the forest (near edge) along a side of a natural meadow. dominant trees: spruce. pine. oak. birch.,481,363,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,9,80
+Czech Republic,Woodland/Shrubland,Cookie,173,,244,48.955,14.5889,,approx. 200m in the forest. dominant trees: spruce. pine. oak. birch.,494,361,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,30,60
+Czech Republic,Woodland/Shrubland,Sugar,383,,251,49.764,14.664,,deciduous forest with oaks and elder bushes - approx 160 m x 100 m fragment along a road in an agriculture landscape,390,448,564,8.3,KilmesPech,The Middle Bohemia. Jarkovice - H?rka,4,60
+Czech Republic,Woodland/Shrubland,Sugar,383,,253,49.946,14.16,,mosaic of calcareous rock steppes and young Quercus wood,380,447,532,8.2,KilmesPech,The Middle Bohemia. Karl_tejn,178,80
+Czech Republic,Woodland/Shrubland,Sugar,383,,252,49.812,13.8304,,mixed temperate forest. dominated by pines. spruces and oaks. undergrowth: blueberries. mosses. grass.,460,442,647,7,KilmesPech,The Middle Bohemia. Osek-Le?,9,60
+Czech Republic,Woodland/Shrubland,Sugar,383,,247,50.1736,15.8282,,Mesic and dry meadow,240,498,582,8.2,KilmesPech,The Northern Bohemia. Hradec Kralove-Roudni?ka,53,40
+Czech Republic,Woodland/Shrubland,Sugar,383,,248,50.348,15.9387,,Wet meadow,250,502,605,7.9,KilmesPech,The Northern Bohemia. Jarome? - Josefovsk_ louky,12,80
+Czech Republic,Woodland/Shrubland,Sugar,383,,250,50.4141,16.1019,,Wood (Picea abies. Pinus silvestris. Fagus silvatica),380,575,620,7.5,KilmesPech,The Northern Bohemia. Starko?,17,100
+Czech Republic,Woodland/Shrubland,Sugar,383,,245,48.7249,14.6006,,a grassland meadow along deciduous forest patch with oaks. birches and larches. with dry-wet gradient from 1th trap-30th,667,320,872,6.8,KilmesPech,The South Bohemia. D�lava,63,100
+Czech Republic,Woodland/Shrubland,Sugar,383,,246,48.721608,14.58782,,spruce forest. on the ground mix of grasses and mosses and bare ground,660,325,872,6.8,KilmesPech,The South Bohemia. D�lava,32,60
+Czech Republic,Woodland/Shrubland,Sugar,383,,243,48.95322,14.5926,,3-4 m in the forest (near edge) along a side of a natural meadow. dominant trees: spruce. pine. oak. birch.,481,363,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,4,60
+Czech Republic,Woodland/Shrubland,Sugar,383,,244,48.955,14.5889,,approx. 200m in the forest. dominant trees: spruce. pine. oak. birch.,494,361,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,11,60
+Czech Republic,Woodland/Shrubland,Water,4,,251,49.764,14.664,,deciduous forest with oaks and elder bushes - approx 160 m x 100 m fragment along a road in an agriculture landscape,390,448,564,8.3,KilmesPech,The Middle Bohemia. Jarkovice - H?rka,0,0
+Czech Republic,Woodland/Shrubland,Water,4,,253,49.946,14.16,,mosaic of calcareous rock steppes and young Quercus wood,380,447,532,8.2,KilmesPech,The Middle Bohemia. Karl_tejn,3,20
+Czech Republic,Woodland/Shrubland,Water,4,,252,49.812,13.8304,,mixed temperate forest. dominated by pines. spruces and oaks. undergrowth: blueberries. mosses. grass.,460,442,647,7,KilmesPech,The Middle Bohemia. Osek-Le?,0,0
+Czech Republic,Woodland/Shrubland,Water,4,,247,50.1736,15.8282,,Mesic and dry meadow,240,498,582,8.2,KilmesPech,The Northern Bohemia. Hradec Kralove-Roudni?ka,0,0
+Czech Republic,Woodland/Shrubland,Water,4,,248,50.348,15.9387,,Wet meadow,250,502,605,7.9,KilmesPech,The Northern Bohemia. Jarome? - Josefovsk_ louky,0,0
+Czech Republic,Woodland/Shrubland,Water,4,,250,50.4141,16.1019,,Wood (Picea abies. Pinus silvestris. Fagus silvatica),380,575,620,7.5,KilmesPech,The Northern Bohemia. Starko?,0,0
+Czech Republic,Woodland/Shrubland,Water,4,,245,48.7249,14.6006,,a grassland meadow along deciduous forest patch with oaks. birches and larches. with dry-wet gradient from 1th trap-30th,667,320,872,6.8,KilmesPech,The South Bohemia. D�lava,0,0
+Czech Republic,Woodland/Shrubland,Water,4,,246,48.721608,14.58782,,spruce forest. on the ground mix of grasses and mosses and bare ground,660,325,872,6.8,KilmesPech,The South Bohemia. D�lava,0,0
+Czech Republic,Woodland/Shrubland,Water,4,,243,48.95322,14.5926,,3-4 m in the forest (near edge) along a side of a natural meadow. dominant trees: spruce. pine. oak. birch.,481,363,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,0,0
+Czech Republic,Woodland/Shrubland,Water,4,,244,48.955,14.5889,,approx. 200m in the forest. dominant trees: spruce. pine. oak. birch.,494,361,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,1,20
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,251,49.764,14.664,,deciduous forest with oaks and elder bushes - approx 160 m x 100 m fragment along a road in an agriculture landscape,390,448,564,8.3,KilmesPech,The Middle Bohemia. Jarkovice - H?rka,0,0
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,253,49.946,14.16,,mosaic of calcareous rock steppes and young Quercus wood,380,447,532,8.2,KilmesPech,The Middle Bohemia. Karl_tejn,1,20
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,252,49.812,13.8304,,mixed temperate forest. dominated by pines. spruces and oaks. undergrowth: blueberries. mosses. grass.,460,442,647,7,KilmesPech,The Middle Bohemia. Osek-Le?,0,0
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,247,50.1736,15.8282,,Mesic and dry meadow,240,498,582,8.2,KilmesPech,The Northern Bohemia. Hradec Kralove-Roudni?ka,0,0
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,248,50.348,15.9387,,Wet meadow,250,502,605,7.9,KilmesPech,The Northern Bohemia. Jarome? - Josefovsk_ louky,0,0
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,250,50.4141,16.1019,,Wood (Picea abies. Pinus silvestris. Fagus silvatica),380,575,620,7.5,KilmesPech,The Northern Bohemia. Starko?,0,0
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,245,48.7249,14.6006,,a grassland meadow along deciduous forest patch with oaks. birches and larches. with dry-wet gradient from 1th trap-30th,667,320,872,6.8,KilmesPech,The South Bohemia. D�lava,6,20
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,246,48.721608,14.58782,,spruce forest. on the ground mix of grasses and mosses and bare ground,660,325,872,6.8,KilmesPech,The South Bohemia. D�lava,1,20
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,243,48.95322,14.5926,,3-4 m in the forest (near edge) along a side of a natural meadow. dominant trees: spruce. pine. oak. birch.,481,363,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,0,0
+Czech Republic,Woodland/Shrubland,Olive Oil,8,,244,48.955,14.5889,,approx. 200m in the forest. dominant trees: spruce. pine. oak. birch.,494,361,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,0,0
+Czech Republic,Woodland/Shrubland,Salt,6,,251,49.764,14.664,,deciduous forest with oaks and elder bushes - approx 160 m x 100 m fragment along a road in an agriculture landscape,390,448,564,8.3,KilmesPech,The Middle Bohemia. Jarkovice - H?rka,0,0
+Czech Republic,Woodland/Shrubland,Salt,6,,253,49.946,14.16,,mosaic of calcareous rock steppes and young Quercus wood,380,447,532,8.2,KilmesPech,The Middle Bohemia. Karl_tejn,1,20
+Czech Republic,Woodland/Shrubland,Salt,6,,252,49.812,13.8304,,mixed temperate forest. dominated by pines. spruces and oaks. undergrowth: blueberries. mosses. grass.,460,442,647,7,KilmesPech,The Middle Bohemia. Osek-Le?,0,0
+Czech Republic,Woodland/Shrubland,Salt,6,,247,50.1736,15.8282,,Mesic and dry meadow,240,498,582,8.2,KilmesPech,The Northern Bohemia. Hradec Kralove-Roudni?ka,0,0
+Czech Republic,Woodland/Shrubland,Salt,6,,248,50.348,15.9387,,Wet meadow,250,502,605,7.9,KilmesPech,The Northern Bohemia. Jarome? - Josefovsk_ louky,0,0
+Czech Republic,Woodland/Shrubland,Salt,6,,250,50.4141,16.1019,,Wood (Picea abies. Pinus silvestris. Fagus silvatica),380,575,620,7.5,KilmesPech,The Northern Bohemia. Starko?,4,40
+Czech Republic,Woodland/Shrubland,Salt,6,,245,48.7249,14.6006,,a grassland meadow along deciduous forest patch with oaks. birches and larches. with dry-wet gradient from 1th trap-30th,667,320,872,6.8,KilmesPech,The South Bohemia. D�lava,0,0
+Czech Republic,Woodland/Shrubland,Salt,6,,246,48.721608,14.58782,,spruce forest. on the ground mix of grasses and mosses and bare ground,660,325,872,6.8,KilmesPech,The South Bohemia. D�lava,0,0
+Czech Republic,Woodland/Shrubland,Salt,6,,243,48.95322,14.5926,,3-4 m in the forest (near edge) along a side of a natural meadow. dominant trees: spruce. pine. oak. birch.,481,363,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,0,0
+Czech Republic,Woodland/Shrubland,Salt,6,,244,48.955,14.5889,,approx. 200m in the forest. dominant trees: spruce. pine. oak. birch.,494,361,769,7.6,KilmesPech,The South Bohemia. Ohrazen?,1,20
+Italy,Woodland/Shrubland,Amino Acids,1,,276,43.95207778,11.2242,,Mixed oak woodland,400,76,908,12.3,Santini,,0,0
+Italy,Woodland/Shrubland,Amino Acids,1,,275,43.88453333,11.15969167,,Olive Field,100,72,903,12.6,Santini,,0,0
+Italy,Woodland/Shrubland,Amino Acids,1,,277,43.94119167,11.18501389,,Open fields bordered by oak woodlands. Last ploughing two years before collection.,500,78,922,11.7,Santini,,1,20
+Italy,Woodland/Shrubland,Cookie,9,,276,43.95207778,11.2242,,Mixed oak woodland,400,76,908,12.3,Santini,,0,0
+Italy,Woodland/Shrubland,Cookie,9,,275,43.88453333,11.15969167,,Olive Field,100,72,903,12.6,Santini,,3,20
+Italy,Woodland/Shrubland,Cookie,9,,277,43.94119167,11.18501389,,Open fields bordered by oak woodlands. Last ploughing two years before collection.,500,78,922,11.7,Santini,,6,40
+Italy,Woodland/Shrubland,Sugar,104,,276,43.95207778,11.2242,,Mixed oak woodland,400,76,908,12.3,Santini,,68,100
+Italy,Woodland/Shrubland,Sugar,104,,275,43.88453333,11.15969167,,Olive Field,100,72,903,12.6,Santini,,23,80
+Italy,Woodland/Shrubland,Sugar,104,,277,43.94119167,11.18501389,,Open fields bordered by oak woodlands. Last ploughing two years before collection.,500,78,922,11.7,Santini,,13,40
+Italy,Woodland/Shrubland,Water,0,,276,43.95207778,11.2242,,Mixed oak woodland,400,76,908,12.3,Santini,,0,0
+Italy,Woodland/Shrubland,Water,0,,275,43.88453333,11.15969167,,Olive Field,100,72,903,12.6,Santini,,0,0
+Italy,Woodland/Shrubland,Water,0,,277,43.94119167,11.18501389,,Open fields bordered by oak woodlands. Last ploughing two years before collection.,500,78,922,11.7,Santini,,0,0
+Italy,Woodland/Shrubland,Olive Oil,171,,276,43.95207778,11.2242,,Mixed oak woodland,400,76,908,12.3,Santini,,31,40
+Italy,Woodland/Shrubland,Olive Oil,171,,275,43.88453333,11.15969167,,Olive Field,100,72,903,12.6,Santini,,92,100
+Italy,Woodland/Shrubland,Olive Oil,171,,277,43.94119167,11.18501389,,Open fields bordered by oak woodlands. Last ploughing two years before collection.,500,78,922,11.7,Santini,,48,80
+Italy,Woodland/Shrubland,Salt,11,,276,43.95207778,11.2242,,Mixed oak woodland,400,76,908,12.3,Santini,,5,40
+Italy,Woodland/Shrubland,Salt,11,,275,43.88453333,11.15969167,,Olive Field,100,72,903,12.6,Santini,,6,40
+Italy,Woodland/Shrubland,Salt,11,,277,43.94119167,11.18501389,,Open fields bordered by oak woodlands. Last ploughing two years before collection.,500,78,922,11.7,Santini,,0,0
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,3,-2.929173,-59.971758,,"tropical ""terra-firme"" forest",60,1060,2189,27.2,Baccaro,Brazil,11,80
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,1,-23.345996,-51.138344,,Secondary old growth forest,511,366,1417,21.1,Baccaro,Brazil 2 - (Baccaro),18,80
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,60,3.3675,-61.4383,,semideciduous tropical forest,73,491,1641,26.9,Baccaro,Brazil 3 - Baccaro,5,20
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,61,1.4894,-61.0082,,Tropical forest,56,630,1842,27.2,Baccaro,Brazil 4 - Baccaro,30,100
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,63,-2.41667,-59.7544,,"tropical ""terra-firme"" forest (plateau)",120,1150,2407,26.8,Baccaro,Brazil 6 - Baccaro,28,60
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,165,-17.80138889,-48.68419444,,Cerrado (=savannah),1020,731,1440,22.1,Vasoncelos,Goias,0,0
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,167,-19.29280556,-48.65883333,,Dry Forest,800,595,1426,22.4,Vasoncelos,MG,11,60
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,164,-6.052888889,-50.25947222,,undisturbed. tropical rain forest,703,705,1919,23.5,Vasoncelos,Para,2,40
+Brazil,Tropical seasonal forest/Savanna,Amino Acids,222,,166,-21.97805556,-47.88377778,,Cerrado (=savannah),830,293,1440,19.5,Vasoncelos,Sao Paulo,117,80
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,3,-2.929173,-59.971758,,"tropical ""terra-firme"" forest",60,1060,2189,27.2,Baccaro,Brazil,49,60
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,1,-23.345996,-51.138344,,Secondary old growth forest,511,366,1417,21.1,Baccaro,Brazil 2 - (Baccaro),67,100
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,60,3.3675,-61.4383,,semideciduous tropical forest,73,491,1641,26.9,Baccaro,Brazil 3 - Baccaro,39,80
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,61,1.4894,-61.0082,,Tropical forest,56,630,1842,27.2,Baccaro,Brazil 4 - Baccaro,155,100
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,63,-2.41667,-59.7544,,"tropical ""terra-firme"" forest (plateau)",120,1150,2407,26.8,Baccaro,Brazil 6 - Baccaro,70,100
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,165,-17.80138889,-48.68419444,,Cerrado (=savannah),1020,731,1440,22.1,Vasoncelos,Goias,18,60
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,167,-19.29280556,-48.65883333,,Dry Forest,800,595,1426,22.4,Vasoncelos,MG,153,100
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,164,-6.052888889,-50.25947222,,undisturbed. tropical rain forest,703,705,1919,23.5,Vasoncelos,Para,37,100
+Brazil,Tropical seasonal forest/Savanna,Cookie,605,,166,-21.97805556,-47.88377778,,Cerrado (=savannah),830,293,1440,19.5,Vasoncelos,Sao Paulo,17,100
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,3,-2.929173,-59.971758,,"tropical ""terra-firme"" forest",60,1060,2189,27.2,Baccaro,Brazil,58,100
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,1,-23.345996,-51.138344,,Secondary old growth forest,511,366,1417,21.1,Baccaro,Brazil 2 - (Baccaro),56,80
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,60,3.3675,-61.4383,,semideciduous tropical forest,73,491,1641,26.9,Baccaro,Brazil 3 - Baccaro,114,100
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,61,1.4894,-61.0082,,Tropical forest,56,630,1842,27.2,Baccaro,Brazil 4 - Baccaro,94,100
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,63,-2.41667,-59.7544,,"tropical ""terra-firme"" forest (plateau)",120,1150,2407,26.8,Baccaro,Brazil 6 - Baccaro,72,100
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,165,-17.80138889,-48.68419444,,Cerrado (=savannah),1020,731,1440,22.1,Vasoncelos,Goias,185,100
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,167,-19.29280556,-48.65883333,,Dry Forest,800,595,1426,22.4,Vasoncelos,MG,135,100
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,164,-6.052888889,-50.25947222,,undisturbed. tropical rain forest,703,705,1919,23.5,Vasoncelos,Para,83,80
+Brazil,Tropical seasonal forest/Savanna,Sugar,841,,166,-21.97805556,-47.88377778,,Cerrado (=savannah),830,293,1440,19.5,Vasoncelos,Sao Paulo,44,100
+Brazil,Tropical seasonal forest/Savanna,Water,39,,3,-2.929173,-59.971758,,"tropical ""terra-firme"" forest",60,1060,2189,27.2,Baccaro,Brazil,1,20
+Brazil,Tropical seasonal forest/Savanna,Water,39,,1,-23.345996,-51.138344,,Secondary old growth forest,511,366,1417,21.1,Baccaro,Brazil 2 - (Baccaro),0,0
+Brazil,Tropical seasonal forest/Savanna,Water,39,,60,3.3675,-61.4383,,semideciduous tropical forest,73,491,1641,26.9,Baccaro,Brazil 3 - Baccaro,0,0
+Brazil,Tropical seasonal forest/Savanna,Water,39,,61,1.4894,-61.0082,,Tropical forest,56,630,1842,27.2,Baccaro,Brazil 4 - Baccaro,8,60
+Brazil,Tropical seasonal forest/Savanna,Water,39,,63,-2.41667,-59.7544,,"tropical ""terra-firme"" forest (plateau)",120,1150,2407,26.8,Baccaro,Brazil 6 - Baccaro,0,0
+Brazil,Tropical seasonal forest/Savanna,Water,39,,165,-17.80138889,-48.68419444,,Cerrado (=savannah),1020,731,1440,22.1,Vasoncelos,Goias,2,40
+Brazil,Tropical seasonal forest/Savanna,Water,39,,167,-19.29280556,-48.65883333,,Dry Forest,800,595,1426,22.4,Vasoncelos,MG,8,60
+Brazil,Tropical seasonal forest/Savanna,Water,39,,164,-6.052888889,-50.25947222,,undisturbed. tropical rain forest,703,705,1919,23.5,Vasoncelos,Para,5,80
+Brazil,Tropical seasonal forest/Savanna,Water,39,,166,-21.97805556,-47.88377778,,Cerrado (=savannah),830,293,1440,19.5,Vasoncelos,Sao Paulo,15,20
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,3,-2.929173,-59.971758,,"tropical ""terra-firme"" forest",60,1060,2189,27.2,Baccaro,Brazil,265,100
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,1,-23.345996,-51.138344,,Secondary old growth forest,511,366,1417,21.1,Baccaro,Brazil 2 - (Baccaro),82,40
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,60,3.3675,-61.4383,,semideciduous tropical forest,73,491,1641,26.9,Baccaro,Brazil 3 - Baccaro,662,100
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,61,1.4894,-61.0082,,Tropical forest,56,630,1842,27.2,Baccaro,Brazil 4 - Baccaro,457,100
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,63,-2.41667,-59.7544,,"tropical ""terra-firme"" forest (plateau)",120,1150,2407,26.8,Baccaro,Brazil 6 - Baccaro,203,100
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,165,-17.80138889,-48.68419444,,Cerrado (=savannah),1020,731,1440,22.1,Vasoncelos,Goias,357,80
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,167,-19.29280556,-48.65883333,,Dry Forest,800,595,1426,22.4,Vasoncelos,MG,296,100
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,164,-6.052888889,-50.25947222,,undisturbed. tropical rain forest,703,705,1919,23.5,Vasoncelos,Para,150,100
+Brazil,Tropical seasonal forest/Savanna,Olive Oil,2613,,166,-21.97805556,-47.88377778,,Cerrado (=savannah),830,293,1440,19.5,Vasoncelos,Sao Paulo,141,80
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,3,-2.929173,-59.971758,,"tropical ""terra-firme"" forest",60,1060,2189,27.2,Baccaro,Brazil,7,60
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,1,-23.345996,-51.138344,,Secondary old growth forest,511,366,1417,21.1,Baccaro,Brazil 2 - (Baccaro),9,80
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,60,3.3675,-61.4383,,semideciduous tropical forest,73,491,1641,26.9,Baccaro,Brazil 3 - Baccaro,115,40
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,61,1.4894,-61.0082,,Tropical forest,56,630,1842,27.2,Baccaro,Brazil 4 - Baccaro,51,100
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,63,-2.41667,-59.7544,,"tropical ""terra-firme"" forest (plateau)",120,1150,2407,26.8,Baccaro,Brazil 6 - Baccaro,92,100
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,165,-17.80138889,-48.68419444,,Cerrado (=savannah),1020,731,1440,22.1,Vasoncelos,Goias,5,60
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,167,-19.29280556,-48.65883333,,Dry Forest,800,595,1426,22.4,Vasoncelos,MG,27,100
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,164,-6.052888889,-50.25947222,,undisturbed. tropical rain forest,703,705,1919,23.5,Vasoncelos,Para,20,60
+Brazil,Tropical seasonal forest/Savanna,Salt,404,,166,-21.97805556,-47.88377778,,Cerrado (=savannah),830,293,1440,19.5,Vasoncelos,Sao Paulo,78,60
+Guatemala,Tropical seasonal forest/Savanna,Amino Acids,36,,14,15.42,-89,,Habitat type: Lake-side rocky beach,90,50,2414,25.5,Del Toro; R. Ribbons,Guatemala. Izabal. Lago Izabal Sur. Mariscos. Playa Dorada,0,0
+Guatemala,Tropical seasonal forest/Savanna,Amino Acids,36,,15,16.93,-89.89,,Urban park,120,167,1549,25.5,Del Toro; R. Ribbons,Guatemala.Peten. Santa Elena. Flores. Urban Transect in city park,18,40
+Guatemala,Tropical seasonal forest/Savanna,Amino Acids,36,,187,16.99943,-89.714925,,Nature Reserve. Prestine hiking area,182,129,1461,25.5,Del Toro; R. Ribbons,,18,40
+Guatemala,Tropical seasonal forest/Savanna,Cookie,852,,14,15.42,-89,,Habitat type: Lake-side rocky beach,90,50,2414,25.5,Del Toro; R. Ribbons,Guatemala. Izabal. Lago Izabal Sur. Mariscos. Playa Dorada,848,100
+Guatemala,Tropical seasonal forest/Savanna,Cookie,852,,15,16.93,-89.89,,Urban park,120,167,1549,25.5,Del Toro; R. Ribbons,Guatemala.Peten. Santa Elena. Flores. Urban Transect in city park,2,20
+Guatemala,Tropical seasonal forest/Savanna,Cookie,852,,187,16.99943,-89.714925,,Nature Reserve. Prestine hiking area,182,129,1461,25.5,Del Toro; R. Ribbons,,2,20
+Guatemala,Tropical seasonal forest/Savanna,Sugar,47,,14,15.42,-89,,Habitat type: Lake-side rocky beach,90,50,2414,25.5,Del Toro; R. Ribbons,Guatemala. Izabal. Lago Izabal Sur. Mariscos. Playa Dorada,9,60
+Guatemala,Tropical seasonal forest/Savanna,Sugar,47,,15,16.93,-89.89,,Urban park,120,167,1549,25.5,Del Toro; R. Ribbons,Guatemala.Peten. Santa Elena. Flores. Urban Transect in city park,19,40
+Guatemala,Tropical seasonal forest/Savanna,Sugar,47,,187,16.99943,-89.714925,,Nature Reserve. Prestine hiking area,182,129,1461,25.5,Del Toro; R. Ribbons,,19,40
+Guatemala,Tropical seasonal forest/Savanna,Water,22,,14,15.42,-89,,Habitat type: Lake-side rocky beach,90,50,2414,25.5,Del Toro; R. Ribbons,Guatemala. Izabal. Lago Izabal Sur. Mariscos. Playa Dorada,0,0
+Guatemala,Tropical seasonal forest/Savanna,Water,22,,15,16.93,-89.89,,Urban park,120,167,1549,25.5,Del Toro; R. Ribbons,Guatemala.Peten. Santa Elena. Flores. Urban Transect in city park,11,40
+Guatemala,Tropical seasonal forest/Savanna,Water,22,,187,16.99943,-89.714925,,Nature Reserve. Prestine hiking area,182,129,1461,25.5,Del Toro; R. Ribbons,,11,40
+Guatemala,Tropical seasonal forest/Savanna,Olive Oil,65,,14,15.42,-89,,Habitat type: Lake-side rocky beach,90,50,2414,25.5,Del Toro; R. Ribbons,Guatemala. Izabal. Lago Izabal Sur. Mariscos. Playa Dorada,65,40
+Guatemala,Tropical seasonal forest/Savanna,Olive Oil,65,,15,16.93,-89.89,,Urban park,120,167,1549,25.5,Del Toro; R. Ribbons,Guatemala.Peten. Santa Elena. Flores. Urban Transect in city park,0,0
+Guatemala,Tropical seasonal forest/Savanna,Olive Oil,65,,187,16.99943,-89.714925,,Nature Reserve. Prestine hiking area,182,129,1461,25.5,Del Toro; R. Ribbons,,0,0
+Guatemala,Tropical seasonal forest/Savanna,Salt,128,,14,15.42,-89,,Habitat type: Lake-side rocky beach,90,50,2414,25.5,Del Toro; R. Ribbons,Guatemala. Izabal. Lago Izabal Sur. Mariscos. Playa Dorada,52,60
+Guatemala,Tropical seasonal forest/Savanna,Salt,128,,15,16.93,-89.89,,Urban park,120,167,1549,25.5,Del Toro; R. Ribbons,Guatemala.Peten. Santa Elena. Flores. Urban Transect in city park,38,60
+Guatemala,Tropical seasonal forest/Savanna,Salt,128,,187,16.99943,-89.714925,,Nature Reserve. Prestine hiking area,182,129,1461,25.5,Del Toro; R. Ribbons,,38,60
+Argentina,Tropical seasonal forest/Savanna,Amino Acids,27,,169,-25.672171,-54.448918,,subtropical rainforest,180,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,4,40
+Argentina,Tropical seasonal forest/Savanna,Amino Acids,27,,168,-25.67483333,-54.44975,,subtropical rainforest,192,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,4,40
+Argentina,Tropical seasonal forest/Savanna,Amino Acids,27,,172,-25.6769,-58.44948333,,subtropical rainforest,190,1023,1209,22.3,C. Paris; P. Hanish; B.Wills; A. Suarez,,0,0
+Argentina,Tropical seasonal forest/Savanna,Amino Acids,27,,173,-25.64506667,-58.3232,,subtropical rainforest,180,975,1236,22.4,C. Paris; P. Hanish; B.Wills; A. Suarez,,19,60
+Argentina,Temperate seasonal forest,Amino Acids,4,,170,-27.46056,-58.55523,,Celtis tala forest and grassland,63,985,1253,21.8,C. Paris; P. Hanish; B.Wills; A. Suarez,,2,20
+Argentina,Temperate seasonal forest,Amino Acids,4,,171,-27.60605,-58.74098,,forest and grasslandwith Cortadeira selloana,60,1041,1226,21.5,C. Paris; P. Hanish; B.Wills; A. Suarez,,2,20
+Argentina,Grassland/Cold desert,Amino Acids,10,,174,-25.04598333,-66.01336667,,open shrubland,1866,457,181,11.6,C. Paris; P. Hanish; B.Wills; A. Suarez,,8,80
+Argentina,Grassland/Cold desert,Amino Acids,10,,175,-26.63379167,-65.95915833,,arid shrubland,1975,464,207,15.1,C. Paris; P. Hanish; B.Wills; A. Suarez,,2,20
+Argentina,Grassland/Cold desert,Amino Acids,10,,176,-26.76833333,-65.32333333,,subtropical mountain forest,732,532,892,19,C. Paris; P. Hanish; B.Wills; A. Suarez,,0,0
+Argentina,Tropical seasonal forest/Savanna,Cookie,134,,169,-25.672171,-54.448918,,subtropical rainforest,180,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,18,60
+Argentina,Tropical seasonal forest/Savanna,Cookie,134,,168,-25.67483333,-54.44975,,subtropical rainforest,192,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,21,80
+Argentina,Tropical seasonal forest/Savanna,Cookie,134,,172,-25.6769,-58.44948333,,subtropical rainforest,190,1023,1209,22.3,C. Paris; P. Hanish; B.Wills; A. Suarez,,23,60
+Argentina,Tropical seasonal forest/Savanna,Cookie,134,,173,-25.64506667,-58.3232,,subtropical rainforest,180,975,1236,22.4,C. Paris; P. Hanish; B.Wills; A. Suarez,,72,80
+Argentina,Tropical seasonal forest/Savanna,Sugar,419,,169,-25.672171,-54.448918,,subtropical rainforest,180,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,103,100
+Argentina,Tropical seasonal forest/Savanna,Sugar,419,,168,-25.67483333,-54.44975,,subtropical rainforest,192,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,8,40
+Argentina,Tropical seasonal forest/Savanna,Sugar,419,,172,-25.6769,-58.44948333,,subtropical rainforest,190,1023,1209,22.3,C. Paris; P. Hanish; B.Wills; A. Suarez,,58,100
+Argentina,Tropical seasonal forest/Savanna,Sugar,419,,173,-25.64506667,-58.3232,,subtropical rainforest,180,975,1236,22.4,C. Paris; P. Hanish; B.Wills; A. Suarez,,250,100
+Argentina,Tropical seasonal forest/Savanna,Water,11,,169,-25.672171,-54.448918,,subtropical rainforest,180,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,6,60
+Argentina,Tropical seasonal forest/Savanna,Water,11,,168,-25.67483333,-54.44975,,subtropical rainforest,192,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,1,20
+Argentina,Tropical seasonal forest/Savanna,Water,11,,172,-25.6769,-58.44948333,,subtropical rainforest,190,1023,1209,22.3,C. Paris; P. Hanish; B.Wills; A. Suarez,,2,20
+Argentina,Tropical seasonal forest/Savanna,Water,11,,173,-25.64506667,-58.3232,,subtropical rainforest,180,975,1236,22.4,C. Paris; P. Hanish; B.Wills; A. Suarez,,2,40
+Argentina,Tropical seasonal forest/Savanna,Olive Oil,584,,169,-25.672171,-54.448918,,subtropical rainforest,180,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,97,80
+Argentina,Tropical seasonal forest/Savanna,Olive Oil,584,,168,-25.67483333,-54.44975,,subtropical rainforest,192,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,197,60
+Argentina,Tropical seasonal forest/Savanna,Olive Oil,584,,172,-25.6769,-58.44948333,,subtropical rainforest,190,1023,1209,22.3,C. Paris; P. Hanish; B.Wills; A. Suarez,,142,80
+Argentina,Tropical seasonal forest/Savanna,Olive Oil,584,,173,-25.64506667,-58.3232,,subtropical rainforest,180,975,1236,22.4,C. Paris; P. Hanish; B.Wills; A. Suarez,,148,100
+Argentina,Tropical seasonal forest/Savanna,Salt,169,,169,-25.672171,-54.448918,,subtropical rainforest,180,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,10,60
+Argentina,Tropical seasonal forest/Savanna,Salt,169,,168,-25.67483333,-54.44975,,subtropical rainforest,192,574,1716,21.1,C. Paris; P. Hanish; B.Wills; A. Suarez,Iguazu,34,80
+Argentina,Tropical seasonal forest/Savanna,Salt,169,,172,-25.6769,-58.44948333,,subtropical rainforest,190,1023,1209,22.3,C. Paris; P. Hanish; B.Wills; A. Suarez,,35,60
+Argentina,Tropical seasonal forest/Savanna,Salt,169,,173,-25.64506667,-58.3232,,subtropical rainforest,180,975,1236,22.4,C. Paris; P. Hanish; B.Wills; A. Suarez,,90,80
+Argentina,Temperate seasonal forest,Cookie,48,,170,-27.46056,-58.55523,,Celtis tala forest and grassland,63,985,1253,21.8,C. Paris; P. Hanish; B.Wills; A. Suarez,,22,60
+Argentina,Temperate seasonal forest,Cookie,48,,171,-27.60605,-58.74098,,forest and grasslandwith Cortadeira selloana,60,1041,1226,21.5,C. Paris; P. Hanish; B.Wills; A. Suarez,,26,60
+Argentina,Temperate seasonal forest,Sugar,106,,170,-27.46056,-58.55523,,Celtis tala forest and grassland,63,985,1253,21.8,C. Paris; P. Hanish; B.Wills; A. Suarez,,22,80
+Argentina,Temperate seasonal forest,Sugar,106,,171,-27.60605,-58.74098,,forest and grasslandwith Cortadeira selloana,60,1041,1226,21.5,C. Paris; P. Hanish; B.Wills; A. Suarez,,84,40
+Argentina,Temperate seasonal forest,Water,1,,170,-27.46056,-58.55523,,Celtis tala forest and grassland,63,985,1253,21.8,C. Paris; P. Hanish; B.Wills; A. Suarez,,0,0
+Argentina,Temperate seasonal forest,Water,1,,171,-27.60605,-58.74098,,forest and grasslandwith Cortadeira selloana,60,1041,1226,21.5,C. Paris; P. Hanish; B.Wills; A. Suarez,,1,20
+Argentina,Temperate seasonal forest,Olive Oil,7,,170,-27.46056,-58.55523,,Celtis tala forest and grassland,63,985,1253,21.8,C. Paris; P. Hanish; B.Wills; A. Suarez,,0,0
+Argentina,Temperate seasonal forest,Olive Oil,7,,171,-27.60605,-58.74098,,forest and grasslandwith Cortadeira selloana,60,1041,1226,21.5,C. Paris; P. Hanish; B.Wills; A. Suarez,,7,40
+Argentina,Temperate seasonal forest,Salt,4,,170,-27.46056,-58.55523,,Celtis tala forest and grassland,63,985,1253,21.8,C. Paris; P. Hanish; B.Wills; A. Suarez,,0,0
+Argentina,Temperate seasonal forest,Salt,4,,171,-27.60605,-58.74098,,forest and grasslandwith Cortadeira selloana,60,1041,1226,21.5,C. Paris; P. Hanish; B.Wills; A. Suarez,,4,40
+Argentina,Grassland/Cold desert,Cookie,9,,174,-25.04598333,-66.01336667,,open shrubland,1866,457,181,11.6,C. Paris; P. Hanish; B.Wills; A. Suarez,,3,20
+Argentina,Grassland/Cold desert,Cookie,9,,175,-26.63379167,-65.95915833,,arid shrubland,1975,464,207,15.1,C. Paris; P. Hanish; B.Wills; A. Suarez,,5,80
+Argentina,Grassland/Cold desert,Cookie,9,,176,-26.76833333,-65.32333333,,subtropical mountain forest,732,532,892,19,C. Paris; P. Hanish; B.Wills; A. Suarez,,1,20
+Argentina,Grassland/Cold desert,Sugar,117,,174,-25.04598333,-66.01336667,,open shrubland,1866,457,181,11.6,C. Paris; P. Hanish; B.Wills; A. Suarez,,2,20
+Argentina,Grassland/Cold desert,Sugar,117,,175,-26.63379167,-65.95915833,,arid shrubland,1975,464,207,15.1,C. Paris; P. Hanish; B.Wills; A. Suarez,,110,40
+Argentina,Grassland/Cold desert,Sugar,117,,176,-26.76833333,-65.32333333,,subtropical mountain forest,732,532,892,19,C. Paris; P. Hanish; B.Wills; A. Suarez,,5,60
+Argentina,Grassland/Cold desert,Water,2,,174,-25.04598333,-66.01336667,,open shrubland,1866,457,181,11.6,C. Paris; P. Hanish; B.Wills; A. Suarez,,2,20
+Argentina,Grassland/Cold desert,Water,2,,175,-26.63379167,-65.95915833,,arid shrubland,1975,464,207,15.1,C. Paris; P. Hanish; B.Wills; A. Suarez,,0,0
+Argentina,Grassland/Cold desert,Water,2,,176,-26.76833333,-65.32333333,,subtropical mountain forest,732,532,892,19,C. Paris; P. Hanish; B.Wills; A. Suarez,,0,0
+Argentina,Grassland/Cold desert,Olive Oil,29,,174,-25.04598333,-66.01336667,,open shrubland,1866,457,181,11.6,C. Paris; P. Hanish; B.Wills; A. Suarez,,25,60
+Argentina,Grassland/Cold desert,Olive Oil,29,,175,-26.63379167,-65.95915833,,arid shrubland,1975,464,207,15.1,C. Paris; P. Hanish; B.Wills; A. Suarez,,3,40
+Argentina,Grassland/Cold desert,Olive Oil,29,,176,-26.76833333,-65.32333333,,subtropical mountain forest,732,532,892,19,C. Paris; P. Hanish; B.Wills; A. Suarez,,1,20
+Argentina,Grassland/Cold desert,Salt,10,,174,-25.04598333,-66.01336667,,open shrubland,1866,457,181,11.6,C. Paris; P. Hanish; B.Wills; A. Suarez,,7,80
+Argentina,Grassland/Cold desert,Salt,10,,175,-26.63379167,-65.95915833,,arid shrubland,1975,464,207,15.1,C. Paris; P. Hanish; B.Wills; A. Suarez,,2,40
+Argentina,Grassland/Cold desert,Salt,10,,176,-26.76833333,-65.32333333,,subtropical mountain forest,732,532,892,19,C. Paris; P. Hanish; B.Wills; A. Suarez,,1,20
+New Caladonia,Tropical seasonal forest/Savanna,Amino Acids,89,,95,-21.18583,165.22944,,Rainforest on volcano-sedimentary soils,451,22,1628,21,Berman,New Caledonai 2 - Berman,80,40
+New Caladonia,Tropical seasonal forest/Savanna,Amino Acids,89,,94,-21.208,165.298,,Rainforest on volcano-sedimentary soils,498,21,1636,20.4,Berman,New Caledonia 1 - Berman,0,0
+New Caladonia,Tropical seasonal forest/Savanna,Amino Acids,89,,96,-22.15444,166.59417,,Rainforest on ultramafic soils,451,10,2052,20.3,Berman,New Caledonia 3 - Berman,9,60
+New Caladonia,Tropical seasonal forest/Savanna,Cookie,129,,95,-21.18583,165.22944,,Rainforest on volcano-sedimentary soils,451,22,1628,21,Berman,New Caledonai 2 - Berman,46,80
+New Caladonia,Tropical seasonal forest/Savanna,Cookie,129,,94,-21.208,165.298,,Rainforest on volcano-sedimentary soils,498,21,1636,20.4,Berman,New Caledonia 1 - Berman,71,80
+New Caladonia,Tropical seasonal forest/Savanna,Cookie,129,,96,-22.15444,166.59417,,Rainforest on ultramafic soils,451,10,2052,20.3,Berman,New Caledonia 3 - Berman,12,60
+New Caladonia,Tropical seasonal forest/Savanna,Sugar,99,,95,-21.18583,165.22944,,Rainforest on volcano-sedimentary soils,451,22,1628,21,Berman,New Caledonai 2 - Berman,73,100
+New Caladonia,Tropical seasonal forest/Savanna,Sugar,99,,94,-21.208,165.298,,Rainforest on volcano-sedimentary soils,498,21,1636,20.4,Berman,New Caledonia 1 - Berman,19,60
+New Caladonia,Tropical seasonal forest/Savanna,Sugar,99,,96,-22.15444,166.59417,,Rainforest on ultramafic soils,451,10,2052,20.3,Berman,New Caledonia 3 - Berman,7,80
+New Caladonia,Tropical seasonal forest/Savanna,Water,193,,95,-21.18583,165.22944,,Rainforest on volcano-sedimentary soils,451,22,1628,21,Berman,New Caledonai 2 - Berman,93,80
+New Caladonia,Tropical seasonal forest/Savanna,Water,193,,94,-21.208,165.298,,Rainforest on volcano-sedimentary soils,498,21,1636,20.4,Berman,New Caledonia 1 - Berman,0,0
+New Caladonia,Tropical seasonal forest/Savanna,Water,193,,96,-22.15444,166.59417,,Rainforest on ultramafic soils,451,10,2052,20.3,Berman,New Caledonia 3 - Berman,100,60
+New Caladonia,Tropical seasonal forest/Savanna,Olive Oil,242,,95,-21.18583,165.22944,,Rainforest on volcano-sedimentary soils,451,22,1628,21,Berman,New Caledonai 2 - Berman,61,60
+New Caladonia,Tropical seasonal forest/Savanna,Olive Oil,242,,94,-21.208,165.298,,Rainforest on volcano-sedimentary soils,498,21,1636,20.4,Berman,New Caledonia 1 - Berman,140,100
+New Caladonia,Tropical seasonal forest/Savanna,Olive Oil,242,,96,-22.15444,166.59417,,Rainforest on ultramafic soils,451,10,2052,20.3,Berman,New Caledonia 3 - Berman,41,60
+New Caladonia,Tropical seasonal forest/Savanna,Salt,101,,95,-21.18583,165.22944,,Rainforest on volcano-sedimentary soils,451,22,1628,21,Berman,New Caledonai 2 - Berman,93,100
+New Caladonia,Tropical seasonal forest/Savanna,Salt,101,,94,-21.208,165.298,,Rainforest on volcano-sedimentary soils,498,21,1636,20.4,Berman,New Caledonia 1 - Berman,0,0
+New Caladonia,Tropical seasonal forest/Savanna,Salt,101,,96,-22.15444,166.59417,,Rainforest on ultramafic soils,451,10,2052,20.3,Berman,New Caledonia 3 - Berman,8,40
+Papua New Guinea,Tropical seasonal forest/Savanna,Amino Acids,0,,161,-8.52,146.756,,Primary Forest,48,36,1851,24.2,Le Ponce Delsinne,PNG; Primary Forest,0,0
+Papua New Guinea,Tropical seasonal forest/Savanna,Cookie,35,,161,-8.52,146.756,,Primary Forest,48,36,1851,24.2,Le Ponce Delsinne,PNG; Primary Forest,35,80
+Papua New Guinea,Tropical seasonal forest/Savanna,Sugar,42,,161,-8.52,146.756,,Primary Forest,48,36,1851,24.2,Le Ponce Delsinne,PNG; Primary Forest,42,60
+Papua New Guinea,Tropical seasonal forest/Savanna,Water,0,,161,-8.52,146.756,,Primary Forest,48,36,1851,24.2,Le Ponce Delsinne,PNG; Primary Forest,0,0
+Papua New Guinea,Tropical seasonal forest/Savanna,Olive Oil,528,,161,-8.52,146.756,,Primary Forest,48,36,1851,24.2,Le Ponce Delsinne,PNG; Primary Forest,528,100
+Papua New Guinea,Tropical seasonal forest/Savanna,Salt,1,,161,-8.52,146.756,,Primary Forest,48,36,1851,24.2,Le Ponce Delsinne,PNG; Primary Forest,1,20
+Tanzania,Tropical seasonal forest/Savanna,Amino Acids,360,,260,-3.374798389,37.45488224,,Savannah,871,279,991,22.1,M.Peters;J.Roeder,SAV1,284,100
+Tanzania,Tropical seasonal forest/Savanna,Amino Acids,360,,261,-3.380924975,37.4965256,,Savannah,912,280,720,23.2,M.Peters;J.Roeder,SAV2,15,20
+Tanzania,Tropical seasonal forest/Savanna,Amino Acids,360,,262,-3.330329109,37.64309873,,Savannah,1130,281,948,21.4,M.Peters;J.Roeder,SAV3,11,40
+Tanzania,Tropical seasonal forest/Savanna,Amino Acids,360,,263,-3.318823282,37.68287222,,Savannah,993,272,740,22.2,M.Peters;J.Roeder,SAV4,16,80
+Tanzania,Tropical seasonal forest/Savanna,Amino Acids,360,,264,-3.307654271,37.68401527,,Savannah,950,269,740,22.2,M.Peters;J.Roeder,SAV5,34,80
+Tanzania,Temperate seasonal forest,Amino Acids,8,,254,-3.167537766,37.23626359,,lower/sub-montane rainforest,1920,294,1343,17.9,M.Peters;J.Roeder,FLM1,2,40
+Tanzania,Temperate seasonal forest,Amino Acids,8,,255,-3.211876699,37.3432687,,lower/sub-montane rainforest,1800,282,1467,18,M.Peters;J.Roeder,FLM2,0,0
+Tanzania,Temperate seasonal forest,Amino Acids,8,,256,-3.26038475,37.41801168,,lower/sub-montane rainforest,1620,286,1292,17.3,M.Peters;J.Roeder,FLM3,6,80
+Tanzania,Temperate seasonal forest,Amino Acids,8,,257,-3.257719292,37.42020749,,lower/sub-montane rainforest,1650,280,1292,17.3,M.Peters;J.Roeder,FLM4,0,0
+Tanzania,Temperate seasonal forest,Amino Acids,8,,258,-3.225950955,37.5189384,,lower/sub-montane rainforest,2020,283,1200,16,M.Peters;J.Roeder,FLM5,0,0
+Tanzania,Temperate seasonal forest,Amino Acids,8,,259,-3.228386735,37.51975506,,lower/sub-montane rainforest,2040,283,1200,16,M.Peters;J.Roeder,FLM6,0,0
+Tanzania,Tropical seasonal forest/Savanna,Cookie,1818,,260,-3.374798389,37.45488224,,Savannah,871,279,991,22.1,M.Peters;J.Roeder,SAV1,798,100
+Tanzania,Tropical seasonal forest/Savanna,Cookie,1818,,261,-3.380924975,37.4965256,,Savannah,912,280,720,23.2,M.Peters;J.Roeder,SAV2,790,100
+Tanzania,Tropical seasonal forest/Savanna,Cookie,1818,,262,-3.330329109,37.64309873,,Savannah,1130,281,948,21.4,M.Peters;J.Roeder,SAV3,3,40
+Tanzania,Tropical seasonal forest/Savanna,Cookie,1818,,263,-3.318823282,37.68287222,,Savannah,993,272,740,22.2,M.Peters;J.Roeder,SAV4,21,60
+Tanzania,Tropical seasonal forest/Savanna,Cookie,1818,,264,-3.307654271,37.68401527,,Savannah,950,269,740,22.2,M.Peters;J.Roeder,SAV5,206,60
+Tanzania,Tropical seasonal forest/Savanna,Sugar,1755,,260,-3.374798389,37.45488224,,Savannah,871,279,991,22.1,M.Peters;J.Roeder,SAV1,1143,60
+Tanzania,Tropical seasonal forest/Savanna,Sugar,1755,,261,-3.380924975,37.4965256,,Savannah,912,280,720,23.2,M.Peters;J.Roeder,SAV2,192,60
+Tanzania,Tropical seasonal forest/Savanna,Sugar,1755,,262,-3.330329109,37.64309873,,Savannah,1130,281,948,21.4,M.Peters;J.Roeder,SAV3,47,80
+Tanzania,Tropical seasonal forest/Savanna,Sugar,1755,,263,-3.318823282,37.68287222,,Savannah,993,272,740,22.2,M.Peters;J.Roeder,SAV4,111,80
+Tanzania,Tropical seasonal forest/Savanna,Sugar,1755,,264,-3.307654271,37.68401527,,Savannah,950,269,740,22.2,M.Peters;J.Roeder,SAV5,262,80
+Tanzania,Tropical seasonal forest/Savanna,Water,982,,260,-3.374798389,37.45488224,,Savannah,871,279,991,22.1,M.Peters;J.Roeder,SAV1,934,60
+Tanzania,Tropical seasonal forest/Savanna,Water,982,,261,-3.380924975,37.4965256,,Savannah,912,280,720,23.2,M.Peters;J.Roeder,SAV2,23,60
+Tanzania,Tropical seasonal forest/Savanna,Water,982,,262,-3.330329109,37.64309873,,Savannah,1130,281,948,21.4,M.Peters;J.Roeder,SAV3,0,0
+Tanzania,Tropical seasonal forest/Savanna,Water,982,,263,-3.318823282,37.68287222,,Savannah,993,272,740,22.2,M.Peters;J.Roeder,SAV4,9,20
+Tanzania,Tropical seasonal forest/Savanna,Water,982,,264,-3.307654271,37.68401527,,Savannah,950,269,740,22.2,M.Peters;J.Roeder,SAV5,16,80
+Tanzania,Tropical seasonal forest/Savanna,Olive Oil,616,,260,-3.374798389,37.45488224,,Savannah,871,279,991,22.1,M.Peters;J.Roeder,SAV1,257,40
+Tanzania,Tropical seasonal forest/Savanna,Olive Oil,616,,261,-3.380924975,37.4965256,,Savannah,912,280,720,23.2,M.Peters;J.Roeder,SAV2,47,60
+Tanzania,Tropical seasonal forest/Savanna,Olive Oil,616,,262,-3.330329109,37.64309873,,Savannah,1130,281,948,21.4,M.Peters;J.Roeder,SAV3,18,20
+Tanzania,Tropical seasonal forest/Savanna,Olive Oil,616,,263,-3.318823282,37.68287222,,Savannah,993,272,740,22.2,M.Peters;J.Roeder,SAV4,10,40
+Tanzania,Tropical seasonal forest/Savanna,Olive Oil,616,,264,-3.307654271,37.68401527,,Savannah,950,269,740,22.2,M.Peters;J.Roeder,SAV5,284,60
+Tanzania,Tropical seasonal forest/Savanna,Salt,486,,260,-3.374798389,37.45488224,,Savannah,871,279,991,22.1,M.Peters;J.Roeder,SAV1,313,60
+Tanzania,Tropical seasonal forest/Savanna,Salt,486,,261,-3.380924975,37.4965256,,Savannah,912,280,720,23.2,M.Peters;J.Roeder,SAV2,9,60
+Tanzania,Tropical seasonal forest/Savanna,Salt,486,,262,-3.330329109,37.64309873,,Savannah,1130,281,948,21.4,M.Peters;J.Roeder,SAV3,20,60
+Tanzania,Tropical seasonal forest/Savanna,Salt,486,,263,-3.318823282,37.68287222,,Savannah,993,272,740,22.2,M.Peters;J.Roeder,SAV4,20,60
+Tanzania,Tropical seasonal forest/Savanna,Salt,486,,264,-3.307654271,37.68401527,,Savannah,950,269,740,22.2,M.Peters;J.Roeder,SAV5,124,80
+Tanzania,Temperate seasonal forest,Cookie,44,,254,-3.167537766,37.23626359,,lower/sub-montane rainforest,1920,294,1343,17.9,M.Peters;J.Roeder,FLM1,26,100
+Tanzania,Temperate seasonal forest,Cookie,44,,255,-3.211876699,37.3432687,,lower/sub-montane rainforest,1800,282,1467,18,M.Peters;J.Roeder,FLM2,0,0
+Tanzania,Temperate seasonal forest,Cookie,44,,256,-3.26038475,37.41801168,,lower/sub-montane rainforest,1620,286,1292,17.3,M.Peters;J.Roeder,FLM3,7,80
+Tanzania,Temperate seasonal forest,Cookie,44,,257,-3.257719292,37.42020749,,lower/sub-montane rainforest,1650,280,1292,17.3,M.Peters;J.Roeder,FLM4,1,20
+Tanzania,Temperate seasonal forest,Cookie,44,,258,-3.225950955,37.5189384,,lower/sub-montane rainforest,2020,283,1200,16,M.Peters;J.Roeder,FLM5,1,20
+Tanzania,Temperate seasonal forest,Cookie,44,,259,-3.228386735,37.51975506,,lower/sub-montane rainforest,2040,283,1200,16,M.Peters;J.Roeder,FLM6,9,20
+Tanzania,Temperate seasonal forest,Sugar,49,,254,-3.167537766,37.23626359,,lower/sub-montane rainforest,1920,294,1343,17.9,M.Peters;J.Roeder,FLM1,22,80
+Tanzania,Temperate seasonal forest,Sugar,49,,255,-3.211876699,37.3432687,,lower/sub-montane rainforest,1800,282,1467,18,M.Peters;J.Roeder,FLM2,0,0
+Tanzania,Temperate seasonal forest,Sugar,49,,256,-3.26038475,37.41801168,,lower/sub-montane rainforest,1620,286,1292,17.3,M.Peters;J.Roeder,FLM3,9,60
+Tanzania,Temperate seasonal forest,Sugar,49,,257,-3.257719292,37.42020749,,lower/sub-montane rainforest,1650,280,1292,17.3,M.Peters;J.Roeder,FLM4,0,0
+Tanzania,Temperate seasonal forest,Sugar,49,,258,-3.225950955,37.5189384,,lower/sub-montane rainforest,2020,283,1200,16,M.Peters;J.Roeder,FLM5,2,40
+Tanzania,Temperate seasonal forest,Sugar,49,,259,-3.228386735,37.51975506,,lower/sub-montane rainforest,2040,283,1200,16,M.Peters;J.Roeder,FLM6,16,40
+Tanzania,Temperate seasonal forest,Water,3,,254,-3.167537766,37.23626359,,lower/sub-montane rainforest,1920,294,1343,17.9,M.Peters;J.Roeder,FLM1,0,0
+Tanzania,Temperate seasonal forest,Water,3,,255,-3.211876699,37.3432687,,lower/sub-montane rainforest,1800,282,1467,18,M.Peters;J.Roeder,FLM2,0,0
+Tanzania,Temperate seasonal forest,Water,3,,256,-3.26038475,37.41801168,,lower/sub-montane rainforest,1620,286,1292,17.3,M.Peters;J.Roeder,FLM3,3,60
+Tanzania,Temperate seasonal forest,Water,3,,257,-3.257719292,37.42020749,,lower/sub-montane rainforest,1650,280,1292,17.3,M.Peters;J.Roeder,FLM4,0,0
+Tanzania,Temperate seasonal forest,Water,3,,258,-3.225950955,37.5189384,,lower/sub-montane rainforest,2020,283,1200,16,M.Peters;J.Roeder,FLM5,0,0
+Tanzania,Temperate seasonal forest,Water,3,,259,-3.228386735,37.51975506,,lower/sub-montane rainforest,2040,283,1200,16,M.Peters;J.Roeder,FLM6,0,0
+Tanzania,Temperate seasonal forest,Olive Oil,136,,254,-3.167537766,37.23626359,,lower/sub-montane rainforest,1920,294,1343,17.9,M.Peters;J.Roeder,FLM1,45,80
+Tanzania,Temperate seasonal forest,Olive Oil,136,,255,-3.211876699,37.3432687,,lower/sub-montane rainforest,1800,282,1467,18,M.Peters;J.Roeder,FLM2,7,40
+Tanzania,Temperate seasonal forest,Olive Oil,136,,256,-3.26038475,37.41801168,,lower/sub-montane rainforest,1620,286,1292,17.3,M.Peters;J.Roeder,FLM3,44,80
+Tanzania,Temperate seasonal forest,Olive Oil,136,,257,-3.257719292,37.42020749,,lower/sub-montane rainforest,1650,280,1292,17.3,M.Peters;J.Roeder,FLM4,2,40
+Tanzania,Temperate seasonal forest,Olive Oil,136,,258,-3.225950955,37.5189384,,lower/sub-montane rainforest,2020,283,1200,16,M.Peters;J.Roeder,FLM5,38,40
+Tanzania,Temperate seasonal forest,Olive Oil,136,,259,-3.228386735,37.51975506,,lower/sub-montane rainforest,2040,283,1200,16,M.Peters;J.Roeder,FLM6,0,0
+Tanzania,Temperate seasonal forest,Salt,7,,254,-3.167537766,37.23626359,,lower/sub-montane rainforest,1920,294,1343,17.9,M.Peters;J.Roeder,FLM1,5,80
+Tanzania,Temperate seasonal forest,Salt,7,,255,-3.211876699,37.3432687,,lower/sub-montane rainforest,1800,282,1467,18,M.Peters;J.Roeder,FLM2,0,0
+Tanzania,Temperate seasonal forest,Salt,7,,256,-3.26038475,37.41801168,,lower/sub-montane rainforest,1620,286,1292,17.3,M.Peters;J.Roeder,FLM3,1,20
+Tanzania,Temperate seasonal forest,Salt,7,,257,-3.257719292,37.42020749,,lower/sub-montane rainforest,1650,280,1292,17.3,M.Peters;J.Roeder,FLM4,0,0
+Tanzania,Temperate seasonal forest,Salt,7,,258,-3.225950955,37.5189384,,lower/sub-montane rainforest,2020,283,1200,16,M.Peters;J.Roeder,FLM5,0,0
+Tanzania,Temperate seasonal forest,Salt,7,,259,-3.228386735,37.51975506,,lower/sub-montane rainforest,2040,283,1200,16,M.Peters;J.Roeder,FLM6,1,20
+Mexico,Tropical seasonal forest/Savanna,Amino Acids,31,,185,20.204287,-87.433705,,Mangrove and Beach Brush,2,1,1208,25.9,Del Toro; R. Ribbons,Tulum,1,20
+Mexico,Tropical seasonal forest/Savanna,Amino Acids,31,,186,20.217256,-87.438692,,Mangrove and Beach Brush,3,1,1209,25.8,Del Toro; R. Ribbons,,14,20
+Mexico,Tropical seasonal forest/Savanna,Amino Acids,31,,188,17.98936,-92.973265,,Organic Cacao Plantation,15,45,1962,26.9,Del Toro; R. Ribbons,,16,60
+Mexico,Tropical rainforest,Amino Acids,1,,189,17.621285,-92.460639,,Subtropical dry forest,210,107,3059,26.3,Del Toro; R. Ribbons,,1,20
+Mexico,Tropical seasonal forest/Savanna,Cookie,644,,185,20.204287,-87.433705,,Mangrove and Beach Brush,2,1,1208,25.9,Del Toro; R. Ribbons,Tulum,71,60
+Mexico,Tropical seasonal forest/Savanna,Cookie,644,,186,20.217256,-87.438692,,Mangrove and Beach Brush,3,1,1209,25.8,Del Toro; R. Ribbons,,94,80
+Mexico,Tropical seasonal forest/Savanna,Cookie,644,,188,17.98936,-92.973265,,Organic Cacao Plantation,15,45,1962,26.9,Del Toro; R. Ribbons,,479,100
+Mexico,Tropical seasonal forest/Savanna,Sugar,175,,185,20.204287,-87.433705,,Mangrove and Beach Brush,2,1,1208,25.9,Del Toro; R. Ribbons,Tulum,106,80
+Mexico,Tropical seasonal forest/Savanna,Sugar,175,,186,20.217256,-87.438692,,Mangrove and Beach Brush,3,1,1209,25.8,Del Toro; R. Ribbons,,41,60
+Mexico,Tropical seasonal forest/Savanna,Sugar,175,,188,17.98936,-92.973265,,Organic Cacao Plantation,15,45,1962,26.9,Del Toro; R. Ribbons,,28,60
+Mexico,Tropical seasonal forest/Savanna,Water,4,,185,20.204287,-87.433705,,Mangrove and Beach Brush,2,1,1208,25.9,Del Toro; R. Ribbons,Tulum,0,0
+Mexico,Tropical seasonal forest/Savanna,Water,4,,186,20.217256,-87.438692,,Mangrove and Beach Brush,3,1,1209,25.8,Del Toro; R. Ribbons,,4,20
+Mexico,Tropical seasonal forest/Savanna,Water,4,,188,17.98936,-92.973265,,Organic Cacao Plantation,15,45,1962,26.9,Del Toro; R. Ribbons,,0,0
+Mexico,Tropical seasonal forest/Savanna,Olive Oil,1146,,185,20.204287,-87.433705,,Mangrove and Beach Brush,2,1,1208,25.9,Del Toro; R. Ribbons,Tulum,50,20
+Mexico,Tropical seasonal forest/Savanna,Olive Oil,1146,,186,20.217256,-87.438692,,Mangrove and Beach Brush,3,1,1209,25.8,Del Toro; R. Ribbons,,58,100
+Mexico,Tropical seasonal forest/Savanna,Olive Oil,1146,,188,17.98936,-92.973265,,Organic Cacao Plantation,15,45,1962,26.9,Del Toro; R. Ribbons,,1038,100
+Mexico,Tropical seasonal forest/Savanna,Salt,29,,185,20.204287,-87.433705,,Mangrove and Beach Brush,2,1,1208,25.9,Del Toro; R. Ribbons,Tulum,0,0
+Mexico,Tropical seasonal forest/Savanna,Salt,29,,186,20.217256,-87.438692,,Mangrove and Beach Brush,3,1,1209,25.8,Del Toro; R. Ribbons,,4,40
+Mexico,Tropical seasonal forest/Savanna,Salt,29,,188,17.98936,-92.973265,,Organic Cacao Plantation,15,45,1962,26.9,Del Toro; R. Ribbons,,25,60
+Mexico,Tropical rainforest,Cookie,673,,189,17.621285,-92.460639,,Subtropical dry forest,210,107,3059,26.3,Del Toro; R. Ribbons,,673,80
+Mexico,Tropical rainforest,Sugar,333,,189,17.621285,-92.460639,,Subtropical dry forest,210,107,3059,26.3,Del Toro; R. Ribbons,,333,80
+Mexico,Tropical rainforest,Water,0,,189,17.621285,-92.460639,,Subtropical dry forest,210,107,3059,26.3,Del Toro; R. Ribbons,,0,0
+Mexico,Tropical rainforest,Olive Oil,4,,189,17.621285,-92.460639,,Subtropical dry forest,210,107,3059,26.3,Del Toro; R. Ribbons,,4,60
+Mexico,Tropical rainforest,Salt,9,,189,17.621285,-92.460639,,Subtropical dry forest,210,107,3059,26.3,Del Toro; R. Ribbons,,9,40
+Cambodia,Tropical seasonal forest/Savanna,Amino Acids,11,,181,12.150661,103.19118,,secondary forest,525,48,2278,24.4,A.S.Suarez; B. Wills,,10,40
+Cambodia,Tropical seasonal forest/Savanna,Amino Acids,11,,180,12.00471,103.2024,,selectively logged forest,560,46,2488,24.4,A.S.Suarez; B. Wills,,1,20
+Cambodia,Tropical rainforest,Amino Acids,12,,182,11.88546,103.07561,,edge of open meadow and selectively logged forest,475,26,3037,25.1,A.S.Suarez; B. Wills,,12,80
+Cambodia,Tropical seasonal forest/Savanna,Cookie,281,,181,12.150661,103.19118,,secondary forest,525,48,2278,24.4,A.S.Suarez; B. Wills,,117,60
+Cambodia,Tropical seasonal forest/Savanna,Cookie,281,,180,12.00471,103.2024,,selectively logged forest,560,46,2488,24.4,A.S.Suarez; B. Wills,,164,100
+Cambodia,Tropical seasonal forest/Savanna,Sugar,397,,181,12.150661,103.19118,,secondary forest,525,48,2278,24.4,A.S.Suarez; B. Wills,,254,100
+Cambodia,Tropical seasonal forest/Savanna,Sugar,397,,180,12.00471,103.2024,,selectively logged forest,560,46,2488,24.4,A.S.Suarez; B. Wills,,143,100
+Cambodia,Tropical seasonal forest/Savanna,Water,104,,181,12.150661,103.19118,,secondary forest,525,48,2278,24.4,A.S.Suarez; B. Wills,,5,80
+Cambodia,Tropical seasonal forest/Savanna,Water,104,,180,12.00471,103.2024,,selectively logged forest,560,46,2488,24.4,A.S.Suarez; B. Wills,,99,40
+Cambodia,Tropical seasonal forest/Savanna,Olive Oil,440,,181,12.150661,103.19118,,secondary forest,525,48,2278,24.4,A.S.Suarez; B. Wills,,120,60
+Cambodia,Tropical seasonal forest/Savanna,Olive Oil,440,,180,12.00471,103.2024,,selectively logged forest,560,46,2488,24.4,A.S.Suarez; B. Wills,,320,80
+Cambodia,Tropical seasonal forest/Savanna,Salt,83,,181,12.150661,103.19118,,secondary forest,525,48,2278,24.4,A.S.Suarez; B. Wills,,32,60
+Cambodia,Tropical seasonal forest/Savanna,Salt,83,,180,12.00471,103.2024,,selectively logged forest,560,46,2488,24.4,A.S.Suarez; B. Wills,,51,60
+Cambodia,Tropical rainforest,Cookie,288,,182,11.88546,103.07561,,edge of open meadow and selectively logged forest,475,26,3037,25.1,A.S.Suarez; B. Wills,,288,80
+Cambodia,Tropical rainforest,Sugar,607,,182,11.88546,103.07561,,edge of open meadow and selectively logged forest,475,26,3037,25.1,A.S.Suarez; B. Wills,,607,80
+Cambodia,Tropical rainforest,Water,0,,182,11.88546,103.07561,,edge of open meadow and selectively logged forest,475,26,3037,25.1,A.S.Suarez; B. Wills,,0,0
+Cambodia,Tropical rainforest,Olive Oil,270,,182,11.88546,103.07561,,edge of open meadow and selectively logged forest,475,26,3037,25.1,A.S.Suarez; B. Wills,,270,60
+Cambodia,Tropical rainforest,Salt,94,,182,11.88546,103.07561,,edge of open meadow and selectively logged forest,475,26,3037,25.1,A.S.Suarez; B. Wills,,94,100
+Democratic republic of Congo,Tropical seasonal forest/Savanna,Amino Acids,50,,163,0.78084,24.52059,,Primary forest. mixed type. Yangambi reserve,484,1666,1765,24.7,Le Ponce Delsinne,,50,20
+Democratic republic of Congo,Tropical seasonal forest/Savanna,Cookie,9,,163,0.78084,24.52059,,Primary forest. mixed type. Yangambi reserve,484,1666,1765,24.7,Le Ponce Delsinne,,9,60
+Democratic republic of Congo,Tropical seasonal forest/Savanna,Sugar,63,,163,0.78084,24.52059,,Primary forest. mixed type. Yangambi reserve,484,1666,1765,24.7,Le Ponce Delsinne,,63,60
+Democratic republic of Congo,Tropical seasonal forest/Savanna,Water,2,,163,0.78084,24.52059,,Primary forest. mixed type. Yangambi reserve,484,1666,1765,24.7,Le Ponce Delsinne,,2,20
+Democratic republic of Congo,Tropical seasonal forest/Savanna,Olive Oil,37,,163,0.78084,24.52059,,Primary forest. mixed type. Yangambi reserve,484,1666,1765,24.7,Le Ponce Delsinne,,37,80
+Democratic republic of Congo,Tropical seasonal forest/Savanna,Salt,46,,163,0.78084,24.52059,,Primary forest. mixed type. Yangambi reserve,484,1666,1765,24.7,Le Ponce Delsinne,,46,40
+Uganda,Temperate seasonal forest,Amino Acids,1,,242,0.56164,30.35655,,rainforest,1500,1174,1436,19.5,C.S. Moreau; A.S. Suarez,,1,20
+Uganda,Temperate seasonal forest,Amino Acids,1,,241,0.56437,30.36059,,secondary rainforest,1500,1152,1436,19.5,C.S. Moreau; A.S. Suarez,,0,0
+Uganda,Temperate seasonal forest,Cookie,145,,242,0.56164,30.35655,,rainforest,1500,1174,1436,19.5,C.S. Moreau; A.S. Suarez,,88,80
+Uganda,Temperate seasonal forest,Cookie,145,,241,0.56437,30.36059,,secondary rainforest,1500,1152,1436,19.5,C.S. Moreau; A.S. Suarez,,57,100
+Uganda,Temperate seasonal forest,Sugar,133,,242,0.56164,30.35655,,rainforest,1500,1174,1436,19.5,C.S. Moreau; A.S. Suarez,,102,80
+Uganda,Temperate seasonal forest,Sugar,133,,241,0.56437,30.36059,,secondary rainforest,1500,1152,1436,19.5,C.S. Moreau; A.S. Suarez,,31,60
+Uganda,Temperate seasonal forest,Water,26,,242,0.56164,30.35655,,rainforest,1500,1174,1436,19.5,C.S. Moreau; A.S. Suarez,,24,60
+Uganda,Temperate seasonal forest,Water,26,,241,0.56437,30.36059,,secondary rainforest,1500,1152,1436,19.5,C.S. Moreau; A.S. Suarez,,2,20
+Uganda,Temperate seasonal forest,Olive Oil,321,,242,0.56164,30.35655,,rainforest,1500,1174,1436,19.5,C.S. Moreau; A.S. Suarez,,97,100
+Uganda,Temperate seasonal forest,Olive Oil,321,,241,0.56437,30.36059,,secondary rainforest,1500,1152,1436,19.5,C.S. Moreau; A.S. Suarez,,224,100
+Uganda,Temperate seasonal forest,Salt,171,,242,0.56164,30.35655,,rainforest,1500,1174,1436,19.5,C.S. Moreau; A.S. Suarez,,94,80
+Uganda,Temperate seasonal forest,Salt,171,,241,0.56437,30.36059,,secondary rainforest,1500,1152,1436,19.5,C.S. Moreau; A.S. Suarez,,77,60
+Peru,Tropical rainforest,Amino Acids,22,,2,-12.84,-69.29,,Rain forest,206,506,2492,25.3,Rodriguez,Tambopata,22,100
+Peru,Tropical rainforest,Cookie,44,,2,-12.84,-69.29,,Rain forest,206,506,2492,25.3,Rodriguez,Tambopata,44,80
+Peru,Tropical rainforest,Sugar,60,,2,-12.84,-69.29,,Rain forest,206,506,2492,25.3,Rodriguez,Tambopata,60,80
+Peru,Tropical rainforest,Water,28,,2,-12.84,-69.29,,Rain forest,206,506,2492,25.3,Rodriguez,Tambopata,28,100
+Peru,Tropical rainforest,Olive Oil,188,,2,-12.84,-69.29,,Rain forest,206,506,2492,25.3,Rodriguez,Tambopata,188,100
+Peru,Tropical rainforest,Salt,132,,2,-12.84,-69.29,,Rain forest,206,506,2492,25.3,Rodriguez,Tambopata,132,80
+Laos,Tropical rainforest,Amino Acids,2,,162,17.9943,104.81932,,Primary Forest,247,143,2760,24.3,Le Ponce Delsinne,,2,20
+Laos,Tropical rainforest,Cookie,50,,162,17.9943,104.81932,,Primary Forest,247,143,2760,24.3,Le Ponce Delsinne,,50,100
+Laos,Tropical rainforest,Sugar,489,,162,17.9943,104.81932,,Primary Forest,247,143,2760,24.3,Le Ponce Delsinne,,489,100
+Laos,Tropical rainforest,Water,2,,162,17.9943,104.81932,,Primary Forest,247,143,2760,24.3,Le Ponce Delsinne,,2,40
+Laos,Tropical rainforest,Olive Oil,1514,,162,17.9943,104.81932,,Primary Forest,247,143,2760,24.3,Le Ponce Delsinne,,1514,100
+Laos,Tropical rainforest,Salt,2,,162,17.9943,104.81932,,Primary Forest,247,143,2760,24.3,Le Ponce Delsinne,,2,20
+Malaysia,Tropical rainforest,Amino Acids,398,,207,4.89,115.763,,Primary hill dipterocarp rainforest,810,31,2150,21.9,T. Fayle,,8,40
+Malaysia,Tropical rainforest,Amino Acids,398,,209,4.6639,117.53,,Primary lowland dipterocarp rainforest,305,32,2265,25.7,T. Fayle,,41,80
+Malaysia,Tropical rainforest,Amino Acids,398,,208,4.698,116.908,,Primary lowland dipterocarp rainforest,536,87,2433,24.1,T. Fayle,,1,20
+Malaysia,Tropical rainforest,Amino Acids,398,,210,4.744,116.971,,Primary lowland dipterocarp rainforest,240,82,2533,25.6,T. Fayle,,347,60
+Malaysia,Tropical rainforest,Amino Acids,398,,206,4.948,117.755,,Primary lowland dipterocarp rainforest (steep slope next to river),272,42,2298,25.2,T. Fayle,,1,20
+Malaysia,Tropical rainforest,Cookie,546,,207,4.89,115.763,,Primary hill dipterocarp rainforest,810,31,2150,21.9,T. Fayle,,70,60
+Malaysia,Tropical rainforest,Cookie,546,,209,4.6639,117.53,,Primary lowland dipterocarp rainforest,305,32,2265,25.7,T. Fayle,,161,100
+Malaysia,Tropical rainforest,Cookie,546,,208,4.698,116.908,,Primary lowland dipterocarp rainforest,536,87,2433,24.1,T. Fayle,,98,80
+Malaysia,Tropical rainforest,Cookie,546,,210,4.744,116.971,,Primary lowland dipterocarp rainforest,240,82,2533,25.6,T. Fayle,,116,100
+Malaysia,Tropical rainforest,Cookie,546,,206,4.948,117.755,,Primary lowland dipterocarp rainforest (steep slope next to river),272,42,2298,25.2,T. Fayle,,101,100
+Malaysia,Tropical rainforest,Sugar,495,,207,4.89,115.763,,Primary hill dipterocarp rainforest,810,31,2150,21.9,T. Fayle,,87,100
+Malaysia,Tropical rainforest,Sugar,495,,209,4.6639,117.53,,Primary lowland dipterocarp rainforest,305,32,2265,25.7,T. Fayle,,51,80
+Malaysia,Tropical rainforest,Sugar,495,,208,4.698,116.908,,Primary lowland dipterocarp rainforest,536,87,2433,24.1,T. Fayle,,245,80
+Malaysia,Tropical rainforest,Sugar,495,,210,4.744,116.971,,Primary lowland dipterocarp rainforest,240,82,2533,25.6,T. Fayle,,85,100
+Malaysia,Tropical rainforest,Sugar,495,,206,4.948,117.755,,Primary lowland dipterocarp rainforest (steep slope next to river),272,42,2298,25.2,T. Fayle,,27,60
+Malaysia,Tropical rainforest,Water,56,,207,4.89,115.763,,Primary hill dipterocarp rainforest,810,31,2150,21.9,T. Fayle,,0,0
+Malaysia,Tropical rainforest,Water,56,,209,4.6639,117.53,,Primary lowland dipterocarp rainforest,305,32,2265,25.7,T. Fayle,,6,20
+Malaysia,Tropical rainforest,Water,56,,208,4.698,116.908,,Primary lowland dipterocarp rainforest,536,87,2433,24.1,T. Fayle,,0,0
+Malaysia,Tropical rainforest,Water,56,,210,4.744,116.971,,Primary lowland dipterocarp rainforest,240,82,2533,25.6,T. Fayle,,0,0
+Malaysia,Tropical rainforest,Water,56,,206,4.948,117.755,,Primary lowland dipterocarp rainforest (steep slope next to river),272,42,2298,25.2,T. Fayle,,50,20
+Malaysia,Tropical rainforest,Olive Oil,1963,,207,4.89,115.763,,Primary hill dipterocarp rainforest,810,31,2150,21.9,T. Fayle,,153,80
+Malaysia,Tropical rainforest,Olive Oil,1963,,209,4.6639,117.53,,Primary lowland dipterocarp rainforest,305,32,2265,25.7,T. Fayle,,587,80
+Malaysia,Tropical rainforest,Olive Oil,1963,,208,4.698,116.908,,Primary lowland dipterocarp rainforest,536,87,2433,24.1,T. Fayle,,145,100
+Malaysia,Tropical rainforest,Olive Oil,1963,,210,4.744,116.971,,Primary lowland dipterocarp rainforest,240,82,2533,25.6,T. Fayle,,515,100
+Malaysia,Tropical rainforest,Olive Oil,1963,,206,4.948,117.755,,Primary lowland dipterocarp rainforest (steep slope next to river),272,42,2298,25.2,T. Fayle,,563,100
+Malaysia,Tropical rainforest,Salt,175,,207,4.89,115.763,,Primary hill dipterocarp rainforest,810,31,2150,21.9,T. Fayle,,91,100
+Malaysia,Tropical rainforest,Salt,175,,209,4.6639,117.53,,Primary lowland dipterocarp rainforest,305,32,2265,25.7,T. Fayle,,22,60
+Malaysia,Tropical rainforest,Salt,175,,208,4.698,116.908,,Primary lowland dipterocarp rainforest,536,87,2433,24.1,T. Fayle,,46,80
+Malaysia,Tropical rainforest,Salt,175,,210,4.744,116.971,,Primary lowland dipterocarp rainforest,240,82,2533,25.6,T. Fayle,,13,60
+Malaysia,Tropical rainforest,Salt,175,,206,4.948,117.755,,Primary lowland dipterocarp rainforest (steep slope next to river),272,42,2298,25.2,T. Fayle,,3,20
+Costa Rica,Tropical rainforest,Amino Acids,14,,12,10.25,-84,,Tropical forest,50,80,3917,23.9,McGlynn,La Selva,14,40
+Costa Rica,Tropical seasonal forest/Savanna,Amino Acids,6,,268,10.83,-85.62,,Old secondary-growth tropical dry forest,290,7,1737,25.1,EG Pringle,Santa Rosa,3,20
+Costa Rica,Tropical seasonal forest/Savanna,Amino Acids,6,,184,10.84288889,-85.61588889,,Dry forest,293,9,1724,24.9,C.S. Moreau,,3,40
+Costa Rica,Tropical seasonal forest/Savanna,Amino Acids,6,,183,10.77988889,-85.6625,,Dry forest near mangrove,6,1,1683,25.6,C.S. Moreau,,0,0
+Costa Rica,Tropical rainforest,Cookie,3,,12,10.25,-84,,Tropical forest,50,80,3917,23.9,McGlynn,La Selva,3,60
+Costa Rica,Tropical rainforest,Sugar,2,,12,10.25,-84,,Tropical forest,50,80,3917,23.9,McGlynn,La Selva,2,40
+Costa Rica,Tropical rainforest,Water,0,,12,10.25,-84,,Tropical forest,50,80,3917,23.9,McGlynn,La Selva,0,0
+Costa Rica,Tropical rainforest,Olive Oil,59,,12,10.25,-84,,Tropical forest,50,80,3917,23.9,McGlynn,La Selva,59,60
+Costa Rica,Tropical rainforest,Salt,22,,12,10.25,-84,,Tropical forest,50,80,3917,23.9,McGlynn,La Selva,22,40
+Costa Rica,Tropical seasonal forest/Savanna,Cookie,112,,268,10.83,-85.62,,Old secondary-growth tropical dry forest,290,7,1737,25.1,EG Pringle,Santa Rosa,56,40
+Costa Rica,Tropical seasonal forest/Savanna,Cookie,112,,184,10.84288889,-85.61588889,,Dry forest,293,9,1724,24.9,C.S. Moreau,,33,60
+Costa Rica,Tropical seasonal forest/Savanna,Cookie,112,,183,10.77988889,-85.6625,,Dry forest near mangrove,6,1,1683,25.6,C.S. Moreau,,23,80
+Costa Rica,Tropical seasonal forest/Savanna,Sugar,532,,268,10.83,-85.62,,Old secondary-growth tropical dry forest,290,7,1737,25.1,EG Pringle,Santa Rosa,260,60
+Costa Rica,Tropical seasonal forest/Savanna,Sugar,532,,184,10.84288889,-85.61588889,,Dry forest,293,9,1724,24.9,C.S. Moreau,,119,100
+Costa Rica,Tropical seasonal forest/Savanna,Sugar,532,,183,10.77988889,-85.6625,,Dry forest near mangrove,6,1,1683,25.6,C.S. Moreau,,153,100
+Costa Rica,Tropical seasonal forest/Savanna,Water,31,,268,10.83,-85.62,,Old secondary-growth tropical dry forest,290,7,1737,25.1,EG Pringle,Santa Rosa,1,20
+Costa Rica,Tropical seasonal forest/Savanna,Water,31,,184,10.84288889,-85.61588889,,Dry forest,293,9,1724,24.9,C.S. Moreau,,30,40
+Costa Rica,Tropical seasonal forest/Savanna,Water,31,,183,10.77988889,-85.6625,,Dry forest near mangrove,6,1,1683,25.6,C.S. Moreau,,0,0
+Costa Rica,Tropical seasonal forest/Savanna,Olive Oil,1950,,268,10.83,-85.62,,Old secondary-growth tropical dry forest,290,7,1737,25.1,EG Pringle,Santa Rosa,1139,60
+Costa Rica,Tropical seasonal forest/Savanna,Olive Oil,1950,,184,10.84288889,-85.61588889,,Dry forest,293,9,1724,24.9,C.S. Moreau,,495,100
+Costa Rica,Tropical seasonal forest/Savanna,Olive Oil,1950,,183,10.77988889,-85.6625,,Dry forest near mangrove,6,1,1683,25.6,C.S. Moreau,,316,100
+Costa Rica,Tropical seasonal forest/Savanna,Salt,48,,268,10.83,-85.62,,Old secondary-growth tropical dry forest,290,7,1737,25.1,EG Pringle,Santa Rosa,3,40
+Costa Rica,Tropical seasonal forest/Savanna,Salt,48,,184,10.84288889,-85.61588889,,Dry forest,293,9,1724,24.9,C.S. Moreau,,3,20
+Costa Rica,Tropical seasonal forest/Savanna,Salt,48,,183,10.77988889,-85.6625,,Dry forest near mangrove,6,1,1683,25.6,C.S. Moreau,,42,20
