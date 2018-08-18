@@ -2,6 +2,10 @@
 title: 'Playing with the Ant Picnic dataset'
 author: Jose R. Martínez Batlle
 date: "August, 2018"
+header-includes:
+  \usepackage{pdflscape}
+  \newcommand{\blandscape}{\begin{landscape}}
+  \newcommand{\elandscape}{\end{landscape}}
 output:
   pdf_document
     # toc: true
@@ -17,38 +21,186 @@ output:
 knitr::opts_chunk$set(echo = TRUE, tidy=TRUE)
 ```
 
-# Packages and scripts
+## Ant Picnic
+- Project leader: Dr. Magdalena Sorger, https://theantlife.com/ and Kristin Bedell
+- Project URL: http://studentsdiscover.org/lesson/ant-picnic/
+- Data analysis page: http://studentsdiscover.org/lesson/ant-picnic-data-analysis/
+- Source data: https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=35710
 
-## Packages
+## Packages and scripts
+
+### Packages
 ```{r, message=FALSE, warning=FALSE, tidy=TRUE}
 library(dplyr) #Organize data
 library(ez) #ezCor function, compute an plot correlation matrix
 library(devtools) #For R packages, R scripts
 library(gclus) #For order.single function
+library(ggplot2) #For plots
+library(tidyr) #For data organizing
 ```
 
-## Scripts
+### Scripts
 ```{r, message=FALSE, warning=FALSE, tidy=TRUE}
-scripts.others <- c(
-  'panelutils.R', #Correlation coefficients upper panel
-  'coldiss.R' #Color plots of a dissimilarity matrix, without and with ordering
+scripts.others <- 'panelutils.R' #Correlation coefficients upper panel
+ghsource.others <- 'https://raw.githubusercontent.com/JoeyBernhardt/NumericalEcology/master/'
+invisible(
+  source_url(
+    paste0(
+      ghsource.others,
+      scripts.others)
+    )
   )
-ghsource.others <- paste('https://raw.githubusercontent.com/JoeyBernhardt/NumericalEcology/master/')
-invisible(sapply(
-    scripts.others,
-    function(x) source_url(paste0(ghsource.others, x))
-    ))
 ```
 
-# Reading the data
+## Reading the data
 ```{r readdata, tidy=FALSE}
-#Reading source data. CSV file downloaded from: https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=35710
+#Reading source data. CSV file downloaded from
+#https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=35710
 tdir <- tempdir()
 setwd(tdir)
-ghsource <- paste('https://raw.githubusercontent.com/geofis/antpicnic/master/')
+ghsource <- 'https://raw.githubusercontent.com/geofis/antpicnic/master/'
 fname <- 'antpicnic.csv'
 download.file(paste0(ghsource, 'sampledata/', fname), fname)
 d <- read.csv(fname)
-
+str(d)
+N <- nrow(d)
+set.seed(131)
+d[sample(1:N,10),1:4]
 ```
 &nbsp;
+## Selected variables
+```{r selvars, tidy=FALSE}
+d.sel <- d %>% select(
+  Country:Bait_Type,
+  Latitude:Temperature,
+  -Habitat_type,
+  -Date,
+  Number_of_Ants)
+set.seed(131)
+d.sel[sample(1:N,10),1:4]
+```
+&nbsp;
+## Environmental variables and number of ants, by country
+```{r basics.country.bp, message=FALSE, warning=FALSE, tidy=FALSE, fig.width=8, fig.height=8}
+basics.country.bp <- d.sel %>% gather(variable,value,-Country,-Biome,-Bait_Type) %>%
+  mutate(Country=abbreviate(Country,8)) %>% 
+  ggplot(aes(x=Country, y=value)) +
+  geom_boxplot() +
+  theme(
+    text = element_text(size = 12),
+    axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)
+    ) +
+  facet_wrap(variable~., scales = 'free_y', nrow=3)
+```
+
+\newpage
+\newgeometry{margin=0.1in, top=0.1in, headheight=0.0in, footskip=0.2in, includehead, includefoot}
+\blandscape
+```{r basics.country.bp2, echo=FALSE, tidy=FALSE, out.width='0.95\\paperheight', fig.width=11, fig.height=8, fig.align='center'}
+#Box-Plots of variables by country
+basics.country.bp
+```
+\elandscape
+\restoregeometry
+
+&nbsp;
+## Environmental variables and number of ants, by biome
+```{r basics.biome.bp, message=FALSE, warning=FALSE, tidy=FALSE, fig.width=8, fig.height=8}
+basics.biome.bp <- d.sel %>% gather(variable,value,-Country,-Biome,-Bait_Type) %>%
+  ggplot(aes(x=Biome, y=value)) +
+  geom_boxplot() +
+  theme(
+    text = element_text(size = 12),
+    axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)
+    ) +
+  facet_wrap(variable~., scales = 'free_y', nrow=3)
+```
+
+\newpage
+\newgeometry{margin=0.1in, top=0.1in, headheight=0.0in, footskip=0.2in, includehead, includefoot}
+\blandscape
+```{r basics.biome.bp2, echo=FALSE, tidy=FALSE, out.width='0.95\\paperheight', fig.width=11, fig.height=8, fig.align='center'}
+#Box-Plots of variables by country
+basics.biome.bp
+```
+\elandscape
+\restoregeometry
+
+## Number of ants, by bait type
+```{r basics.bait.bp, message=FALSE, warning=FALSE, tidy=FALSE, fig.width=8}
+basics.bait.bp <- d.sel %>%
+  select(Bait_Type, Number_of_Ants) %>%
+  mutate(Number_of_Ants_log1p = log1p(Number_of_Ants)) %>% 
+  gather(variable,value,-Bait_Type) %>% 
+  ggplot(aes(x=Bait_Type, y=value)) +
+  geom_boxplot() +
+  theme(
+    text = element_text(size = 12),
+    axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)
+    ) +
+  facet_wrap(variable~., scales = 'free_y', ncol = 2)
+basics.bait.bp
+```
+&nbsp;
+## Data frame for correlation analysis
+```{r, tidy=FALSE}
+d.fcor <- d.sel %>% select_if(is.numeric)
+set.seed(131)
+d.fcor[sample(1:N,10),1:5]
+d.fcor.o <- order.single(cor(d.fcor)) #Ordered according to r value
+```
+&nbsp;
+## Data frame for correlation analysis with transformed variables
+```{r, tidy=FALSE}
+d.fcor.l <- d.fcor %>%
+  mutate(
+    Latitude=abs(Latitude),
+    Longitude=abs(Longitude)) %>%
+  mutate_all(., funs(log1p))
+set.seed(131)
+d.fcor.l[sample(1:N,10),1:5]
+d.fcor.l.o <- order.single(cor(d.fcor.l))
+```
+&nbsp;
+## Correlation panel using ez package
+```{r corpanez, message=FALSE, warning=FALSE, tidy=FALSE, fig.width=8, fig.height=6}
+ezCor(
+  d.fcor,
+  r_size_lims = c(4,9),
+  label_size = 3) +
+  labs(title="Environmental variables correlation panel")
+```
+&nbsp;
+## Correlation panel of raw variables using pairs function and panelutils.R script
+```{r corpan, message=FALSE, warning=FALSE, tidy=FALSE, fig.width=8, fig.height=8}
+#Pearson
+pairs(d.fcor[,d.fcor.o],
+      lower.panel = panel.smooth,
+      upper.panel = panel.cor,
+      diag.panel = panel.hist,
+      main = "Pearson Correlation Panel")
+#Spearman
+pairs(d.fcor[,d.fcor.o],
+      lower.panel = panel.smooth,
+      upper.panel = panel.cor,
+      diag.panel = panel.hist,
+      method = 'spearman',
+      main = "Spearman Correlation Panel")
+```
+&nbsp;
+## Correlation panel of log-transformed variables using pairs function and panelutils.R script
+```{r corpanl, message=FALSE, warning=FALSE, tidy=FALSE, fig.width=8, fig.height=8}
+#Pearson
+pairs(d.fcor.l[,d.fcor.l.o],
+  lower.panel = panel.smooth,
+  upper.panel = panel.cor,
+  diag.panel = panel.hist,
+  main = "Pearson Correlation Panel (log1p)")
+#Spearman
+pairs(d.fcor.l[,d.fcor.l.o],
+      lower.panel = panel.smooth,
+      upper.panel = panel.cor,
+      diag.panel = panel.hist,
+      method = 'spearman',
+      main = "Spearman Correlation Panel (log1p)")
+```
