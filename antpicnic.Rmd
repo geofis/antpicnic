@@ -40,9 +40,15 @@ invisible(sapply(
     ))
 ```
 
-# Correlation matrices
+# Reading the data
 ```{r readdata, tidy=FALSE}
 #Reading source data. CSV file downloaded from: https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=35710
+tdir <- tempdir()
+setwd(tdir)
+ghsource <- paste('https://raw.githubusercontent.com/geofis/antpicnic/master/')
+fname <- 'antpicnic.csv'
+download.file(paste0(ghsource, 'sampledata/', fname), fname)
+d <- read.csv(fname)
 
 ```
 &nbsp;
